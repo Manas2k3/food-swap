@@ -1,0 +1,2276 @@
+{
+  "foods": [
+    {
+      "name": "apple_pie",
+      "nutritional_info": {
+        "Calories": 296,
+        "Carbohydrates": "43 g",
+        "Protein": "2 g",
+        "Fats": {
+          "Total": "14 g",
+          "Saturated": "5 g",
+          "Unsaturated": "~9 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "20 g",
+        "Fiber": "2 g",
+        "Cholesterol": "0 mg",
+        "Sodium": "251 mg",
+        "Vitamin A": "40 µg",
+        "Vitamin C": "4 mg",
+        "Calcium": "14 mg",
+        "Iron": "1 mg"
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "baby_back_ribs",
+      "nutritional_info": {
+        "Calories": 290,
+        "Carbohydrates": "5 g",
+        "Protein": "23 g",
+        "Fats": {
+          "Total": "20 g",
+          "Saturated": "7 g",
+          "Unsaturated": "~13 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "0 g",
+        "Fiber": "0 g",
+        "Cholesterol": "90 mg",
+        "Sodium": "610 mg",
+        "Vitamin A": "0 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "0 mg",
+        "Iron": "0 mg"
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "baklava",
+      "nutritional_info": {
+        "Calories": 428,
+        "Carbohydrates": "37.53 g",
+        "Protein": "6.64 g",
+        "Fats": {
+          "Total": "29.13 g",
+          "Saturated": "12.23 g",
+          "Unsaturated": "~16.9 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "12.67 g",
+        "Fiber": "2.6 g",
+        "Cholesterol": "45 mg",
+        "Sodium": "337 mg",
+        "Vitamin A": "0 µg",
+        "Vitamin C": "1.3 mg",
+        "Calcium": "40 mg",
+        "Iron": "1.98 mg"
+      },
+      "source": "2000kcal.cz"
+    },
+    {
+      "name": "beef_carpaccio",
+      "nutritional_info": {
+        "Calories": 119,
+        "Carbohydrates": "0 g",
+        "Protein": "22.3 g",
+        "Fats": {
+          "Total": "2.62 g",
+          "Saturated": "0.898 g",
+          "Unsaturated": "~1.72 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "0 g",
+        "Fiber": "0 g",
+        "Cholesterol": "36 mg",
+        "Sodium": "62 mg",
+        "Vitamin A": "0 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "22 mg",
+        "Iron": "1.92 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "beef_tartare",
+      "nutritional_info": {
+        "Calories": 210,
+        "Carbohydrates": "0.63 g",
+        "Protein": "17.78 g",
+        "Fats": {
+          "Total": "14.56 g",
+          "Saturated": "5.64 g",
+          "Unsaturated": "~8.92 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "0 g",
+        "Fiber": "0 g",
+        "Cholesterol": "105 mg",
+        "Sodium": "120 mg",
+        "Vitamin A": "13 µg",
+        "Vitamin C": "0.3 mg",
+        "Calcium": "23 mg",
+        "Iron": "2.06 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "beet_salad",
+      "nutritional_info": {
+        "Calories": 67,
+        "Carbohydrates": "14 g",
+        "Protein": "1.8 g",
+        "Fats": {
+          "Total": "0 g",
+          "Saturated": "0 g",
+          "Unsaturated": "0 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "13.5 g",
+        "Fiber": "0.7 g",
+        "Cholesterol": "0 mg",
+        "Sodium": "1 mg",
+        "Vitamin A": "0 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "N/A",
+        "Iron": "N/A"
+      },
+      "source": "fatsecret.co.za"
+    },
+    {
+      "name": "beignets",
+      "nutritional_info": {
+        "Calories": 110,
+        "Carbohydrates": "12 g",
+        "Protein": "2 g",
+        "Fats": {
+          "Total": "7 g",
+          "Saturated": "2 g",
+          "Unsaturated": "~5 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "0 g",
+        "Fiber": "0 g",
+        "Cholesterol": "10 mg",
+        "Sodium": "65 mg",
+        "Vitamin A": "0 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "118 mg",
+        "Iron": "3 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "bibimbap",
+      "nutritional_info": {
+        "Calories": 128,
+        "Carbohydrates": "13.5 g",
+        "Protein": "8.7 g",
+        "Fats": {
+          "Total": "4.6 g",
+          "Saturated": "1.1 g",
+          "Unsaturated": "~3.5 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "2.4 g",
+        "Fiber": "1.6 g",
+        "Cholesterol": "19.4 mg",
+        "Sodium": "683.6 mg",
+        "Vitamin A": "0 µg",
+        "Vitamin C": "8.9 mg",
+        "Calcium": "53.5 mg",
+        "Iron": "2.2 mg"
+      },
+      "source": "tools.myfooddata.com"
+    },
+    {
+      "name": "bread_pudding",
+      "nutritional_info": {
+        "Calories": 153,
+        "Carbohydrates": "23.26 g",
+        "Protein": "5.27 g",
+        "Fats": {
+          "Total": "4.74 g",
+          "Saturated": "1.65 g",
+          "Unsaturated": "~3.09 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "14.72 g",
+        "Fiber": "0.9 g",
+        "Cholesterol": "62 mg",
+        "Sodium": "236 mg",
+        "Vitamin A": "65 µg",
+        "Vitamin C": "0.3 mg",
+        "Calcium": "119 mg",
+        "Iron": "1.2 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "breakfast_burrito",
+      "nutritional_info": {
+        "Calories": 202,
+        "Carbohydrates": "11.89 g",
+        "Protein": "10.72 g",
+        "Fats": {
+          "Total": "12.3 g",
+          "Saturated": "5.35 g",
+          "Unsaturated": "~6.95 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "1.74 g",
+        "Fiber": "0.8 g",
+        "Cholesterol": "177 mg",
+        "Sodium": "370 mg",
+        "Vitamin A": "108 µg",
+        "Vitamin C": "2.4 mg",
+        "Calcium": "175 mg",
+        "Iron": "1.48 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "bruschetta",
+      "nutritional_info": {
+        "Calories": 70,
+        "Carbohydrates": "5 g",
+        "Protein": "1 g",
+        "Fats": {
+          "Total": "5 g",
+          "Saturated": "0.5 g",
+          "Unsaturated": "~4.5 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "3 g",
+        "Fiber": "1 g",
+        "Cholesterol": "0 mg",
+        "Sodium": "0 mg",
+        "Vitamin A": "0 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "0 mg",
+        "Iron": "0 mg"
+      },
+      "source": "nutritionvalue.org"
+    },
+    {
+      "name": "caesar_salad",
+      "nutritional_info": {
+        "Calories": 170,
+        "Carbohydrates": "6.52 g",
+        "Protein": "5.03 g",
+        "Fats": {
+          "Total": "14.17 g",
+          "Saturated": "2.656 g",
+          "Unsaturated": "~11.514 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "1.28 g",
+        "Fiber": "1.5 g",
+        "Cholesterol": "40 mg",
+        "Sodium": "259 mg",
+        "Vitamin A": "193 µg",
+        "Vitamin C": "16.8 mg",
+        "Calcium": "86 mg",
+        "Iron": "1.25 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "cannoli",
+      "nutritional_info": {
+        "Calories": 254,
+        "Carbohydrates": "28.84 g",
+        "Protein": "8.7 g",
+        "Fats": {
+          "Total": "11.04 g",
+          "Saturated": "5.459 g",
+          "Unsaturated": "~5.581 g",
+          "Trans": "0.008 g"
+        },
+        "Sugars": "10.96 g",
+        "Fiber": "0.7 g",
+        "Cholesterol": "38 mg",
+        "Sodium": "50 mg",
+        "Vitamin A": "71 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "123 mg",
+        "Iron": "1.31 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "caprese_salad",
+      "nutritional_info": {
+        "Calories": 177,
+        "Carbohydrates": "3.51 g",
+        "Protein": "10.5 g",
+        "Fats": {
+          "Total": "13.7 g",
+          "Saturated": "6.396 g",
+          "Unsaturated": "~7.304 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "1.66 g",
+        "Fiber": "1 g",
+        "Cholesterol": "35 mg",
+        "Sodium": "399 mg",
+        "Vitamin A": "165 µg",
+        "Vitamin C": "8.8 mg",
+        "Calcium": "100 mg",
+        "Iron": "0.9 mg"
+      },
+      "source": "fatsecret.co.za"
+    },
+    {
+      "name": "carrot_cake",
+      "nutritional_info": {
+        "Calories": 408,
+        "Carbohydrates": "52.96 g",
+        "Protein": "3.86 g",
+        "Fats": {
+          "Total": "20.88 g",
+          "Saturated": "3.851 g",
+          "Unsaturated": "~17.03 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "37.31 g",
+        "Fiber": "2.5 g",
+        "Cholesterol": "60 mg",
+        "Sodium": "184 mg",
+        "Vitamin A": "179 µg",
+        "Vitamin C": "0.9 mg",
+        "Calcium": "58 mg",
+        "Iron": "1.29 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "ceviche",
+      "nutritional_info": {
+        "Calories": 69,
+        "Carbohydrates": "3.68 g",
+        "Protein": "11.5 g",
+        "Fats": {
+          "Total": "0.79 g",
+          "Saturated": "0.116 g",
+          "Unsaturated": "0.674 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "0 g",
+        "Fiber": "0 g",
+        "Cholesterol": "20 mg",
+        "Sodium": "130 mg",
+        "Vitamin A": "34 µg",
+        "Vitamin C": "29 mg",
+        "Calcium": "25 mg",
+        "Iron": "0.2 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "cheeseburger",
+      "nutritional_info": {
+        "Calories": 313,
+        "Carbohydrates": "31.13 g",
+        "Protein": "14.48 g",
+        "Fats": {
+          "Total": "14.85 g",
+          "Saturated": "6.34 g",
+          "Unsaturated": "~8.51 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "0 g",
+        "Fiber": "0 g",
+        "Cholesterol": "49 mg",
+        "Sodium": "490 mg",
+        "Vitamin A": "45 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "138 mg",
+        "Iron": "2.39 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "cheesesteak",
+      "nutritional_info": {
+        "Calories": 750,
+        "Carbohydrates": "53 g",
+        "Protein": "45 g",
+        "Fats": {
+          "Total": "41 g",
+          "Saturated": "15 g",
+          "Unsaturated": "26 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "0 g",
+        "Fiber": "4 g",
+        "Cholesterol": "135 mg",
+        "Sodium": "2190 mg",
+        "Vitamin A": "0 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "0 mg",
+        "Iron": "0 mg"
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "chicken_curry",
+      "nutritional_info": {
+        "Calories": 124,
+        "Carbohydrates": "4.74 g",
+        "Protein": "11.47 g",
+        "Fats": {
+          "Total": "6.67 g",
+          "Saturated": "2.2 g",
+          "Unsaturated": "~4.47 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "0 g",
+        "Fiber": "0 g",
+        "Cholesterol": "35 mg",
+        "Sodium": "484 mg",
+        "Vitamin A": "63 µg",
+        "Vitamin C": "5.1 mg",
+        "Calcium": "17 mg",
+        "Iron": "0.94 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "chicken_wings",
+      "nutritional_info": {
+        "Calories": 318,
+        "Carbohydrates": "0 g",
+        "Protein": "27.01 g",
+        "Fats": {
+          "Total": "22.62 g",
+          "Saturated": "6.3 g",
+          "Unsaturated": "16.32 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "0 g",
+        "Fiber": "0 g",
+        "Cholesterol": "109 mg",
+        "Sodium": "429 mg",
+        "Vitamin A": "49 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "17 mg",
+        "Iron": "1.26 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "chocolate_mousse",
+      "nutritional_info": {
+        "Calories": 209,
+        "Carbohydrates": "16.1 g",
+        "Protein": "4.16 g",
+        "Fats": {
+          "Total": "15.11 g",
+          "Saturated": "8.676 g",
+          "Unsaturated": "~6.434 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "14.68 g",
+        "Fiber": "0.6 g",
+        "Cholesterol": "138 mg",
+        "Sodium": "39 mg",
+        "Vitamin A": "150 µg",
+        "Vitamin C": "0.2 mg",
+        "Calcium": "98 mg",
+        "Iron": "0.54 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "chocolate_cake",
+      "nutritional_info": {
+        "Calories": 367,
+        "Carbohydrates": "54.6 g",
+        "Protein": "4.1 g",
+        "Fats": {
+          "Total": "16.4 g",
+          "Saturated": "4.77 g",
+          "Unsaturated": "~11.63 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "data not given",
+        "Fiber": "0.4 g",
+        "Cholesterol": "42 mg",
+        "Sodium": "334 mg",
+        "Vitamin A": "26 µg",
+        "Vitamin C": "0.1 mg",
+        "Calcium": "43 mg",
+        "Iron": "2.2 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "chocolate_ice_cream",
+      "nutritional_info": {
+               "Calories": 216,
+        "Carbohydrates": "28.2 g",
+        "Protein": "3.8 g",
+        "Fats": {
+          "Total": "11 g",
+          "Saturated": "6.8 g",
+          "Unsaturated": "4.2 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "not listed, ~24 g",
+        "Fiber": "0 g",
+        "Cholesterol": "34 mg",
+        "Sodium": "76 mg",
+        "Vitamin A": "118 µg",
+        "Vitamin C": "0.7 mg",
+        "Calcium": "109 mg",
+        "Iron": "0.93 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "chocolate_truffles",
+      "nutritional_info": {
+        "Calories": 491,
+        "Carbohydrates": "43.71 g",
+        "Protein": "6.08 g",
+        "Fats": {
+          "Total": "32.68 g",
+          "Saturated": "17.303 g",
+          "Unsaturated": "~15.377 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "37.31 g",
+        "Fiber": "2.5 g",
+        "Cholesterol": "56 mg",
+        "Sodium": "80 mg",
+        "Vitamin A": "155 µg",
+        "Vitamin C": "0.2 mg",
+        "Calcium": "154 mg",
+        "Iron": "1.71 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "clam_chowder",
+      "nutritional_info": {
+        "Calories": 67,
+        "Carbohydrates": "7.79 g",
+        "Protein": "3.62 g",
+        "Fats": {
+          "Total": "2.39 g",
+          "Saturated": "0.959 g",
+          "Unsaturated": "~1.431 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "0 g",
+        "Fiber": "0.4 g",
+        "Cholesterol": "7 mg",
+        "Sodium": "469 mg",
+        "Vitamin A": "29 µg",
+        "Vitamin C": "2.2 mg",
+        "Calcium": "11 mg",
+        "Iron": "0.34 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "club_sandwich",
+      "nutritional_info": {
+        "Calories": 253,
+        "Carbohydrates": "17 g",
+        "Protein": "14 g",
+        "Fats": {
+          "Total": "13 g",
+          "Saturated": "0 g",
+          "Unsaturated": "13 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "0 g",
+        "Fiber": "0 g",
+        "Cholesterol": "0 mg",
+        "Sodium": "0 mg",
+        "Vitamin A": "0 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "0 mg",
+        "Iron": "0 mg"
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "crab_cakes",
+      "nutritional_info": {
+        "Calories": 168,
+        "Carbohydrates": "0.67 g",
+        "Protein": "22.23 g",
+        "Fats": {
+          "Total": "7.98 g",
+          "Saturated": "1.47 g",
+          "Unsaturated": "~6.51 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "0.04 g",
+        "Fiber": "0 g",
+        "Cholesterol": "151 mg",
+        "Sodium": "344 mg",
+        "Vitamin A": "70 µg",
+        "Vitamin C": "3 mg",
+        "Calcium": "114 mg",
+        "Iron": "1.16 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "crepe",
+      "nutritional_info": {
+        "Calories": 224,
+        "Carbohydrates": "21.66 g",
+        "Protein": "8.76 g",
+        "Fats": {
+          "Total": "11.08 g",
+          "Saturated": "1.996 g",
+          "Unsaturated": "~9.084 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "4.85 g",
+        "Fiber": "0.6 g",
+        "Cholesterol": "156 mg",
+        "Sodium": "284 mg",
+        "Vitamin A": "77 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "91 mg",
+        "Iron": "1.72 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "cup_cakes",
+      "nutritional_info": {
+        "Calories": 369,
+        "Carbohydrates": "67.64 g",
+        "Protein": "2.84 g",
+        "Fats": {
+          "Total": "10.93 g",
+          "Saturated": "2.722 g",
+          "Unsaturated": "7.605 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "53.52 g",
+        "Fiber": "1.1 g",
+        "Cholesterol": "21 mg",
+        "Sodium": "318 mg",
+        "Vitamin A": "72 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "73 mg",
+        "Iron": "1.71 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "deviled_eggs",
+      "nutritional_info": {
+        "Calories": 201,
+        "Carbohydrates": "1.35 g",
+        "Protein": "11.57 g",
+        "Fats": {
+          "Total": "16.23 g",
+          "Saturated": "4.7 g",
+          "Unsaturated": "11.53 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "1.3 g",
+        "Fiber": "0 g",
+        "Cholesterol": "144 mg",
+        "Sodium": "102 mg",
+        "Vitamin A": "161 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "47 mg",
+        "Iron": "1.13 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "donuts",
+      "nutritional_info": {
+        "Calories": 412,
+        "Carbohydrates": "47 g",
+        "Protein": "5.7 g",
+        "Fats": {
+          "Total": "22.85 g",
+          "Saturated": "4.719 g",
+          "Unsaturated": "18.131 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "23.1 g",
+        "Fiber": "1.4 g",
+        "Cholesterol": "22 mg",
+        "Sodium": "444 mg",
+        "Vitamin A": "21 µg",
+        "Vitamin C": "0.2 mg",
+        "Calcium": "44 mg",
+        "Iron": "2 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "dumplings",
+      "nutritional_info": {
+        "Calories": 124,
+        "Carbohydrates": "20.22 g",
+        "Protein": "3.3 g",
+        "Fats": {
+          "Total": "3.21 g",
+          "Saturated": "0.694 g",
+          "Unsaturated": "2.516 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "1.29 g",
+        "Fiber": "0.7 g",
+        "Cholesterol": "2 mg",
+        "Sodium": "428 mg",
+        "Vitamin A": "11 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "138 mg",
+        "Iron": "1.34 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "edamame",
+      "nutritional_info": {
+        "Calories": 147,
+        "Carbohydrates": "11.05 g",
+        "Protein": "12.95 g",
+        "Fats": {
+          "Total": "6.8 g",
+          "Saturated": "0.952 g",
+          "Unsaturated": "5.848 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "0 g",
+        "Fiber": "4.2 g",
+        "Cholesterol": "0 mg",
+        "Sodium": "15 mg",
+        "Vitamin A": "9 µg",
+        "Vitamin C": "29 mg",
+        "Calcium": "197 mg",
+        "Iron": "3.55 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "eggs_benedict",
+      "nutritional_info": {
+        "Calories": 276,
+        "Carbohydrates": "8.32 g",
+        "Protein": "11.96 g",
+        "Fats": {
+          "Total": "21.6 g",
+          "Saturated": "10.231 g",
+          "Unsaturated": "11.369 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "0.94 g",
+        "Fiber": "0.6 g",
+        "Cholesterol": "263 mg",
+        "Sodium": "549 mg",
+        "Vitamin A": "130 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "47 mg",
+        "Iron": "1.13 mg"
+      },
+      "source": "fatsecret.co.in"
+    },
+    {
+      "name": "escargots",
+      "nutritional_info": {
+        "Calories": 90,
+        "Carbohydrates": "2 g",
+        "Protein": "16.1 g",
+        "Fats": {
+          "Total": "1.4 g",
+          "Saturated": "0.361 g",
+          "Unsaturated": "1.039 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "0 g",
+        "Fiber": "0 g",
+        "Cholesterol": "50 mg",
+        "Sodium": "70 mg",
+        "Vitamin A": "30 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "10 mg",
+        "Iron": "3.5 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "falafel",
+      "nutritional_info": {
+        "Calories": 87,
+        "Carbohydrates": "4.9 g",
+        "Protein": "1.4 g",
+        "Fats": {
+          "Total": "7 g",
+          "Saturated": "0.9 g",
+          "Unsaturated": "~6.1 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "0.8 g",
+        "Fiber": "0.8 g",
+        "Cholesterol": "0 mg",
+        "Sodium": "85 mg",
+        "Vitamin A": "2.04 µg",
+        "Vitamin C": "1.3 mg",
+        "Calcium": "15 mg",
+        "Iron": "0.4 mg"
+      },
+      "source": "nutritionvalue.org"
+    },
+    {
+      "name": "filet_mignon",
+      "nutritional_info": {
+        "Calories": 232,
+        "Carbohydrates": "0 g",
+        "Protein": "22 g",
+        "Fats": {
+          "Total": "15 g",
+          "Saturated": "6 g",
+          "Unsaturated": "7 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "0 g",
+        "Fiber": "0 g",
+        "Cholesterol": "84 mg",
+        "Sodium": "44 mg",
+        "Vitamin A": "0 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "14 mg",
+        "Iron": "1 mg"
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "fish_and_chips",
+      "nutritional_info": {
+        "Calories": 660,
+        "Carbohydrates": "67 g",
+        "Protein": "20 g",
+        "Fats": {
+          "Total": "35 g",
+          "Saturated": "8 g",
+          "Unsaturated": "27 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "0 g",
+        "Fiber": "5 g",
+        "Cholesterol": "41 mg",
+        "Sodium": "1273 mg",
+        "Vitamin A": "0 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "0 mg",
+        "Iron": "0 mg"
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "foie_gras",
+      "nutritional_info": {
+        "Calories": 462,
+        "Carbohydrates": "4.7 g",
+        "Protein": "11.4 g",
+        "Fats": {
+          "Total": "43.8 g",
+          "Saturated": "~23 g",
+          "Unsaturated": "≈20 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "0.2 g",
+        "Fiber": "0 g",
+        "Cholesterol": "150 mg",
+        "Sodium": "697 mg",
+        "Vitamin A": "1001 µg",
+        "Vitamin C": "2 mg",
+        "Calcium": "70 mg",
+        "Iron": "5.5 mg"
+      },
+      "source": "fitaudit.com"
+    },
+    {
+      "name": "french_fries",
+      "nutritional_info": {
+        "Calories": 312,
+        "Carbohydrates": "41 g",
+        "Protein": "3.4 g",
+        "Fats": {
+          "Total": "15 g",
+          "Saturated": "2.3 g",
+          "Unsaturated": "12.7 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "0 g",
+        "Fiber": "3.8 g",
+        "Cholesterol": "0 mg",
+        "Sodium": "210 mg",
+        "Vitamin A": "0 µg",
+        "Vitamin C": "–",
+        "Calcium": "18 mg",
+        "Iron": "0.81 mg"
+      },
+      "source": "foodstruct.com"
+    },
+    {
+      "name": "french_onion_soup",
+      "nutritional_info": {
+        "Calories": 369,
+        "Carbohydrates": "39.3 g",
+        "Protein": "15.9 g",
+        "Fats": {
+          "Total": "16.5 g",
+          "Saturated": "7.66 g",
+          "Unsaturated": "~8.84 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "3.6 g",
+        "Fiber": "2.9 g",
+        "Cholesterol": "36 mg",
+        "Sodium": "930 mg",
+        "Vitamin A": "96 µg",
+        "Vitamin C": "3.1 mg",
+        "Calcium": "340 mg",
+        "Iron": "2.05 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "french_toast",
+      "nutritional_info": {
+        "Calories": 178,
+        "Carbohydrates": "22.5 g",
+        "Protein": "6.3 g",
+        "Fats": {
+          "Total": "6.9 g",
+          "Saturated": "1.78 g",
+          "Unsaturated": "5.12 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "5.5 g",
+        "Fiber": "0.9 g",
+        "Cholesterol": "101 mg",
+        "Sodium": "359 mg",
+        "Vitamin A": "40 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "85 mg",
+        "Iron": "1.82 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "fried_calamari",
+      "nutritional_info": {
+        "Calories": 125,
+        "Carbohydrates": "9.9 g",
+        "Protein": "15.1 g",
+        "Fats": {
+          "Total": "2.17 g",
+          "Saturated": "0.57 g",
+          "Unsaturated": "1.6 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "0.66 g",
+        "Fiber": "0.5 g",
+        "Cholesterol": "217 mg",
+        "Sodium": "335 mg",
+        "Vitamin A": "15 µg",
+        "Vitamin C": "4 mg",
+        "Calcium": "48 mg",
+        "Iron": "1.15 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "fried_rice",
+      "nutritional_info": {
+        "Calories": 333,
+        "Carbohydrates": "41.7 g",
+        "Protein": "12.5 g",
+        "Fats": {
+          "Total": "12.3 g",
+          "Saturated": "2.25 g",
+          "Unsaturated": "10.05 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "1.5 g",
+        "Fiber": "1.4 g",
+        "Cholesterol": "103 mg",
+        "Sodium": "822 mg",
+        "Vitamin A": "42 µg",
+        "Vitamin C": "3.4 mg",
+        "Calcium": "38 mg",
+        "Iron": "2.75 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "frozen_yogurt",
+      "nutritional_info": {
+        "Calories": 140,
+        "Carbohydrates": "36 g",
+                "Protein": "8 g",
+        "Fats": {
+          "Total": "0 g",
+          "Saturated": "0",
+          "Trans": "0"
+        },
+        "Sugars": "10 g",
+        "Fiber": "0",
+        "Cholesterol": "0 mg",
+        "Sodium": "130 mg",
+        "Vitamin A": "0 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "300 mg",
+        "Iron": "0 mg"
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "garlic_bread",
+      "nutritional_info": {
+        "Calories": 100,
+        "Carbohydrates": "25 g",
+        "Protein": "5 g",
+        "Fats": {
+          "Total": "7 g",
+          "Saturated": "1 g",
+          "Unsaturated": "6 g",
+          "Trans": "0 g"
+        },
+        "Sugars": "0.5 g",
+        "Fiber": "0.5 g",
+        "Cholesterol": "0 mg",
+        "Sodium": "280 mg",
+        "Vitamin A": "90 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "0 mg",
+        "Iron": "1 mg"
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "gnocchi",
+      "nutritional_info": {
+        "Calories": 150,
+        "Carbohydrates": "33 g",
+        "Protein": "4 g",
+        "Fats": {
+          "Total": "0 g",
+          "Saturated": "0",
+          "Trans": "0"
+        },
+        "Sugars": "0 g",
+        "Fiber": "2 g",
+        "Cholesterol": "0 mg",
+        "Sodium": "250 mg",
+        "Vitamin A": "0 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "17 mg",
+        "Iron": "0.3 mg"
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "greek_salad",
+      "nutritional_info": {
+        "Calories": 344,
+        "Carbohydrates": "20 g",
+        "Protein": "11 g",
+        "Fats": {
+          "Total": "26 g",
+          "Saturated": "10 g",
+          "Unsaturated": "16 g",
+          "Trans": "0"
+        },
+        "Sugars": "11 g",
+        "Fiber": "4 g",
+        "Cholesterol": "50 mg",
+        "Sodium": "815 mg",
+        "Vitamin A": "161 µg",
+        "Vitamin C": "32 mg",
+        "Calcium": "358 mg",
+        "Iron": "3 mg"
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "grilled_cheese_sandwich",
+      "nutritional_info": {
+        "Calories": 283,
+        "Carbohydrates": "32.6 g",
+        "Protein": "12.2 g",
+        "Fats": {
+          "Total": "11.6 g",
+          "Saturated": "5.81 g",
+          "Unsaturated": "5.79 g",
+          "Trans": "0"
+        },
+        "Sugars": "5.71 g",
+        "Fiber": "1.4 g",
+        "Cholesterol": "32 mg",
+        "Sodium": "807 mg",
+        "Vitamin A": "0 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "690 mg",
+        "Iron": "2.37 mg"
+      },
+      "source": "snapcalorie.com"
+    },
+    {
+      "name": "grilled_salmon",
+      "nutritional_info": {
+        "Calories": 121,
+        "Carbohydrates": "0 g",
+        "Protein": "16.9 g",
+        "Fats": {
+          "Total": "5.4 g",
+          "Saturated": "~1.1 g",
+          "Unsaturated": "~4.3 g",
+          "Trans": "0"
+        },
+        "Sugars": "0 g",
+        "Fiber": "0 g",
+        "Cholesterol": "47 mg",
+        "Sodium": "37 mg",
+        "Vitamin A": "10 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "10 mg",
+        "Iron": "0.68 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "guacamole",
+      "nutritional_info": {
+        "Calories": 157,
+        "Carbohydrates": "8.51 g",
+        "Protein": "1.96 g",
+        "Fats": {
+          "Total": "14.31 g",
+          "Saturated": "2.08 g",
+          "Unsaturated": "12.23 g",
+          "Trans": "0"
+        },
+        "Sugars": "0.71 g",
+        "Fiber": "6.6 g",
+        "Cholesterol": "0 mg",
+        "Sodium": "148 mg",
+        "Vitamin A": "7 µg",
+        "Vitamin C": "10.4 mg",
+        "Calcium": "12 mg",
+        "Iron": "0.54 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "gyoza",
+      "nutritional_info": {
+        "Calories": "~210",
+        "Carbohydrates": "~18 g",
+        "Protein": "~12 g",
+        "Fats": {
+          "Total": "~12 g",
+          "Saturated": "~6 g",
+          "Trans": "0"
+        },
+        "Sugars": "~1.2 g",
+        "Fiber": "~2.4 g",
+        "Cholesterol": "~30 mg",
+        "Sodium": "~300 mg",
+        "Vitamin A": "~12 µg",
+        "Vitamin C": "~6 mg",
+        "Calcium": "~36 mg",
+        "Iron": "~6 mg"
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "hamburger",
+      "nutritional_info": {
+        "Calories": "~418",
+        "Carbohydrates": "~30 g",
+        "Protein": "~25.4 g",
+        "Fats": {
+          "Total": "20.9 g",
+          "Saturated": "~8 g",
+          "Unsaturated": "~12 g",
+          "Trans": "~0"
+        },
+        "Sugars": "4.4 g",
+        "Fiber": "1 g",
+        "Cholesterol": "~75 mg",
+        "Sodium": "515 mg",
+        "Vitamin A": "0 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "15 mg",
+        "Iron": "2.5 mg"
+      },
+      "source": "verywellfit.com"
+    },
+    {
+      "name": "hot_and_sour_soup",
+      "nutritional_info": {
+        "Calories": 91,
+        "Carbohydrates": "10 g",
+        "Protein": "6 g",
+        "Fats": {
+          "Total": "3 g",
+          "Saturated": "1 g",
+          "Unsaturated": "2 g",
+          "Trans": "0"
+        },
+        "Sugars": "1 g",
+        "Fiber": "1 g",
+        "Cholesterol": "49 mg",
+        "Sodium": "876 mg",
+        "Vitamin A": "21 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "44 mg",
+        "Iron": "1 mg"
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "hot_dog",
+      "nutritional_info": {
+        "Calories": 168,
+        "Carbohydrates": "0.4 g",
+        "Protein": "9.7 g",
+        "Fats": {
+          "Total": "14.3 g",
+          "Saturated": "5 g",
+          "Unsaturated": "9.3 g",
+          "Trans": "0"
+        },
+        "Sugars": "0 g",
+        "Fiber": "0 g",
+        "Cholesterol": "40 mg",
+        "Sodium": "826 mg",
+        "Vitamin A": "0 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "9 mg",
+        "Iron": "0.7 mg"
+      },
+      "source": "nutrition.umd.edu"
+    },
+    {
+      "name": "huevos_rancheros",
+      "nutritional_info": {
+        "Calories": "~470",
+        "Carbohydrates": "~48 g",
+        "Protein": "24 g",
+        "Fats": {
+          "Total": "20 g",
+          "Saturated": "5 g",
+          "Trans": "0"
+        },
+        "Sugars": "~X g",
+        "Fiber": "8 g",
+        "Cholesterol": "~372 mg",
+        "Sodium": "~X mg",
+        "Vitamin A": "high (eggs)",
+        "Calcium": "~300 mg",
+        "Iron": "~5 mg"
+      },
+      "source": "USDA"
+    },
+    {
+      "name": "hummus",
+      "nutritional_info": {
+        "Calories": 177,
+        "Carbohydrates": "20.1 g",
+        "Protein": "4.86 g",
+        "Fats": {
+          "Total": "8.59 g",
+          "Saturated": "1.12 g",
+          "Unsaturated": "7.47 g",
+          "Trans": "0"
+        },
+        "Sugars": "0.46 g",
+        "Fiber": "4.0 g",
+        "Cholesterol": "0 mg",
+        "Sodium": "242 mg",
+        "Vitamin A": "0 µg",
+        "Vitamin C": "7.9 mg",
+        "Calcium": "49 mg",
+        "Iron": "1.57 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "ice_cream",
+      "nutritional_info": {
+        "Calories": 249,
+        "Carbohydrates": "22 g",
+        "Protein": "4 g",
+        "Fats": {
+          "Total": "16 g",
+          "Saturated": "10 g",
+          "Unsaturated": "6 g",
+          "Trans": "0"
+        },
+        "Sugars": "21 g",
+        "Fiber": "0 g",
+        "Cholesterol": "92 mg",
+        "Sodium": "61 mg",
+        "Vitamin A": "182 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "117 mg",
+        "Iron": "0.3 mg"
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "lasagna",
+      "nutritional_info": {
+        "Calories": 308,
+        "Carbohydrates": "29 g",
+        "Protein": "16 g",
+        "Fats": {
+          "Total": "15 g",
+          "Saturated": "2.6 g",
+          "Unsaturated": "12.4 g",
+          "Trans": "0"
+        },
+        "Sugars": "8.2 g",
+        "Fiber": "2.4 g",
+        "Cholesterol": "90 mg",
+        "Sodium": "–",
+        "Vitamin A": "34 µg",
+        "Vitamin C": "9.8 mg",
+        "Calcium": "44 mg",
+        "Iron": "1.36 mg"
+      },
+      "source": "nutritionvalue.org"
+    },
+    {
+      "name": "lobster_bisque",
+      "nutritional_info": {
+        "Calories": 370,
+        "Carbohydrates": "16 g",
+        "Protein": "7 g",
+        "Fats": {
+          "Total": "31 g",
+          "Saturated": "19 g",
+          "Unsaturated": "12 g",
+          "Trans": "0"
+        },
+        "Sugars": "–",
+        "Fiber": "1 g",
+        "Cholesterol": "125 mg",
+        "Sodium": "770 mg",
+        "Vitamin A": "225 µg",
+        "Vitamin C": "4 mg",
+        "Calcium": "150 mg",
+        "Iron": "1 mg"
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "lobster_roll_sandwich",
+      "nutritional_info": {
+        "Calories": 290,
+        "Carbohydrates": "35 g",
+        "Protein": "24 g",
+        "Fats": {
+          "Total": "5 g",
+          "Saturated": "2 g",
+          "Unsaturated": "3 g",
+          "Trans": "0"
+        },
+        "Sugars": "3 g",
+        "Fiber": "2 g",
+        "Cholesterol": "65 mg",
+        "Sodium": "630 mg",
+        "Vitamin A": "60 µg",
+        "Vitamin C": "4 mg",
+        "Calcium": "150 mg",
+        "Iron": "3 mg"
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "macaroni_and_cheese",
+      "nutritional_info": {
+        "Calories": 330,
+        "Carbohydrates": "33 g",
+        "Protein": "14 g",
+        "Fats": {
+          "Total": "16 g",
+          "Saturated": "7 g",
+          "Unsaturated": "9 g",
+          "Trans": "0.5 g"
+        },
+        "Sugars": "5 g",
+        "Fiber": "2 g",
+        "Cholesterol": "40 mg",
+        "Sodium": "1240 mg",
+        "Vitamin A": "0",
+        "Vitamin C": "0",
+        "Calcium": "260 mg",
+        "Iron": "2 mg"
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "macarons",
+      "nutritional_info": {
+        "Calories": "~70",
+        "Carbohydrates": "~11 g",
+        "Protein": "~1 g",
+        "Fats": {
+          "Total": "~3 g",
+          "Saturated": "~1 g",
+          "Trans": "0"
+        },
+        "Sugars": "~8 g",
+        "Fiber": "0 g",
+        "Cholesterol": "0",
+        "Sodium": "~5 mg",
+        "Vitamin A": "0 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "~12 mg",
+        "Iron": "0.36 mg"
+      },
+      "source": "nutritionvalue.org"
+    },
+    {
+      "name": "miso_soup",
+      "nutritional_info": {
+        "Calories": 77,
+        "Carbohydrates": "5.4 g",
+        "Protein": "6 g",
+        "Fats": {
+          "Total": "3.7 g",
+          "Saturated": "0.52 g",
+          "Unsaturated": "3.18 g",
+          "Trans": "0"
+        },
+        "Sugars": "2 g",
+        "Fiber": "0.96 g",
+        "Cholesterol": "9.6 mg",
+        "Sodium": "1471 mg",
+        "Vitamin A": "0 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "38 mg",
+        "Iron": "0.77 mg"
+      },
+      "source": "snapcalorie.com"
+    },
+    {
+      "name": "mussels",
+      "nutritional_info": {
+        "Calories": 86,
+        "Carbohydrates": "3.7 g",
+        "Protein": "11.9 g",
+        "Fats": {
+          "Total": "2.24 g",
+          "Saturated": "0.425 g",
+          "Unsaturated": "1.815 g",
+          "Trans": "0"
+        },
+        "Sugars": "0 g",
+        "Fiber": "0 g",
+        "Cholesterol": "28 mg",
+        "Sodium": "286 mg",
+        "Vitamin A": "48 µg",
+        "Vitamin C": "8 mg",
+        "Calcium": "26 mg",
+        "Iron": "3.95 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "nachos",
+      "nutritional_info": {
+        "Calories": 558,
+        "Carbohydrates": "55 g",
+        "Protein": "16 g",
+        "Fats": {
+          "Total": "32 g",
+          "Saturated": "6 g",
+          "Unsaturated": "26 g",
+          "Trans": "0.4 g"
+        },
+        "Sugars": "4 g",
+        "Fiber": "9 g",
+        "Cholesterol": "36 mg",
+        "Sodium": "887 mg",
+        "Vitamin A": "107 µg",
+        "Vitamin C": "0 mg",
+        "Calcium": "120 mg",
+        "Iron": "3 mg"
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "omelette",
+      "nutritional_info": {
+        "Calories": "~180",
+        "Carbohydrates": "~2 g",
+        "Protein": "~12 g",
+        "Fats": {
+          "Total": "~14 g",
+          "Saturated": "~4 g",
+          "Trans": "0"
+        },
+        "Sugars": "~X",
+        "Fiber": "0",
+        "Cholesterol": "~372 mg",
+        "Sodium": "~140 mg",
+        "Vitamin A": "~500 µg",
+        "Vitamin C": "0",
+        "Calcium": "~60 mg",
+        "Iron": "~1.5 mg"
+      },
+      "source": "USDA"
+    },
+    {
+      "name": "onion_rings",
+      "nutritional_info": {
+        "Calories": 258,
+        "Carbohydrates": "47 g",
+        "Protein": "5 g",
+        "Fats": {
+          "Total": "49 g",
+          "Saturated": "~12 g",
+          "Trans": "0"
+        },
+        "Sugars": "–",
+        "Fiber": "–",
+        "Cholesterol": "0",
+        "Sodium": "–",
+        "Vitamin A": "0",
+                "Vitamin C": "1 mg",
+        "Calcium": "13 mg",
+        "Iron": "0.3 mg"
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "oysters",
+      "nutritional_info": {
+        "Calories": 68,
+        "Carbohydrates": "3.9 g",
+        "Protein": "7.05 g",
+        "Fats": {
+          "Total": "2.46 g",
+          "Saturated": "0.77 g",
+          "Unsaturated": "1.69 g",
+          "Trans": "0"
+        },
+        "Sugars": "0 g",
+        "Fiber": "0 g",
+        "Cholesterol": "53 mg",
+        "Sodium": "211 mg",
+        "Vitamin A": "30 µg",
+        "Vitamin C": "3.7 mg",
+        "Calcium": "45 mg",
+        "Iron": "6.66 mg"
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "pad_thai_with_chicken",
+      "nutritional_info": {
+        "Calories": 308,
+        "Carbohydrates": "29 g",
+        "Protein": "16 g",
+        "Fats": {
+          "Total": "15 g",
+          "Saturated": "2.6 g",
+          "Unsaturated": "12.4 g",
+          "Trans": "0"
+        },
+        "Sugars": "8.2 g",
+        "Fiber": "2.4 g",
+        "Cholesterol": "90 mg",
+        "Sodium": "–",
+        "Vitamin A": "34 µg",
+        "Vitamin C": "9.8 mg",
+        "Calcium": "44 mg",
+        "Iron": "1.36 mg"
+      },
+      "source": "nutritionvalue.org"
+    },
+    {
+      "name": "paella_with_seafood",
+      "nutritional_info": {
+        "Calories": 341,
+        "Carbohydrates": "39 g",
+        "Protein": "19 g",
+        "Fats": {
+          "Total": "11 g",
+          "Saturated": "2.3 g",
+          "Unsaturated": "8.7 g",
+          "Trans": "0"
+        },
+        "Sugars": "2.2 g",
+        "Fiber": "1.9 g",
+        "Cholesterol": "60 mg",
+        "Sodium": "–",
+        "Vitamin A": "60 µg",
+        "Vitamin C": "23.5 mg",
+        "Calcium": "43.2 mg",
+        "Iron": "2.90 mg"
+      },
+      "source": "nutritionvalue.org"
+    },
+    {
+      "name": "pancakes",
+      "nutritional_info": {
+        "Calories": 175,
+        "Carbohydrates": "22 g",
+        "Protein": "5 g",
+        "Fats": {
+          "Total": "7 g",
+          "Saturated": "2 g",
+          "Monounsaturated": "~2 g",
+          "Polyunsaturated": "~3 g",
+          "Trans": "0"
+        },
+        "Cholesterol": "45 mg",
+        "Sodium": "338 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "42 µg",
+          "Vitamin C": "0.2 mg",
+          "Calcium": "169 mg",
+          "Iron": "1.0 mg"
+        }
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "panna_cotta",
+      "nutritional_info": {
+        "Calories": 354,
+        "Carbohydrates": "10.6 g",
+        "Protein": "2.2 g",
+        "Fats": {
+          "Total": "34.0 g",
+          "Saturated": "22.9 g",
+          "Trans": "0"
+        },
+        "Cholesterol": "~45 mg",
+        "Sodium": "24 mg",
+        "Vitamins & Minerals": {
+          "Calcium": "~62 mg",
+          "Iron": "0.0 mg",
+          "Vitamin A": "negligible",
+          "Vitamin C": "negligible"
+        }
+      },
+      "source": "calorieking.com"
+    },
+    {
+      "name": "peking_duck",
+      "nutritional_info": {
+        "Calories": 229,
+        "Carbohydrates": "0 g",
+        "Protein": "28 g",
+        "Fats": {
+          "Total": "12 g",
+          "Saturated": "3 g",
+          "Trans": "~0"
+        },
+        "Cholesterol": "154 mg",
+        "Sodium": "95 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "~4 µg",
+          "Vitamin C": "~0 mg",
+          "Calcium": "8 mg",
+          "Iron": "1 mg"
+        }
+      },
+      "source": "–"
+    },
+    {
+      "name": "pho",
+      "nutritional_info": {
+        "Calories": 562,
+        "Carbohydrates": "104 g",
+        "Protein": "23 g",
+        "Fats": {
+          "Total": "4.7 g",
+          "Saturated": "1.5 g",
+          "Trans": "0"
+        },
+        "Cholesterol": "41 mg",
+        "Sodium": "2375 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "~24% DV",
+          "Vitamin C": "~44% DV",
+          "Calcium": "~8% DV",
+          "Iron": "~17% DV"
+        }
+      },
+      "source": "livestrong.com"
+    },
+    {
+      "name": "pizza",
+      "nutritional_info": {
+        "Calories": 276,
+        "Carbohydrates": "30.3 g",
+        "Protein": "12.3 g",
+        "Fats": {
+          "Total": "11.7 g",
+          "Saturated": "5.0 g",
+          "Trans": "0"
+        },
+        "Cholesterol": "24 mg",
+        "Sodium": "537 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "79 µg",
+          "Vitamin C": "0.3 mg",
+          "Calcium": "210 mg",
+          "Iron": "1.86 mg"
+        }
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "pork_chop",
+      "nutritional_info": {
+        "Calories": 338,
+        "Carbohydrates": "0 g",
+        "Protein": "41 g",
+        "Fats": {
+          "Total": "18 g",
+          "Saturated": "6 g",
+          "Trans": "~0.2 g"
+        },
+        "Cholesterol": "137 mg",
+        "Sodium": "109 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "4 µg",
+          "Vitamin C": "0 mg",
+          "Calcium": "38 mg",
+          "Iron": "1 mg"
+        }
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "poutine",
+      "nutritional_info": {
+        "Calories": 294,
+        "Carbohydrates": "21.8 g",
+        "Protein": "9.4 g",
+        "Fats": {
+          "Total": "18.8 g",
+          "Saturated": "7.59 g",
+          "Trans": "0"
+        },
+        "Cholesterol": "35.5 mg",
+        "Sodium": "527 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "trace",
+          "Vitamin C": "0 mg",
+          "Calcium": "247.7 mg",
+          "Iron": "0.44 mg"
+        }
+      },
+      "source": "snapcalorie.com"
+    },
+    {
+      "name": "prime_rib",
+      "nutritional_info": {
+        "Calories": 266,
+        "Carbohydrates": "0 g",
+        "Protein": "25.9 g",
+        "Fats": {
+          "Total": "17.3 g",
+          "Saturated": "6.8 g",
+          "Trans": "0"
+        },
+        "Cholesterol": "77 mg",
+        "Sodium": "217 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "0 µg",
+          "Vitamin C": "0 mg",
+          "Calcium": "8 mg",
+          "Iron": "2.45 mg"
+        }
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "pulled_pork_sandwich",
+      "nutritional_info": {
+        "Calories": 547,
+        "Carbohydrates": "28 g",
+        "Protein": "33 g",
+        "Fats": {
+          "Total": "33 g",
+          "Saturated": "11 g",
+          "Trans": "0"
+        },
+        "Cholesterol": "121 mg",
+        "Sodium": "407 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "trace",
+          "Vitamin C": "8 mg",
+          "Calcium": "81 mg",
+          "Iron": "4 mg"
+        }
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "ramen",
+      "nutritional_info": {
+        "Calories": 790,
+        "Carbohydrates": "97 g",
+        "Protein": "22 g",
+        "Fats": {
+          "Total": "32 g",
+          "Saturated": "2.5 g",
+          "Trans": "0"
+        },
+        "Fiber": "7 g",
+        "Sugar": "8 g",
+        "Cholesterol": "0 mg",
+        "Sodium": "2830 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "0 IU",
+          "Vitamin C": "~0 mg",
+          "Calcium": "~0 mg",
+          "Iron": "~2.4 mg"
+        }
+      },
+      "source": "jinyaramenbar.com"
+    },
+    {
+      "name": "ravioli",
+      "nutritional_info": {
+        "Calories": 178,
+        "Carbohydrates": "20.2 g",
+        "Protein": "8.5 g",
+        "Fats": {
+          "Total": "6.7 g",
+          "Saturated": "3.58 g",
+          "Trans": "0"
+        },
+        "Cholesterol": "101 mg",
+        "Sodium": "639 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "67 µg",
+          "Vitamin C": "0 mg",
+          "Calcium": "95 mg",
+          "Iron": "1.56 mg"
+        }
+      },
+      "source": "fatsecret.ca"
+    },
+    {
+      "name": "red_velvet_cake",
+      "nutritional_info": {
+        "Calories": 426,
+        "Carbohydrates": "65.3 g",
+        "Protein": "3.35 g",
+        "Fats": {
+          "Total": "17.5 g",
+          "Saturated": "3.6 g",
+          "Trans": "0"
+        },
+        "Sugars": "48.2 g",
+        "Fiber": "1.44 g",
+        "Cholesterol": "51.6 mg",
+        "Sodium": "355 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "0 µg",
+          "Vitamin C": "0 mg",
+          "Calcium": "80 mg",
+          "Iron": "1.39 mg"
+        }
+      },
+      "source": "snapcalorie.com"
+    },
+    {
+      "name": "risotto",
+      "nutritional_info": {
+        "Calories": 413,
+        "Carbohydrates": "54.1 g",
+        "Protein": "14.4 g",
+        "Fats": {
+          "Total": "13.3 g",
+          "Saturated": "7.0 g",
+          "Trans": "0"
+        },
+        "Cholesterol": "35.6 mg",
+        "Sodium": "1451 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "none",
+          "Vitamin C": "none",
+          "Calcium": "163.6 mg",
+          "Iron": "1.53 mg"
+        }
+      },
+      "source": "snapcalorie.com"
+    },
+    {
+      "name": "samosa",
+      "nutritional_info": {
+        "Calories": 180,
+        "Carbohydrates": "22 g",
+        "Protein": "4 g",
+        "Fats": {
+          "Total": "8 g",
+          "Saturated": "2 g",
+          "Trans": "0"
+        },
+        "Cholesterol": "0 mg",
+        "Sodium": "590 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "0 µg",
+          "Vitamin C": "2 mg",
+          "Calcium": "60 mg",
+          "Iron": "2 mg"
+        }
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "sashimi",
+      "nutritional_info": {
+        "Calories": 277,
+        "Carbohydrates": "0 g",
+        "Protein": "55.4 g",
+        "Fats": {
+          "Total": "2.31 g",
+          "Saturated": "0.58 g",
+          "Trans": "0"
+        },
+        "Cholesterol": "92.3 mg",
+        "Sodium": "133 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "0 µg",
+          "Vitamin C": "0 mg",
+          "Calcium": "23 mg",
+          "Iron": "1.73 mg"
+        }
+      },
+      "source": "snapcalorie.com"
+    },
+    {
+      "name": "scallops",
+      "nutritional_info": {
+        "Calories": 137,
+        "Carbohydrates": "6.33 g",
+        "Protein": "24 g",
+        "Fats": {
+          "Total": "0.98 g",
+          "Saturated": "0.18 g",
+          "Trans": "0"
+        },
+        "Cholesterol": "(≈13 mg)",
+        "Sodium": "–",
+        "Vitamins & Minerals": {
+          "Vitamin A": "0 µg",
+          "Vitamin C": "0 mg",
+          "Calcium": "12 mg",
+          "Iron": "0.68 mg"
+        }
+      },
+      "source": "healthline.com"
+    },
+    {
+      "name": "seaweed_salad",
+      "nutritional_info": {
+        "Calories": 70,
+        "Carbohydrates": "11 g",
+        "Protein": "1 g",
+        "Fats": {
+          "Total": "2.5 g",
+          "Saturated": "0",
+          "Trans": "0"
+        },
+        "Cholesterol": "0 mg",
+        "Sodium": "~830 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "0 µg",
+          "Vitamin C": "0 mg",
+          "Calcium": "not given",
+          "Iron": "not given"
+        }
+      },
+      "source": "healthline.com"
+    },
+    {
+      "name": "shrimp_and_grits",
+      "nutritional_info": {
+        "Calories": 304,
+        "Carbohydrates": "30.4 g",
+        "Protein": "16.9 g",
+        "Fats": {
+          "Total": "13.5 g",
+          "Saturated": "6.76 g",
+          "Trans": "0"
+        },
+        "Cholesterol": "101 mg",
+        "Sodium": "811 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "0 IU",
+          "Vitamin C": "0 mg",
+          "Calcium": "135 mg",
+          "Iron": "2.03 mg"
+        }
+      },
+      "source": "snapcalorie.com"
+    },
+    {
+      "name": "spaghetti_bolognese",
+      "nutritional_info": {
+        "Calories": 336,
+        "Carbohydrates": "43.2 g",
+        "Protein": "19.2 g",
+        "Fats": {
+          "Total": "11.5 g",
+          "Saturated": "4.8 g",
+          "Trans": "0"
+        },
+        "Cholesterol": "48 mg",
+        "Sodium": "576 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "0 IU",
+          "Vitamin C": "0 mg",
+          "Calcium": "96 mg",
+          "Iron": "2.88 mg"
+        }
+      },
+      "source": "snapcalorie.com"
+    },
+    {
+      "name": "spaghetti_carbonara",
+      "nutritional_info": {
+        "Calories": 764,
+        "Carbohydrates": "91 g",
+        "Protein": "29 g",
+        "Fats": {
+          "Total": "31 g",
+          "Saturated": "11 g",
+          "Trans": "0.1 g"
+        },
+        "Cholesterol": "230 mg",
+        "Sodium": "6305 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "168 µg",
+          "Vitamin C": "2 mg",
+          "Calcium": "213 mg",
+          "Iron": "5 mg"
+        }
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "spring_rolls",
+      "nutritional_info": {
+        "Calories": 267,
+        "Carbohydrates": "34.7 g",
+        "Protein": "6.75 g",
+        "Fats": {
+          "Total": "11.2 g",
+          "Saturated": "1.01 g",
+          "Trans": "0"
+        },
+        "Cholesterol": "20.9 mg",
+        "Sodium": "486 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "0 µg",
+          "Vitamin C": "0 mg",
+          "Calcium": "34.9 mg",
+          "Iron": "2.24 mg"
+        }
+      },
+      "source": "snapcalorie.com"
+    },
+    {
+            "name": "steak",
+      "nutritional_info": {
+        "Calories": 201,
+        "Carbohydrates": "0 g",
+        "Protein": "20.3 g",
+        "Fats": {
+          "Total": "12.7 g",
+          "Saturated": "5.13 g",
+          "Trans": "0"
+        },
+        "Cholesterol": "47 mg",
+        "Sodium": "52 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "0 µg",
+          "Vitamin C": "0 mg",
+          "Calcium": "24 mg",
+          "Iron": "1.48 mg"
+        }
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "strawberry_shortcake",
+      "nutritional_info": {
+        "Calories": 120,
+        "Carbohydrates": "19 g",
+        "Protein": "2 g",
+        "Fats": {
+          "Total": "4 g",
+          "Saturated": "2 g",
+          "Trans": "0"
+        },
+        "Cholesterol": "25 mg",
+        "Sodium": "210 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "51 µg",
+          "Vitamin C": "0 mg",
+          "Calcium": "40 mg",
+          "Iron": "0 mg"
+        }
+      },
+      "source": "myfooddiary.com"
+    },
+    {
+      "name": "sushi",
+      "nutritional_info": {
+        "Calories": 143,
+        "Carbohydrates": "29.9 g",
+        "Protein": "4.3 g",
+        "Fats": {
+          "Total": "0.42 g",
+          "Saturated": "0.087 g",
+          "Trans": "0"
+        },
+        "Cholesterol": "3 mg",
+        "Sodium": "596 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "45 µg",
+          "Vitamin C": "2 mg",
+          "Calcium": "19 mg",
+          "Iron": "1.36 mg"
+        }
+      },
+      "source": "fatsecret.com"
+    },
+    {
+      "name": "tacos",
+      "nutritional_info": {
+        "Calories": 188,
+        "Carbohydrates": "~20 g",
+        "Protein": "9 g",
+        "Fats": {
+          "Total": "8 g",
+          "Saturated": "0",
+          "Trans": "0"
+        },
+        "Cholesterol": "varies by filling, e.g. ~30 mg if beef",
+        "Sodium": "varies by filling, e.g. ~200 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "minor",
+          "Vitamin C": "small",
+          "Calcium": "small",
+          "Iron": "small"
+        }
+      },
+      "source": "healthline.com"
+    },
+    {
+      "name": "takoyaki",
+      "nutritional_info": {
+        "Calories": 417,
+        "Carbohydrates": "47.6 g",
+        "Protein": "14.3 g",
+        "Fats": {
+          "Total": "19.0 g",
+          "Saturated": "4.76 g",
+          "Trans": "0"
+        },
+        "Cholesterol": "119 mg",
+        "Sodium": "1429 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "0 IU",
+          "Vitamin C": "0 mg",
+          "Calcium": "47.6 mg",
+          "Iron": "2.38 mg"
+        }
+      },
+      "source": "snapcalorie.com"
+    },
+    {
+      "name": "tiramisu",
+      "nutritional_info": {
+        "Calories": 513,
+        "Carbohydrates": "43 g",
+        "Protein": "8.6 g",
+        "Fats": {
+          "Total": "35.2 g",
+          "Saturated": "21.0 g",
+          "Trans": "0"
+        },
+        "Cholesterol": "178 mg",
+        "Sodium": "trace from ingredients",
+        "Vitamins & Minerals": {
+          "Vitamin A": "319 µg",
+          "Vitamin C": "1.6 mg",
+          "Calcium": "95.7 mg",
+          "Iron": "1.61 mg"
+        }
+      },
+      "source": "nutritionvalue.org"
+    },
+    {
+      "name": "tuna_tartare",
+      "nutritional_info": {
+        "Calories": 357,
+        "Carbohydrates": "12 g",
+        "Protein": "25 g",
+        "Fats": {
+          "Total": "24 g",
+          "Saturated": "4 g",
+          "Trans": "0"
+        },
+        "Cholesterol": "38 mg",
+        "Sodium": "149 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "699 µg",
+          "Vitamin C": "0 mg",
+          "Calcium": "21 mg",
+          "Iron": "1.0 mg",
+          "Vitamin D": "6 µg (38% DV)"
+        }
+      },
+      "source": "eatthismuch.com"
+    },
+    {
+      "name": "waffles",
+      "nutritional_info": {
+        "Calories": 180,
+        "Carbohydrates": "30 g",
+        "Protein": "4 g",
+        "Fats": {
+          "Total": "5 g",
+          "Saturated": "1 g",
+          "Trans": "0"
+        },
+        "Cholesterol": "0 mg",
+        "Sodium": "330 mg",
+        "Vitamins & Minerals": {
+          "Vitamin A": "~54 µg",
+          "Vitamin C": "0 mg",
+          "Calcium": "260 mg",
+          "Iron": "3.6 mg"
+        }
+      },
+      "source": "smartlabel.kelloggs.com"
+    }
+  ]
+}
+
+     

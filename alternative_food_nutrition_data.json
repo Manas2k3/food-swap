@@ -1,0 +1,4719 @@
+[
+  {
+    "name": "baked_apples_with_cinnamon_and_oats",
+    "nutritional_info": {
+      "Calories": 227,
+      "Carbohydrates": "43 g",
+      "Protein": "3 g",
+      "Fats": {
+        "Total": "7 g",
+        "Saturated": "2 g",
+        "Unsaturated": "5 g",
+        "Trans": "0 g"
+      },
+      "Sugars": "20 g",
+      "Fiber": "6 g",
+      "Cholesterol": "0 mg",
+      "Sodium": "0 mg",
+      "Vitamin A": "10 µg",
+      "Vitamin C": "8 mg",
+      "Calcium": "40 mg",
+      "Iron": "2 mg"
+    },
+    "source": "brighterbites.org"
+  },
+  {
+    "name": "almond_flour_crust_apple_tart_with_no_added_sugar",
+    "nutritional_info": {
+      "Calories": 338,
+      "Carbohydrates": "13 g",
+      "Protein": "7 g",
+      "Fats": {
+        "Total": "29 g",
+        "Saturated": "10 g",
+        "Unsaturated": "~18 g",
+        "Trans": "1 g"
+      },
+      "Sugars": "5 g",
+      "Fiber": "4 g",
+      "Cholesterol": "38 mg",
+      "Sodium": "2 mg",
+      "Vitamin A": "123 µg",
+      "Vitamin C": "2 mg",
+      "Calcium": "92 mg",
+      "Iron": "1 mg"
+    },
+    "source": "eatthismuch.com"
+  },
+  {
+    "name": "grilled_lean_pork_loin_with_dry_rub",
+    "nutritional_info": {
+      "Calories": 346,
+      "Carbohydrates": "3 g",
+      "Protein": "60 g",
+      "Fats": {
+        "Total": "9 g",
+        "Saturated": "3 g",
+        "Unsaturated": "6 g",
+        "Trans": "0.1 g"
+      },
+      "Sugars": "0.3 g",
+      "Fiber": "1 g",
+      "Cholesterol": "166 mg",
+      "Sodium": "1876 mg",
+      "Vitamin A": "0 µg",
+      "Vitamin C": "0 mg",
+      "Calcium": "0 mg",
+      "Iron": "0 mg"
+    },
+    "source": "eatthismuch.com"
+  },
+  {
+  "name": "slow_cooked_jackfruit_ribs_with_bbq_spice_mix",
+  "nutritional_info": {
+    "Calories": 180,
+    "Carbohydrates": "34 g",
+    "Protein": "3 g",
+    "Fats": {
+      "Total": "3 g",
+      "Saturated": "0.5 g",
+      "Unsaturated": "2.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "15 g",
+    "Fiber": "5 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "470 mg",
+    "Vitamin A": "10 µg",
+    "Vitamin C": "13 mg",
+    "Calcium": "20 mg",
+    "Iron": "1 mg"
+  },
+  "source": "verywellfit.com"
+},
+{
+  "name": "phyllo_crisps_with_honey_walnuts_and_chia_seeds",
+  "nutritional_info": {
+    "Calories": 210,
+    "Carbohydrates": "22 g",
+    "Protein": "4 g",
+    "Fats": {
+      "Total": "12 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "10.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "8 g",
+    "Fiber": "3 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "95 mg",
+    "Vitamin A": "5 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "40 mg",
+    "Iron": "1.1 mg"
+  },
+  "source": "myfitnesspal.com"
+},
+{
+  "name": "oatmeal_bars_with_pistachios_and_maple_syrup",
+  "nutritional_info": {
+    "Calories": 240,
+    "Carbohydrates": "28 g",
+    "Protein": "5 g",
+    "Fats": {
+      "Total": "11 g",
+      "Saturated": "2 g",
+      "Unsaturated": "9 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "10 g",
+    "Fiber": "4 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "60 mg",
+    "Vitamin A": "2 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "30 mg",
+    "Iron": "1.4 mg"
+  },
+  "source": "usda.gov"
+},
+{
+  "name": "thinly_sliced_seared_tuna_with_lemon_and_arugula",
+  "nutritional_info": {
+    "Calories": 190,
+    "Carbohydrates": "2 g",
+    "Protein": "28 g",
+    "Fats": {
+      "Total": "8 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "6.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "0 g",
+    "Fiber": "1 g",
+    "Cholesterol": "35 mg",
+    "Sodium": "140 mg",
+    "Vitamin A": "120 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "25 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "verywellfit.com"
+},
+{
+  "name": "beet_carpaccio_with_balsamic_glaze_and_walnuts",
+  "nutritional_info": {
+    "Calories": 155,
+    "Carbohydrates": "18 g",
+    "Protein": "3 g",
+    "Fats": {
+      "Total": "9 g",
+      "Saturated": "0.8 g",
+      "Unsaturated": "8.2 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "9 g",
+    "Fiber": "4 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "110 mg",
+    "Vitamin A": "10 µg",
+    "Vitamin C": "4 mg",
+    "Calcium": "35 mg",
+    "Iron": "1 mg"
+  },
+  "source": "nutritionvalue.org"
+},
+{
+  "name": "diced_avocado_with_lemon_capers_and_herbs",
+  "nutritional_info": {
+    "Calories": 180,
+    "Carbohydrates": "9 g",
+    "Protein": "2 g",
+    "Fats": {
+      "Total": "16 g",
+      "Saturated": "2.5 g",
+      "Unsaturated": "13.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "1 g",
+    "Fiber": "7 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "120 mg",
+    "Vitamin A": "7 µg",
+    "Vitamin C": "10 mg",
+    "Calcium": "12 mg",
+    "Iron": "0.6 mg"
+  },
+  "source": "usda.gov"
+},
+{
+  "name": "chopped_mushrooms_with_miso_and_dijon_mustard",
+  "nutritional_info": {
+    "Calories": 95,
+    "Carbohydrates": "9 g",
+    "Protein": "4 g",
+    "Fats": {
+      "Total": "4 g",
+      "Saturated": "0.6 g",
+      "Unsaturated": "3.4 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "2 g",
+    "Fiber": "2 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "420 mg",
+    "Vitamin A": "3 µg",
+    "Vitamin C": "1 mg",
+    "Calcium": "18 mg",
+    "Iron": "0.8 mg"
+  },
+  "source": "verywellfit.com"
+},
+{
+  "name": "beet_salad_with_low_fat_feta_and_olive_oil",
+  "nutritional_info": {
+    "Calories": 210,
+    "Carbohydrates": "15 g",
+    "Protein": "6 g",
+    "Fats": {
+      "Total": "13 g",
+      "Saturated": "3 g",
+      "Unsaturated": "10 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "10 g",
+    "Fiber": "3 g",
+    "Cholesterol": "15 mg",
+    "Sodium": "310 mg",
+    "Vitamin A": "20 µg",
+    "Vitamin C": "5 mg",
+    "Calcium": "70 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "myfitnesspal.com"
+},
+{
+  "name": "roasted_beets_with_arugula_and_citrus_vinaigrette",
+  "nutritional_info": {
+    "Calories": 145,
+    "Carbohydrates": "16 g",
+    "Protein": "2 g",
+    "Fats": {
+      "Total": "9 g",
+      "Saturated": "1 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "8 g",
+    "Fiber": "4 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "100 mg",
+    "Vitamin A": "35 µg",
+    "Vitamin C": "10 mg",
+    "Calcium": "50 mg",
+    "Iron": "1 mg"
+  },
+  "source": "eatthismuch.com"
+},
+{
+  "name": "baked_whole_wheat_mini_donuts_with_cinnamon",
+  "nutritional_info": {
+    "Calories": 160,
+    "Carbohydrates": "23 g",
+    "Protein": "3 g",
+    "Fats": {
+      "Total": "6 g",
+      "Saturated": "1 g",
+      "Unsaturated": "5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "10 g",
+    "Fiber": "2 g",
+    "Cholesterol": "15 mg",
+    "Sodium": "135 mg",
+    "Vitamin A": "12 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "30 mg",
+    "Iron": "0.9 mg"
+  },
+  "source": "verywellfit.com"
+},
+{
+  "name": "air_fried_banana_fritters_with_almond_flour",
+  "nutritional_info": {
+    "Calories": 185,
+    "Carbohydrates": "21 g",
+    "Protein": "4 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "1 g",
+      "Unsaturated": "9 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "9 g",
+    "Fiber": "3 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "60 mg",
+    "Vitamin A": "3 µg",
+    "Vitamin C": "5 mg",
+    "Calcium": "40 mg",
+    "Iron": "0.7 mg"
+  },
+  "source": "usda.gov"
+},
+{
+  "name": "brown_rice_bowl_with_tofu_and_steamed_veggies",
+  "nutritional_info": {
+    "Calories": 390,
+    "Carbohydrates": "45 g",
+    "Protein": "15 g",
+    "Fats": {
+      "Total": "18 g",
+      "Saturated": "2.5 g",
+      "Unsaturated": "15.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "6 g",
+    "Fiber": "6 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "320 mg",
+    "Vitamin A": "80 µg",
+    "Vitamin C": "15 mg",
+    "Calcium": "90 mg",
+    "Iron": "2.5 mg"
+  },
+  "source": "myfitnesspal.com"
+},
+{
+  "name": "cauliflower_rice_with_egg_and_fermented_veggies",
+  "nutritional_info": {
+    "Calories": 110,
+    "Carbohydrates": "6 g",
+    "Protein": "6 g",
+    "Fats": {
+      "Total": "7 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "5.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "2 g",
+    "Fiber": "3 g",
+    "Cholesterol": "75 mg",
+    "Sodium": "300 mg",
+    "Vitamin A": "30 µg",
+    "Vitamin C": "40 mg",
+    "Calcium": "25 mg",
+    "Iron": "0.7 mg"
+  },
+  "source": "Combined: cauliflower rice per USDA, typical egg & fermented veg estimates"
+},
+{
+  "name": "chia_seed_pudding_with_almond_milk_and_fruit",
+  "nutritional_info": {
+    "Calories": 190,
+    "Carbohydrates": "22 g",
+    "Protein": "6 g",
+    "Fats": {
+      "Total": "13 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "11.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "12 g",
+    "Fiber": "10 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "60 mg",
+    "Vitamin A": "10 µg",
+    "Vitamin C": "5 mg",
+    "Calcium": "150 mg",
+    "Iron": "1.5 mg"
+  },
+  "source": "Healthysubstitute + Snapcalorie data combined"
+},
+{
+  "name": "chia_seed_pudding_with_almond_milk_and_fruit",
+  "nutritional_info": {
+    "Calories": 190,
+    "Carbohydrates": "22 g",
+    "Protein": "6 g",
+    "Fats": {
+      "Total": "13 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "11.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "12 g",
+    "Fiber": "10 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "60 mg",
+    "Vitamin A": "10 µg",
+    "Vitamin C": "5 mg",
+    "Calcium": "150 mg",
+    "Iron": "1.5 mg"
+  },
+  "source": "Healthysubstitute + Snapcalorie data combined"
+},
+{
+  "name": "baked_cinnamon_oatmeal",
+  "nutritional_info": {
+    "Calories": 180,
+    "Carbohydrates": "30 g",
+    "Protein": "5 g",
+    "Fats": {
+      "Total": "6 g",
+      "Saturated": "1 g",
+      "Unsaturated": "5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "12 g",
+    "Fiber": "4 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "80 mg",
+    "Vitamin A": "5 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "40 mg",
+    "Iron": "1.5 mg"
+  },
+  "source": "Typical home-baked recipe estimates"
+},
+{
+  "name": "whole_wheat_wrap_with_egg_whites_and_veggies",
+  "nutritional_info": {
+    "Calories": 210,
+    "Carbohydrates": "28 g",
+    "Protein": "15 g",
+    "Fats": {
+      "Total": "5 g",
+      "Saturated": "1 g",
+      "Unsaturated": "4 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "5 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "350 mg",
+    "Vitamin A": "250 µg",
+    "Vitamin C": "20 mg",
+    "Calcium": "100 mg",
+    "Iron": "2 mg"
+  },
+  "source": "Standard breakfast recipe"
+},
+{
+  "name": "lettuce_wrap_with_scrambled_tofu_and_black_beans",
+  "nutritional_info": {
+    "Calories": 220,
+    "Carbohydrates": "18 g",
+    "Protein": "14 g",
+    "Fats": {
+      "Total": "12 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "10.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "2 g",
+    "Fiber": "6 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "240 mg",
+    "Vitamin A": "200 µg",
+    "Vitamin C": "15 mg",
+    "Calcium": "150 mg",
+    "Iron": "2.5 mg"
+  },
+  "source": "Veggie wrap nutrition logic"
+},
+{
+  "name": "whole_grain_toast_with_tomato_basil_and_avocado",
+  "nutritional_info": {
+    "Calories": 260,
+    "Carbohydrates": "30 g",
+    "Protein": "6 g",
+    "Fats": {
+      "Total": "14 g",
+      "Saturated": "2 g",
+      "Unsaturated": "12 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "2 g",
+    "Fiber": "8 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "210 mg",
+    "Vitamin A": "50 µg",
+    "Vitamin C": "10 mg",
+    "Calcium": "40 mg",
+    "Iron": "2.2 mg"
+  },
+  "source": "Combined toast + avocado + tomato nutrition values"
+},
+{
+  "name": "cucumber_slices_with_tomato_and_balsamic",
+  "nutritional_info": {
+    "Calories": 35,
+    "Carbohydrates": "7 g",
+    "Protein": "1 g",
+    "Fats": {
+      "Total": "0.2 g",
+      "Saturated": "0 g",
+      "Unsaturated": "0.2 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "1 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "5 mg",
+    "Vitamin A": "30 µg",
+    "Vitamin C": "8 mg",
+    "Calcium": "10 mg",
+    "Iron": "0.2 mg"
+  },
+  "source": "Vegetable side dish nutrition logic"
+},
+{
+  "name": "romaine_with_greek_yogurt_dressing_and_grilled_chicken",
+  "nutritional_info": {
+    "Calories": 300,
+    "Carbohydrates": "8 g",
+    "Protein": "30 g",
+    "Fats": {
+      "Total": "15 g",
+      "Saturated": "3 g",
+      "Unsaturated": "12 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "3 g",
+    "Cholesterol": "85 mg",
+    "Sodium": "450 mg",
+    "Vitamin A": "300 µg",
+    "Vitamin C": "12 mg",
+    "Calcium": "120 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "Salad nutrition estimate"
+},
+{
+  "name": "kale_caesar_with_avocado_and_chickpea_croutons",
+  "nutritional_info": {
+    "Calories": 330,
+    "Carbohydrates": "22 g",
+    "Protein": "10 g",
+    "Fats": {
+      "Total": "24 g",
+      "Saturated": "4 g",
+      "Unsaturated": "20 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "6 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "550 mg",
+    "Vitamin A": "400 µg",
+    "Vitamin C": "25 mg",
+    "Calcium": "80 mg",
+    "Iron": "2.5 mg"
+  },
+  "source": "Homemade salad estimate"
+},
+{
+  "name": "ricotta_stuffed_strawberries_with_dark_chocolate_chips",
+  "nutritional_info": {
+    "Calories": 150,
+    "Carbohydrates": "18 g",
+    "Protein": "5 g",
+    "Fats": {
+      "Total": "8 g",
+      "Saturated": "3 g",
+      "Unsaturated": "5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "12 g",
+    "Fiber": "2 g",
+    "Cholesterol": "15 mg",
+    "Sodium": "35 mg",
+    "Vitamin A": "30 µg",
+    "Vitamin C": "40 mg",
+    "Calcium": "140 mg",
+    "Iron": "0.5 mg"
+  },
+  "source": "Homemade dessert estimate"
+},
+{
+  "name": "whole_wheat_cannoli_with_ricotta_and_honey",
+  "nutritional_info": {
+    "Calories": 210,
+    "Carbohydrates": "22 g",
+    "Protein": "6 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "4 g",
+      "Unsaturated": "6 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "12 g",
+    "Fiber": "2 g",
+    "Cholesterol": "20 mg",
+    "Sodium": "60 mg",
+    "Vitamin A": "50 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "120 mg",
+    "Iron": "0.8 mg"
+  },
+  "source": "Homemade dessert approximation"
+},
+{
+  "name": "part_skim_mozzarella_with_basil_and_tomatoes",
+  "nutritional_info": {
+    "Calories": 160,
+    "Carbohydrates": "4 g",
+    "Protein": "10 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "5 g",
+      "Unsaturated": "5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "2 g",
+    "Fiber": "1 g",
+    "Cholesterol": "20 mg",
+    "Sodium": "180 mg",
+    "Vitamin A": "200 µg",
+    "Vitamin C": "12 mg",
+    "Calcium": "250 mg",
+    "Iron": "0.3 mg"
+  },
+  "source": "Caprese-style serving, ~100g"
+},
+{
+  "name": "tofu_slices_with_tomatoes_and_balsamic_glaze",
+  "nutritional_info": {
+    "Calories": 170,
+    "Carbohydrates": "6 g",
+    "Protein": "12 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "8.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "2 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "150 mg",
+    "Vitamin A": "100 µg",
+    "Vitamin C": "8 mg",
+    "Calcium": "250 mg",
+    "Iron": "2.5 mg"
+  },
+  "source": "Tofu + tomato + balsamic glaze composite"
+},
+    {
+  "name": "whole_grain_carrot_muffins_with_greek_yogurt_frosting",
+  "nutritional_info": {
+    "Calories": 220,
+    "Carbohydrates": "28 g",
+    "Protein": "6 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "2 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "14 g",
+    "Fiber": "4 g",
+    "Cholesterol": "15 mg",
+    "Sodium": "180 mg",
+    "Vitamin A": "600 µg",
+    "Vitamin C": "2 mg",
+    "Calcium": "90 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "Muffin nutrition adapted from healthy baking resources"
+},
+{
+  "name": "almond_flour_carrot_bars_with_dates",
+  "nutritional_info": {
+    "Calories": 210,
+    "Carbohydrates": "20 g",
+    "Protein": "5 g",
+    "Fats": {
+      "Total": "13 g",
+      "Saturated": "1 g",
+      "Unsaturated": "12 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "14 g",
+    "Fiber": "4 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "70 mg",
+    "Vitamin A": "500 µg",
+    "Vitamin C": "1 mg",
+    "Calcium": "60 mg",
+    "Iron": "1 mg"
+  },
+  "source": "Grain-free date-sweetened bar nutrition"
+},
+{
+  "name": "lean_white_fish_cevice_with_citrus_and_herbs",
+  "nutritional_info": {
+    "Calories": 140,
+    "Carbohydrates": "5 g",
+    "Protein": "22 g",
+    "Fats": {
+      "Total": "3 g",
+      "Saturated": "0.5 g",
+      "Unsaturated": "2.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "1 g",
+    "Fiber": "1 g",
+    "Cholesterol": "50 mg",
+    "Sodium": "180 mg",
+    "Vitamin A": "60 µg",
+    "Vitamin C": "15 mg",
+    "Calcium": "20 mg",
+    "Iron": "0.8 mg"
+  },
+  "source": "Ceviche serving estimates (100–120g)"
+},
+{
+  "name": "mango_avocado_cevice_with_lime_juice",
+  "nutritional_info": {
+    "Calories": 180,
+    "Carbohydrates": "16 g",
+    "Protein": "3 g",
+    "Fats": {
+      "Total": "12 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "10.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "9 g",
+    "Fiber": "5 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "10 mg",
+    "Vitamin A": "100 µg",
+    "Vitamin C": "35 mg",
+    "Calcium": "25 mg",
+    "Iron": "0.6 mg"
+  },
+  "source": "Tropical ceviche with fruit & avocado base"
+},
+{
+  "name": "cottage_cheese_cheesecakes_with_berries",
+  "nutritional_info": {
+    "Calories": 180,
+    "Carbohydrates": "16 g",
+    "Protein": "10 g",
+    "Fats": {
+      "Total": "8 g",
+      "Saturated": "4 g",
+      "Unsaturated": "4 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "10 g",
+    "Fiber": "1 g",
+    "Cholesterol": "25 mg",
+    "Sodium": "120 mg",
+    "Vitamin A": "80 µg",
+    "Vitamin C": "3 mg",
+    "Calcium": "120 mg",
+    "Iron": "0.4 mg"
+  },
+  "source": "Mini cheesecake macro estimate"
+},
+{
+  "name": "tofu_cheesecake_with_almond_crust",
+  "nutritional_info": {
+    "Calories": 200,
+    "Carbohydrates": "15 g",
+    "Protein": "7 g",
+    "Fats": {
+      "Total": "14 g",
+      "Saturated": "2 g",
+      "Unsaturated": "12 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "8 g",
+    "Fiber": "2 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "90 mg",
+    "Vitamin A": "50 µg",
+    "Vitamin C": "1 mg",
+    "Calcium": "100 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "Plant-based cheesecake average"
+},
+{
+  "name": "fruits_nuts_and_low_fat_cheeses",
+  "nutritional_info": {
+    "Calories": 250,
+    "Carbohydrates": "20 g",
+    "Protein": "10 g",
+    "Fats": {
+      "Total": "15 g",
+      "Saturated": "3 g",
+      "Unsaturated": "12 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "12 g",
+    "Fiber": "4 g",
+    "Cholesterol": "10 mg",
+    "Sodium": "140 mg",
+    "Vitamin A": "150 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "200 mg",
+    "Iron": "1 mg"
+  },
+  "source": "Snack platter average (fruit + nuts + cheese)"
+},
+{
+  "name": "goat_cheese_with_figs_and_whole_grain_crackers",
+  "nutritional_info": {
+    "Calories": 220,
+    "Carbohydrates": "18 g",
+    "Protein": "7 g",
+    "Fats": {
+      "Total": "13 g",
+      "Saturated": "6 g",
+      "Unsaturated": "7 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "9 g",
+    "Fiber": "3 g",
+    "Cholesterol": "15 mg",
+    "Sodium": "180 mg",
+    "Vitamin A": "150 µg",
+    "Vitamin C": "1 mg",
+    "Calcium": "90 mg",
+    "Iron": "0.9 mg"
+  },
+  "source": "Snack combo average: figs + goat cheese + 2 crackers"
+},
+{
+  "name": "grilled_chicken_with_coconut_milk_and_veggies",
+  "nutritional_info": {
+    "Calories": 310,
+    "Carbohydrates": "12 g",
+    "Protein": "28 g",
+    "Fats": {
+      "Total": "18 g",
+      "Saturated": "10 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "5 g",
+    "Fiber": "3 g",
+    "Cholesterol": "70 mg",
+    "Sodium": "210 mg",
+    "Vitamin A": "200 µg",
+    "Vitamin C": "15 mg",
+    "Calcium": "40 mg",
+    "Iron": "1.5 mg"
+  },
+  "source": "Grilled chicken curry-style with mixed vegetables"
+},
+{
+  "name": "lentil_and_sweet_potato_curry_with_turmeric",
+  "nutritional_info": {
+    "Calories": 290,
+    "Carbohydrates": "38 g",
+    "Protein": "12 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "2 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "9 g",
+    "Fiber": "9 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "270 mg",
+    "Vitamin A": "800 µg",
+    "Vitamin C": "10 mg",
+    "Calcium": "60 mg",
+    "Iron": "3.5 mg"
+  },
+  "source": "Plant-based curry with coconut oil, ~1 cup"
+},
+{
+  "name": "whole_wheat_tortilla_with_chicken_and_low_fat_cheese",
+  "nutritional_info": {
+    "Calories": 340,
+    "Carbohydrates": "28 g",
+    "Protein": "25 g",
+    "Fats": {
+      "Total": "14 g",
+      "Saturated": "5 g",
+      "Unsaturated": "9 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "2 g",
+    "Fiber": "5 g",
+    "Cholesterol": "55 mg",
+    "Sodium": "430 mg",
+    "Vitamin A": "100 µg",
+    "Vitamin C": "2 mg",
+    "Calcium": "200 mg",
+    "Iron": "2 mg"
+  },
+  "source": "Wrap-based dish estimate (~1 medium wrap)"
+},
+{
+  "name": "veggie_quesadilla_with_black_beans_and_avocado",
+  "nutritional_info": {
+    "Calories": 370,
+    "Carbohydrates": "32 g",
+    "Protein": "12 g",
+    "Fats": {
+      "Total": "22 g",
+      "Saturated": "5 g",
+      "Unsaturated": "17 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "9 g",
+    "Cholesterol": "10 mg",
+    "Sodium": "280 mg",
+    "Vitamin A": "200 µg",
+    "Vitamin C": "7 mg",
+    "Calcium": "180 mg",
+    "Iron": "2.4 mg"
+  },
+  "source": "Homemade quesadilla, 1 medium"
+},
+{
+  "name": "baked_cauliflower_wings_with_hot_sauce",
+  "nutritional_info": {
+    "Calories": 180,
+    "Carbohydrates": "16 g",
+    "Protein": "5 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "8.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "4 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "460 mg",
+    "Vitamin A": "80 µg",
+    "Vitamin C": "70 mg",
+    "Calcium": "40 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "Cauliflower pieces, baked, ~1 cup with sauce"
+},
+{
+  "name": "grilled_chicken_tenders_with_paprika_and_lemon",
+  "nutritional_info": {
+    "Calories": 220,
+    "Carbohydrates": "2 g",
+    "Protein": "28 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "2 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "1 g",
+    "Fiber": "0 g",
+    "Cholesterol": "70 mg",
+    "Sodium": "200 mg",
+    "Vitamin A": "120 µg",
+    "Vitamin C": "5 mg",
+    "Calcium": "20 mg",
+    "Iron": "1 mg"
+  },
+  "source": "Standard grilled tenderloin (~120g)"
+},
+{
+  "name": "avocado_chocolate_cake_with_almond_flour",
+  "nutritional_info": {
+    "Calories": 280,
+    "Carbohydrates": "20 g",
+    "Protein": "6 g",
+    "Fats": {
+      "Total": "20 g",
+      "Saturated": "4 g",
+      "Unsaturated": "16 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "12 g",
+    "Fiber": "5 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "120 mg",
+    "Vitamin A": "60 µg",
+    "Vitamin C": "2 mg",
+    "Calcium": "40 mg",
+    "Iron": "2 mg"
+  },
+  "source": "Healthy fat-rich dessert slice (~80g)"
+},
+{
+  "name": "black_bean_chocolate_brownies_with_maple_syrup",
+  "nutritional_info": {
+    "Calories": 190,
+    "Carbohydrates": "23 g",
+    "Protein": "6 g",
+    "Fats": {
+      "Total": "8 g",
+      "Saturated": "2 g",
+      "Unsaturated": "6 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "12 g",
+    "Fiber": "5 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "100 mg",
+    "Vitamin A": "30 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "40 mg",
+    "Iron": "1.4 mg"
+  },
+  "source": "Bean-based brownie per square (~60g)"
+},
+{
+  "name": "silken_tofu_chocolate_mousse",
+  "nutritional_info": {
+    "Calories": 210,
+    "Carbohydrates": "14 g",
+    "Protein": "8 g",
+    "Fats": {
+      "Total": "14 g",
+      "Saturated": "3 g",
+      "Unsaturated": "11 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "8 g",
+    "Fiber": "3 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "90 mg",
+    "Vitamin A": "40 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "150 mg",
+    "Iron": "2 mg"
+  },
+  "source": "Plant-based dessert, ~1/2 cup"
+},
+{
+  "name": "avocado_cocoa_mousse_with_banana",
+  "nutritional_info": {
+    "Calories": 230,
+    "Carbohydrates": "20 g",
+    "Protein": "3 g",
+    "Fats": {
+      "Total": "16 g",
+      "Saturated": "3 g",
+      "Unsaturated": "13 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "10 g",
+    "Fiber": "5 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "30 mg",
+    "Vitamin A": "70 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "25 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "1/2 cup serving of homemade mousse"
+},
+{
+  "name": "baked_whole_wheat_churros_with_cinnamon_date_dip",
+  "nutritional_info": {
+    "Calories": 180,
+    "Carbohydrates": "30 g",
+    "Protein": "3 g",
+    "Fats": {
+      "Total": "5 g",
+      "Saturated": "1 g",
+      "Unsaturated": "4 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "10 g",
+    "Fiber": "4 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "80 mg",
+    "Vitamin A": "10 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "30 mg",
+    "Iron": "1.1 mg"
+  },
+  "source": "Two small churros with 2 tbsp dip"
+},
+{
+  "name": "air_fried_oat_flour_churros_with_honey_drizzle",
+  "nutritional_info": {
+    "Calories": 190,
+    "Carbohydrates": "28 g",
+    "Protein": "3 g",
+    "Fats": {
+      "Total": "6 g",
+      "Saturated": "1 g",
+      "Unsaturated": "5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "11 g",
+    "Fiber": "3 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "70 mg",
+    "Vitamin A": "5 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "20 mg",
+    "Iron": "1 mg"
+  },
+  "source": "Two medium churros with 1 tsp honey"
+},
+    {
+  "name": "light_seafood_chowder_with_coconut_milk",
+  "nutritional_info": {
+    "Calories": 240,
+    "Carbohydrates": "14 g",
+    "Protein": "20 g",
+    "Fats": {
+      "Total": "12 g",
+      "Saturated": "8 g",
+      "Unsaturated": "4 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "2 g",
+    "Cholesterol": "50 mg",
+    "Sodium": "330 mg",
+    "Vitamin A": "70 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "45 mg",
+    "Iron": "1.8 mg"
+  },
+  "source": "1 cup serving of homemade chowder"
+},
+{
+  "name": "cauliflower_chowder_with_herbs_and_corn",
+  "nutritional_info": {
+    "Calories": 200,
+    "Carbohydrates": "22 g",
+    "Protein": "6 g",
+    "Fats": {
+      "Total": "9 g",
+      "Saturated": "2 g",
+      "Unsaturated": "7 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "5 g",
+    "Fiber": "5 g",
+    "Cholesterol": "5 mg",
+    "Sodium": "290 mg",
+    "Vitamin A": "60 µg",
+    "Vitamin C": "20 mg",
+    "Calcium": "50 mg",
+    "Iron": "1.5 mg"
+  },
+  "source": "1 cup bowl of veggie-based chowder"
+},
+{
+  "name": "turkey_and_avocado_sandwich_on_whole_grain_bread",
+  "nutritional_info": {
+    "Calories": 350,
+    "Carbohydrates": "32 g",
+    "Protein": "25 g",
+    "Fats": {
+      "Total": "16 g",
+      "Saturated": "3.5 g",
+      "Unsaturated": "12.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "6 g",
+    "Cholesterol": "45 mg",
+    "Sodium": "480 mg",
+    "Vitamin A": "90 µg",
+    "Vitamin C": "4 mg",
+    "Calcium": "60 mg",
+    "Iron": "2.2 mg"
+  },
+  "source": "Standard homemade sandwich"
+},
+{
+  "name": "baked_quinoa_crab_patties",
+  "nutritional_info": {
+    "Calories": 230,
+    "Carbohydrates": "18 g",
+    "Protein": "17 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "2 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "1 g",
+    "Fiber": "3 g",
+    "Cholesterol": "50 mg",
+    "Sodium": "370 mg",
+    "Vitamin A": "55 µg",
+    "Vitamin C": "3 mg",
+    "Calcium": "35 mg",
+    "Iron": "1.5 mg"
+  },
+  "source": "Two 3-inch patties, baked"
+},
+{
+  "name": "zucchini_crab_cakes_with_greek_yogurt_dip",
+  "nutritional_info": {
+    "Calories": 240,
+    "Carbohydrates": "15 g",
+    "Protein": "18 g",
+    "Fats": {
+      "Total": "11 g",
+      "Saturated": "2 g",
+      "Unsaturated": "9 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "2 g",
+    "Cholesterol": "45 mg",
+    "Sodium": "360 mg",
+    "Vitamin A": "50 µg",
+    "Vitamin C": "4 mg",
+    "Calcium": "40 mg",
+    "Iron": "1.3 mg"
+  },
+  "source": "Two cakes with 1 tbsp Greek yogurt dip"
+},
+{
+  "name": "greek_yogurt_custard_with_caramelized_honey_top",
+  "nutritional_info": {
+    "Calories": 190,
+    "Carbohydrates": "18 g",
+    "Protein": "10 g",
+    "Fats": {
+      "Total": "8 g",
+      "Saturated": "4 g",
+      "Unsaturated": "4 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "12 g",
+    "Fiber": "0 g",
+    "Cholesterol": "15 mg",
+    "Sodium": "60 mg",
+    "Vitamin A": "70 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "120 mg",
+    "Iron": "0.2 mg"
+  },
+  "source": "Individual dessert cup (~100g)"
+},
+{
+  "name": "vanilla_chia_pudding_with_coconut_milk",
+  "nutritional_info": {
+    "Calories": 210,
+    "Carbohydrates": "15 g",
+    "Protein": "5 g",
+    "Fats": {
+      "Total": "14 g",
+      "Saturated": "10 g",
+      "Unsaturated": "4 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "7 g",
+    "Fiber": "6 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "35 mg",
+    "Vitamin A": "5 µg",
+    "Vitamin C": "1 mg",
+    "Calcium": "120 mg",
+    "Iron": "1.8 mg"
+  },
+  "source": "1/2 cup homemade portion"
+},
+{
+  "name": "open_faced_egg_white_sandwich_with_spinach_and_tomato",
+  "nutritional_info": {
+    "Calories": 180,
+    "Carbohydrates": "20 g",
+    "Protein": "14 g",
+    "Fats": {
+      "Total": "4 g",
+      "Saturated": "1 g",
+      "Unsaturated": "3 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "3 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "320 mg",
+    "Vitamin A": "150 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "90 mg",
+    "Iron": "1.6 mg"
+  },
+  "source": "1 slice whole grain toast with toppings"
+},
+{
+  "name": "whole_grain_toast_with_turkey_egg_and_low_fat_cheese",
+  "nutritional_info": {
+    "Calories": 310,
+    "Carbohydrates": "24 g",
+    "Protein": "22 g",
+    "Fats": {
+      "Total": "12 g",
+      "Saturated": "4 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "4 g",
+    "Cholesterol": "55 mg",
+    "Sodium": "460 mg",
+    "Vitamin A": "110 µg",
+    "Vitamin C": "1 mg",
+    "Calcium": "150 mg",
+    "Iron": "2.4 mg"
+  },
+  "source": "1 full sandwich (1 slice turkey, 1 egg, cheese)"
+},
+{
+  "name": "zucchini_lasagna_with_turkey_and_ricotta",
+  "nutritional_info": {
+    "Calories": 280,
+    "Carbohydrates": "10 g",
+    "Protein": "24 g",
+    "Fats": {
+      "Total": "17 g",
+      "Saturated": "6 g",
+      "Unsaturated": "11 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "5 g",
+    "Fiber": "2 g",
+    "Cholesterol": "55 mg",
+    "Sodium": "410 mg",
+    "Vitamin A": "180 µg",
+    "Vitamin C": "12 mg",
+    "Calcium": "140 mg",
+    "Iron": "2.1 mg"
+  },
+  "source": "1 cup serving of homemade portion"
+},
+{
+  "name": "whole_wheat_pasta_lasagna_with_lentils_and_spinach",
+  "nutritional_info": {
+    "Calories": 320,
+    "Carbohydrates": "38 g",
+    "Protein": "17 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "3 g",
+      "Unsaturated": "7 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "6 g",
+    "Fiber": "8 g",
+    "Cholesterol": "10 mg",
+    "Sodium": "380 mg",
+    "Vitamin A": "220 µg",
+    "Vitamin C": "10 mg",
+    "Calcium": "100 mg",
+    "Iron": "3.5 mg"
+  },
+  "source": "1 cup serving"
+},
+{
+  "name": "light_seafood_soup_with_greek_yogurt_and_herbs",
+  "nutritional_info": {
+    "Calories": 240,
+    "Carbohydrates": "12 g",
+    "Protein": "22 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "4 g",
+      "Unsaturated": "6 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "1 g",
+    "Cholesterol": "55 mg",
+    "Sodium": "350 mg",
+    "Vitamin A": "90 µg",
+    "Vitamin C": "3 mg",
+    "Calcium": "60 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "1 cup bowl"
+},
+{
+  "name": "lobster_chowder_with_low_fat_milk_and_vegetables",
+  "nutritional_info": {
+    "Calories": 260,
+    "Carbohydrates": "16 g",
+    "Protein": "19 g",
+    "Fats": {
+      "Total": "12 g",
+      "Saturated": "4 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "5 g",
+    "Fiber": "2 g",
+    "Cholesterol": "60 mg",
+    "Sodium": "420 mg",
+    "Vitamin A": "100 µg",
+    "Vitamin C": "5 mg",
+    "Calcium": "90 mg",
+    "Iron": "1.6 mg"
+  },
+  "source": "1 cup serving"
+},
+{
+  "name": "lettuce_wrap_lobster_salad_with_avocado",
+  "nutritional_info": {
+    "Calories": 240,
+    "Carbohydrates": "8 g",
+    "Protein": "20 g",
+    "Fats": {
+      "Total": "15 g",
+      "Saturated": "3 g",
+      "Unsaturated": "12 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "2 g",
+    "Fiber": "4 g",
+    "Cholesterol": "55 mg",
+    "Sodium": "320 mg",
+    "Vitamin A": "85 µg",
+    "Vitamin C": "7 mg",
+    "Calcium": "45 mg",
+    "Iron": "1.1 mg"
+  },
+  "source": "2 wraps with ~3 oz lobster, 1/4 avocado"
+},
+{
+  "name": "whole_grain_bun_with_greek_yogurt_lobster_mix",
+  "nutritional_info": {
+    "Calories": 310,
+    "Carbohydrates": "28 g",
+    "Protein": "21 g",
+    "Fats": {
+      "Total": "12 g",
+      "Saturated": "3 g",
+      "Unsaturated": "9 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "4 g",
+    "Cholesterol": "60 mg",
+    "Sodium": "400 mg",
+    "Vitamin A": "90 µg",
+    "Vitamin C": "3 mg",
+    "Calcium": "75 mg",
+    "Iron": "2.1 mg"
+  },
+  "source": "1 sandwich (4 oz filling)"
+},
+{
+  "name": "cauliflower_mac_with_nutritional_yeast",
+  "nutritional_info": {
+    "Calories": 210,
+    "Carbohydrates": "14 g",
+    "Protein": "10 g",
+    "Fats": {
+      "Total": "13 g",
+      "Saturated": "3 g",
+      "Unsaturated": "10 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "5 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "290 mg",
+    "Vitamin A": "50 µg",
+    "Vitamin C": "35 mg",
+    "Calcium": "60 mg",
+    "Iron": "2.3 mg"
+  },
+  "source": "1 cup serving"
+},
+{
+  "name": "whole_wheat_pasta_with_light_cheese_and_broccoli",
+  "nutritional_info": {
+    "Calories": 320,
+    "Carbohydrates": "42 g",
+    "Protein": "16 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "4 g",
+      "Unsaturated": "6 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "7 g",
+    "Cholesterol": "10 mg",
+    "Sodium": "360 mg",
+    "Vitamin A": "130 µg",
+    "Vitamin C": "50 mg",
+    "Calcium": "140 mg",
+    "Iron": "3.4 mg"
+  },
+  "source": "1 cup serving"
+},
+{
+  "name": "almond_flour_cookies_with_date_paste_filling",
+  "nutritional_info": {
+    "Calories": 180,
+    "Carbohydrates": "14 g",
+    "Protein": "4 g",
+    "Fats": {
+      "Total": "12 g",
+      "Saturated": "1 g",
+      "Unsaturated": "11 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "10 g",
+    "Fiber": "3 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "40 mg",
+    "Vitamin A": "2 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "40 mg",
+    "Iron": "0.8 mg"
+  },
+  "source": "2 small cookies"
+},
+{
+  "name": "coconut_macaroons_with_dark_chocolate_drizzle",
+  "nutritional_info": {
+    "Calories": 140,
+    "Carbohydrates": "13 g",
+    "Protein": "2 g",
+    "Fats": {
+      "Total": "9 g",
+      "Saturated": "7 g",
+      "Unsaturated": "2 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "9 g",
+    "Fiber": "2 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "35 mg",
+    "Vitamin A": "0 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "10 mg",
+    "Iron": "0.7 mg"
+  },
+  "source": "1 medium macaroon"
+},
+{
+  "name": "low_sodium_miso_soup_with_tofu_and_seaweed",
+  "nutritional_info": {
+    "Calories": 70,
+    "Carbohydrates": "6 g",
+    "Protein": "6 g",
+    "Fats": {
+      "Total": "3 g",
+      "Saturated": "0.5 g",
+      "Unsaturated": "2.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "1 g",
+    "Fiber": "1 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "280 mg",
+    "Vitamin A": "10 µg",
+    "Vitamin C": "2 mg",
+    "Calcium": "60 mg",
+    "Iron": "1 mg"
+  },
+  "source": "1 cup serving"
+},
+{
+  "name": "vegetable_miso_soup_with_mushrooms_and_greens",
+  "nutritional_info": {
+    "Calories": 80,
+    "Carbohydrates": "7 g",
+    "Protein": "5 g",
+    "Fats": {
+      "Total": "3 g",
+      "Saturated": "0.5 g",
+      "Unsaturated": "2.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "2 g",
+    "Fiber": "2 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "300 mg",
+    "Vitamin A": "30 µg",
+    "Vitamin C": "3 mg",
+    "Calcium": "45 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "1 cup serving"
+},
+{
+  "name": "steamed_mussels_with_garlic_and_herbs",
+  "nutritional_info": {
+    "Calories": 180,
+    "Carbohydrates": "6 g",
+    "Protein": "23 g",
+    "Fats": {
+      "Total": "6 g",
+      "Saturated": "1 g",
+      "Unsaturated": "5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "1 g",
+    "Fiber": "0 g",
+    "Cholesterol": "50 mg",
+    "Sodium": "400 mg",
+    "Vitamin A": "100 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "50 mg",
+    "Iron": "6.7 mg"
+  },
+  "source": "1 cup (~10 mussels)"
+},
+{
+  "name": "grilled_mussels_with_lemon_and_olive_oil",
+  "nutritional_info": {
+    "Calories": 190,
+    "Carbohydrates": "4 g",
+    "Protein": "24 g",
+    "Fats": {
+      "Total": "8 g",
+      "Saturated": "1 g",
+      "Unsaturated": "7 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "0 g",
+    "Fiber": "0 g",
+    "Cholesterol": "50 mg",
+    "Sodium": "390 mg",
+    "Vitamin A": "95 µg",
+    "Vitamin C": "7 mg",
+    "Calcium": "52 mg",
+    "Iron": "6.3 mg"
+  },
+  "source": "1 cup (~10 mussels)"
+},
+{
+  "name": "baked_tortilla_chips_with_beans_salsa_and_avocado",
+  "nutritional_info": {
+    "Calories": 260,
+    "Carbohydrates": "28 g",
+    "Protein": "7 g",
+    "Fats": {
+      "Total": "14 g",
+      "Saturated": "2 g",
+      "Unsaturated": "12 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "7 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "320 mg",
+    "Vitamin A": "80 µg",
+    "Vitamin C": "10 mg",
+    "Calcium": "50 mg",
+    "Iron": "1.5 mg"
+  },
+  "source": "1 small bowl portion"
+},
+{
+  "name": "sweet_potato_chips_with_greek_yogurt_dip",
+  "nutritional_info": {
+    "Calories": 230,
+    "Carbohydrates": "26 g",
+    "Protein": "5 g",
+    "Fats": {
+      "Total": "12 g",
+      "Saturated": "3 g",
+      "Unsaturated": "9 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "6 g",
+    "Fiber": "4 g",
+    "Cholesterol": "5 mg",
+    "Sodium": "190 mg",
+    "Vitamin A": "850 µg",
+    "Vitamin C": "4 mg",
+    "Calcium": "90 mg",
+    "Iron": "1 mg"
+  },
+  "source": "1 serving (handful chips + 2 tbsp dip)"
+},
+{
+  "name": "veggie_egg_white_omelet_with_spinach_and_mushrooms",
+  "nutritional_info": {
+    "Calories": 150,
+    "Carbohydrates": "5 g",
+    "Protein": "18 g",
+    "Fats": {
+      "Total": "6 g",
+      "Saturated": "1 g",
+      "Unsaturated": "5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "2 g",
+    "Fiber": "2 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "270 mg",
+    "Vitamin A": "190 µg",
+    "Vitamin C": "7 mg",
+    "Calcium": "60 mg",
+    "Iron": "1.4 mg"
+  },
+  "source": "1 full omelet (3 egg whites + veggies)"
+},
+{
+  "name": "tofu_scramble_with_bell_peppers_and_onions",
+  "nutritional_info": {
+    "Calories": 220,
+    "Carbohydrates": "10 g",
+    "Protein": "16 g",
+    "Fats": {
+      "Total": "14 g",
+      "Saturated": "2 g",
+      "Unsaturated": "12 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "3 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "350 mg",
+    "Vitamin A": "120 µg",
+    "Vitamin C": "40 mg",
+    "Calcium": "150 mg",
+    "Iron": "3.5 mg"
+  },
+  "source": "Plant-based scramble serving"
+},
+{
+  "name": "baked_onion_rings_with_whole_wheat_coating",
+  "nutritional_info": {
+    "Calories": 180,
+    "Carbohydrates": "22 g",
+    "Protein": "3 g",
+    "Fats": {
+      "Total": "8 g",
+      "Saturated": "1 g",
+      "Unsaturated": "7 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "5 g",
+    "Fiber": "2 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "320 mg",
+    "Vitamin A": "0 µg",
+    "Vitamin C": "3 mg",
+    "Calcium": "25 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "Baked onion ring recipe"
+},
+{
+  "name": "air_fried_onion_rings_with_oat_flour",
+  "nutritional_info": {
+    "Calories": 170,
+    "Carbohydrates": "20 g",
+    "Protein": "3 g",
+    "Fats": {
+      "Total": "7 g",
+      "Saturated": "0.8 g",
+      "Unsaturated": "6.2 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "2 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "300 mg",
+    "Vitamin A": "0 µg",
+    "Vitamin C": "3 mg",
+    "Calcium": "20 mg",
+    "Iron": "1 mg"
+  },
+  "source": "Air fryer onion rings"
+},
+{
+  "name": "grilled_oysters_with_lemon_and_herbs",
+  "nutritional_info": {
+    "Calories": 110,
+    "Carbohydrates": "3 g",
+    "Protein": "11 g",
+    "Fats": {
+      "Total": "5 g",
+      "Saturated": "1 g",
+      "Unsaturated": "4 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "0 g",
+    "Fiber": "0 g",
+    "Cholesterol": "45 mg",
+    "Sodium": "270 mg",
+    "Vitamin A": "40 µg",
+    "Vitamin C": "5 mg",
+    "Calcium": "50 mg",
+    "Iron": "6 mg"
+  },
+  "source": "6 grilled oysters"
+},
+{
+  "name": "raw_oysters_with_mignonette_and_herbs",
+  "nutritional_info": {
+    "Calories": 90,
+    "Carbohydrates": "3 g",
+    "Protein": "9 g",
+    "Fats": {
+      "Total": "4 g",
+      "Saturated": "1 g",
+      "Unsaturated": "3 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "0 g",
+    "Fiber": "0 g",
+    "Cholesterol": "40 mg",
+    "Sodium": "260 mg",
+    "Vitamin A": "35 µg",
+    "Vitamin C": "4 mg",
+    "Calcium": "45 mg",
+    "Iron": "5.5 mg"
+  },
+  "source": "6 raw oysters"
+},
+{
+  "name": "zucchini_noodles_with_shrimp_tofu_and_peanuts",
+  "nutritional_info": {
+    "Calories": 280,
+    "Carbohydrates": "18 g",
+    "Protein": "20 g",
+    "Fats": {
+      "Total": "16 g",
+      "Saturated": "2.5 g",
+      "Unsaturated": "13.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "4 g",
+    "Cholesterol": "90 mg",
+    "Sodium": "430 mg",
+    "Vitamin A": "150 µg",
+    "Vitamin C": "25 mg",
+    "Calcium": "100 mg",
+    "Iron": "2 mg"
+  },
+  "source": "Zoodle stir-fry ~2 cups"
+},
+{
+  "name": "brown_rice_pad_thai_with_veggies",
+  "nutritional_info": {
+    "Calories": 360,
+    "Carbohydrates": "50 g",
+    "Protein": "12 g",
+    "Fats": {
+      "Total": "14 g",
+      "Saturated": "2 g",
+      "Unsaturated": "12 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "8 g",
+    "Fiber": "6 g",
+    "Cholesterol": "15 mg",
+    "Sodium": "520 mg",
+    "Vitamin A": "300 µg",
+    "Vitamin C": "15 mg",
+    "Calcium": "90 mg",
+    "Iron": "2.2 mg"
+  },
+  "source": "Veggie-focused homemade Pad Thai, ~1 cup"
+},
+{
+  "name": "brown_rice_seafood_paella_with_vegetables",
+  "nutritional_info": {
+    "Calories": 390,
+    "Carbohydrates": "46 g",
+    "Protein": "22 g",
+    "Fats": {
+      "Total": "14 g",
+      "Saturated": "3 g",
+      "Unsaturated": "11 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "6 g",
+    "Cholesterol": "60 mg",
+    "Sodium": "480 mg",
+    "Vitamin A": "200 µg",
+    "Vitamin C": "15 mg",
+    "Calcium": "60 mg",
+    "Iron": "3 mg"
+  },
+  "source": "1 cup serving"
+},
+{
+  "name": "quinoa_paella_with_shrimp_and_beans",
+  "nutritional_info": {
+    "Calories": 360,
+    "Carbohydrates": "40 g",
+    "Protein": "18 g",
+    "Fats": {
+      "Total": "12 g",
+      "Saturated": "2 g",
+      "Unsaturated": "10 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "7 g",
+    "Cholesterol": "50 mg",
+    "Sodium": "450 mg",
+    "Vitamin A": "180 µg",
+    "Vitamin C": "12 mg",
+    "Calcium": "70 mg",
+    "Iron": "3.4 mg"
+  },
+  "source": "1 cup homemade quinoa paella"
+},
+{
+  "name": "oat_flour_pancakes_with_honey_or_maple_syrup",
+  "nutritional_info": {
+    "Calories": 270,
+    "Carbohydrates": "36 g",
+    "Protein": "7 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "2 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "12 g",
+    "Fiber": "4 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "340 mg",
+    "Vitamin A": "50 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "90 mg",
+    "Iron": "2 mg"
+  },
+  "source": "3 small pancakes + syrup"
+},
+{
+  "name": "banana_egg_pancakes_with_almond_butter",
+  "nutritional_info": {
+    "Calories": 300,
+    "Carbohydrates": "28 g",
+    "Protein": "10 g",
+    "Fats": {
+      "Total": "18 g",
+      "Saturated": "2 g",
+      "Unsaturated": "16 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "14 g",
+    "Fiber": "4 g",
+    "Cholesterol": "190 mg",
+    "Sodium": "110 mg",
+    "Vitamin A": "90 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "50 mg",
+    "Iron": "1.6 mg"
+  },
+  "source": "2 medium pancakes with 1 tbsp almond butter"
+},
+{
+  "name": "greek_yogurt_panna_cotta_with_berries",
+  "nutritional_info": {
+    "Calories": 200,
+    "Carbohydrates": "18 g",
+    "Protein": "12 g",
+    "Fats": {
+      "Total": "7 g",
+      "Saturated": "4 g",
+      "Unsaturated": "3 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "10 g",
+    "Fiber": "1 g",
+    "Cholesterol": "15 mg",
+    "Sodium": "65 mg",
+    "Vitamin A": "75 µg",
+    "Vitamin C": "4 mg",
+    "Calcium": "150 mg",
+    "Iron": "0.4 mg"
+  },
+  "source": "1 small cup"
+},
+{
+  "name": "coconut_milk_panna_cotta_with_chia_seeds",
+  "nutritional_info": {
+    "Calories": 240,
+    "Carbohydrates": "10 g",
+    "Protein": "5 g",
+    "Fats": {
+      "Total": "20 g",
+      "Saturated": "16 g",
+      "Unsaturated": "4 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "5 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "35 mg",
+    "Vitamin A": "0 µg",
+    "Vitamin C": "2 mg",
+    "Calcium": "100 mg",
+    "Iron": "1.5 mg"
+  },
+  "source": "1 small ramekin"
+},
+{
+  "name": "grilled_skinless_duck_breast_with_hoisin_glaze",
+  "nutritional_info": {
+    "Calories": 290,
+    "Carbohydrates": "8 g",
+    "Protein": "28 g",
+    "Fats": {
+      "Total": "16 g",
+      "Saturated": "4.5 g",
+      "Unsaturated": "11.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "6 g",
+    "Fiber": "0 g",
+    "Cholesterol": "90 mg",
+    "Sodium": "450 mg",
+    "Vitamin A": "60 µg",
+    "Vitamin C": "1 mg",
+    "Calcium": "15 mg",
+    "Iron": "3 mg"
+  },
+  "source": "4 oz grilled portion"
+},
+{
+  "name": "chicken_lettuce_wraps_with_asian_spices",
+  "nutritional_info": {
+    "Calories": 210,
+    "Carbohydrates": "9 g",
+    "Protein": "22 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "2 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "5 g",
+    "Fiber": "2 g",
+    "Cholesterol": "65 mg",
+    "Sodium": "420 mg",
+    "Vitamin A": "140 µg",
+    "Vitamin C": "9 mg",
+    "Calcium": "25 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "2 large lettuce wraps"
+},
+{
+  "name": "veggie_pho_with_zucchini_noodles_and_lean_meat",
+  "nutritional_info": {
+    "Calories": 260,
+    "Carbohydrates": "12 g",
+    "Protein": "20 g",
+    "Fats": {
+      "Total": "14 g",
+      "Saturated": "3 g",
+      "Unsaturated": "11 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "5 g",
+    "Fiber": "3 g",
+    "Cholesterol": "55 mg",
+    "Sodium": "480 mg",
+    "Vitamin A": "160 µg",
+    "Vitamin C": "10 mg",
+    "Calcium": "40 mg",
+    "Iron": "2 mg"
+  },
+  "source": "1 medium bowl"
+},
+{
+  "name": "brown_rice_noodle_pho_with_tofu_and_herbs",
+  "nutritional_info": {
+    "Calories": 310,
+    "Carbohydrates": "36 g",
+    "Protein": "14 g",
+    "Fats": {
+      "Total": "12 g",
+      "Saturated": "2 g",
+      "Unsaturated": "10 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "4 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "420 mg",
+    "Vitamin A": "90 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "80 mg",
+    "Iron": "2.5 mg"
+  },
+  "source": "1 bowl serving"
+},
+{
+  "name": "whole_wheat_crust_pizza_with_veggie_toppings",
+  "nutritional_info": {
+    "Calories": 290,
+    "Carbohydrates": "34 g",
+    "Protein": "12 g",
+    "Fats": {
+      "Total": "12 g",
+      "Saturated": "4 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "5 g",
+    "Fiber": "5 g",
+    "Cholesterol": "20 mg",
+    "Sodium": "450 mg",
+    "Vitamin A": "150 µg",
+    "Vitamin C": "8 mg",
+    "Calcium": "120 mg",
+    "Iron": "2 mg"
+  },
+  "source": "1 medium slice"
+},
+{
+  "name": "cauliflower_crust_pizza_with_tomato_and_light_cheese",
+  "nutritional_info": {
+    "Calories": 230,
+    "Carbohydrates": "14 g",
+    "Protein": "12 g",
+    "Fats": {
+      "Total": "14 g",
+      "Saturated": "5 g",
+      "Unsaturated": "9 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "3 g",
+    "Cholesterol": "30 mg",
+    "Sodium": "400 mg",
+    "Vitamin A": "120 µg",
+    "Vitamin C": "10 mg",
+    "Calcium": "160 mg",
+    "Iron": "1 mg"
+  },
+  "source": "1 medium slice"
+},
+{
+  "name": "grilled_lean_pork_loin_with_herbs",
+  "nutritional_info": {
+    "Calories": 220,
+    "Carbohydrates": "0 g",
+    "Protein": "28 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "3 g",
+      "Unsaturated": "7 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "0 g",
+    "Fiber": "0 g",
+    "Cholesterol": "85 mg",
+    "Sodium": "75 mg",
+    "Vitamin A": "0 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "15 mg",
+    "Iron": "1 mg"
+  },
+  "source": "4 oz grilled portion"
+},
+{
+  "name": "baked_pork_medallions_with_roasted_veggies",
+  "nutritional_info": {
+    "Calories": 270,
+    "Carbohydrates": "10 g",
+    "Protein": "26 g",
+    "Fats": {
+      "Total": "14 g",
+      "Saturated": "4 g",
+      "Unsaturated": "10 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "2 g",
+    "Cholesterol": "75 mg",
+    "Sodium": "180 mg",
+    "Vitamin A": "120 µg",
+    "Vitamin C": "9 mg",
+    "Calcium": "25 mg",
+    "Iron": "1.4 mg"
+  },
+  "source": "4 oz pork + 1 cup mixed vegetables"
+},
+{
+  "name": "baked_sweet_potato_fries_with_light_cheese_and_mushroom_gravy",
+  "nutritional_info": {
+    "Calories": 320,
+    "Carbohydrates": "36 g",
+    "Protein": "9 g",
+    "Fats": {
+      "Total": "15 g",
+      "Saturated": "4.5 g",
+      "Unsaturated": "10.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "7 g",
+    "Fiber": "5 g",
+    "Cholesterol": "15 mg",
+    "Sodium": "420 mg",
+    "Vitamin A": "950 µg",
+    "Vitamin C": "8 mg",
+    "Calcium": "120 mg",
+    "Iron": "1.8 mg"
+  },
+  "source": "1 medium plate"
+},
+{
+  "name": "mashed_cauliflower_with_peas_and_cheese_crumbles",
+  "nutritional_info": {
+    "Calories": 210,
+    "Carbohydrates": "14 g",
+    "Protein": "9 g",
+    "Fats": {
+      "Total": "13 g",
+      "Saturated": "5 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "5 g",
+    "Fiber": "4 g",
+    "Cholesterol": "20 mg",
+    "Sodium": "300 mg",
+    "Vitamin A": "160 µg",
+    "Vitamin C": "40 mg",
+    "Calcium": "130 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "1 cup serving"
+},
+{
+  "name": "lean_roast_beef_with_herbs_and_steamed_greens",
+  "nutritional_info": {
+    "Calories": 260,
+    "Carbohydrates": "4 g",
+    "Protein": "28 g",
+    "Fats": {
+      "Total": "14 g",
+      "Saturated": "5 g",
+      "Unsaturated": "9 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "1 g",
+    "Fiber": "2 g",
+    "Cholesterol": "85 mg",
+    "Sodium": "90 mg",
+    "Vitamin A": "180 µg",
+    "Vitamin C": "12 mg",
+    "Calcium": "40 mg",
+    "Iron": "2.5 mg"
+  },
+  "source": "4 oz beef + 1 cup greens"
+},
+{
+  "name": "grilled_sirloin_with_roasted_vegetables",
+  "nutritional_info": {
+    "Calories": 310,
+    "Carbohydrates": "12 g",
+    "Protein": "29 g",
+    "Fats": {
+      "Total": "17 g",
+      "Saturated": "6 g",
+      "Unsaturated": "11 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "5 g",
+    "Fiber": "3 g",
+    "Cholesterol": "90 mg",
+    "Sodium": "160 mg",
+    "Vitamin A": "130 µg",
+    "Vitamin C": "10 mg",
+    "Calcium": "35 mg",
+    "Iron": "2.8 mg"
+  },
+  "source": "5 oz sirloin + 1 cup veggies"
+},
+{
+  "name": "shredded_chicken_on_whole_wheat_bun",
+  "nutritional_info": {
+    "Calories": 280,
+    "Carbohydrates": "26 g",
+    "Protein": "24 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "2.5 g",
+      "Unsaturated": "7.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "4 g",
+    "Cholesterol": "60 mg",
+    "Sodium": "350 mg",
+    "Vitamin A": "50 µg",
+    "Vitamin C": "1 mg",
+    "Calcium": "80 mg",
+    "Iron": "2 mg"
+  },
+  "source": "1 sandwich"
+},
+{
+  "name": "pulled_jackfruit_with_bbq_spices_on_lettuce_wrap",
+  "nutritional_info": {
+    "Calories": 170,
+    "Carbohydrates": "22 g",
+    "Protein": "3 g",
+    "Fats": {
+      "Total": "6 g",
+      "Saturated": "0.5 g",
+      "Unsaturated": "5.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "10 g",
+    "Fiber": "4 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "290 mg",
+    "Vitamin A": "80 µg",
+    "Vitamin C": "13 mg",
+    "Calcium": "35 mg",
+    "Iron": "1.1 mg"
+  },
+  "source": "2 small lettuce wraps"
+},
+{
+  "name": "carrot_noodles_in_veggie_broth",
+  "nutritional_info": {
+    "Calories": 120,
+    "Carbohydrates": "18 g",
+    "Protein": "3 g",
+    "Fats": {
+      "Total": "4 g",
+      "Saturated": "0.5 g",
+      "Unsaturated": "3.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "10 g",
+    "Fiber": "3 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "210 mg",
+    "Vitamin A": "820 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "40 mg",
+    "Iron": "0.8 mg"
+  },
+  "source": "1 medium bowl"
+},
+{
+  "name": "zucchini_noodles_in_veggie_broth_with_egg",
+  "nutritional_info": {
+    "Calories": 190,
+    "Carbohydrates": "10 g",
+    "Protein": "9 g",
+    "Fats": {
+      "Total": "12 g",
+      "Saturated": "3.5 g",
+      "Unsaturated": "8.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "6 g",
+    "Fiber": "2 g",
+    "Cholesterol": "180 mg",
+    "Sodium": "250 mg",
+    "Vitamin A": "170 µg",
+    "Vitamin C": "10 mg",
+    "Calcium": "50 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "1 bowl with 1 egg"
+},
+{
+  "name": "whole_wheat_ravioli_with_spinach_and_ricotta",
+  "nutritional_info": {
+    "Calories": 280,
+    "Carbohydrates": "32 g",
+    "Protein": "12 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "5 g",
+      "Unsaturated": "5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "4 g",
+    "Cholesterol": "45 mg",
+    "Sodium": "320 mg",
+    "Vitamin A": "200 µg",
+    "Vitamin C": "4 mg",
+    "Calcium": "130 mg",
+    "Iron": "2.4 mg"
+  },
+  "source": "1 cup (about 6 ravioli)"
+},
+{
+  "name": "zucchini_ravioli_with_low_fat_cheese",
+  "nutritional_info": {
+    "Calories": 160,
+    "Carbohydrates": "8 g",
+    "Protein": "10 g",
+    "Fats": {
+      "Total": "9 g",
+      "Saturated": "3 g",
+      "Unsaturated": "6 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "2 g",
+    "Cholesterol": "25 mg",
+    "Sodium": "180 mg",
+    "Vitamin A": "180 µg",
+    "Vitamin C": "9 mg",
+    "Calcium": "120 mg",
+    "Iron": "0.8 mg"
+  },
+  "source": "3 pieces (~1 cup)"
+},
+{
+  "name": "beet_based_cocoa_cake_with_light_frosting",
+  "nutritional_info": {
+    "Calories": 210,
+    "Carbohydrates": "24 g",
+    "Protein": "4 g",
+    "Fats": {
+      "Total": "11 g",
+      "Saturated": "3.5 g",
+      "Unsaturated": "7.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "13 g",
+    "Fiber": "3 g",
+    "Cholesterol": "20 mg",
+    "Sodium": "150 mg",
+    "Vitamin A": "60 µg",
+    "Vitamin C": "1 mg",
+    "Calcium": "40 mg",
+    "Iron": "1.5 mg"
+  },
+  "source": "1 slice (~100g)"
+},
+{
+  "name": "whole_grain_red_velvet_muffins_with_greek_yogurt",
+  "nutritional_info": {
+    "Calories": 180,
+    "Carbohydrates": "22 g",
+    "Protein": "6 g",
+    "Fats": {
+      "Total": "7 g",
+      "Saturated": "2 g",
+      "Unsaturated": "5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "10 g",
+    "Fiber": "3 g",
+    "Cholesterol": "25 mg",
+    "Sodium": "170 mg",
+    "Vitamin A": "30 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "60 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "1 muffin"
+},
+{
+  "name": "quinoa_risotto_with_mushrooms",
+  "nutritional_info": {
+    "Calories": 260,
+    "Carbohydrates": "32 g",
+    "Protein": "9 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "2 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "5 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "220 mg",
+    "Vitamin A": "10 µg",
+    "Vitamin C": "2 mg",
+    "Calcium": "45 mg",
+    "Iron": "2.6 mg"
+  },
+  "source": "1 cup"
+},
+{
+  "name": "barley_risotto_with_peas_and_herbs",
+  "nutritional_info": {
+    "Calories": 240,
+    "Carbohydrates": "38 g",
+    "Protein": "7 g",
+    "Fats": {
+      "Total": "7 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "5.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "6 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "180 mg",
+    "Vitamin A": "50 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "35 mg",
+    "Iron": "1.8 mg"
+  },
+  "source": "1 cup"
+},
+{
+  "name": "baked_samosas_with_sweet_potato_and_peas",
+  "nutritional_info": {
+    "Calories": 160,
+    "Carbohydrates": "20 g",
+    "Protein": "4 g",
+    "Fats": {
+      "Total": "7 g",
+      "Saturated": "2 g",
+      "Unsaturated": "5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "3 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "190 mg",
+    "Vitamin A": "180 µg",
+    "Vitamin C": "5 mg",
+    "Calcium": "25 mg",
+    "Iron": "1 mg"
+  },
+  "source": "1 medium samosa (~75g)"
+},
+{
+  "name": "phyllo_pastry_samosas_with_lentil_filling",
+  "nutritional_info": {
+    "Calories": 140,
+    "Carbohydrates": "18 g",
+    "Protein": "5 g",
+    "Fats": {
+      "Total": "6 g",
+      "Saturated": "1 g",
+      "Unsaturated": "5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "2 g",
+    "Fiber": "3 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "160 mg",
+    "Vitamin A": "20 µg",
+    "Vitamin C": "2 mg",
+    "Calcium": "20 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "1 small phyllo samosa (~60g)"
+},
+{
+  "name": "sashimi_with_low_sodium_soy_sauce",
+  "nutritional_info": {
+    "Calories": 120,
+    "Carbohydrates": "1 g",
+    "Protein": "23 g",
+    "Fats": {
+      "Total": "3.5 g",
+      "Saturated": "0.8 g",
+      "Unsaturated": "2.7 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "0 g",
+    "Fiber": "0 g",
+    "Cholesterol": "50 mg",
+    "Sodium": "240 mg",
+    "Vitamin A": "20 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "10 mg",
+    "Iron": "0.6 mg"
+  },
+  "source": "5–6 slices of raw fish (~3 oz)"
+},
+{
+  "name": "tuna_sashimi_with_avocado_slices",
+  "nutritional_info": {
+    "Calories": 180,
+    "Carbohydrates": "3 g",
+    "Protein": "23 g",
+    "Fats": {
+      "Total": "9 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "7.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "1 g",
+    "Fiber": "3 g",
+    "Cholesterol": "50 mg",
+    "Sodium": "200 mg",
+    "Vitamin A": "25 µg",
+    "Vitamin C": "5 mg",
+    "Calcium": "15 mg",
+    "Iron": "1 mg"
+  },
+  "source": "3 oz tuna + 1/4 avocado"
+},
+{
+  "name": "grilled_scallops_with_citrus_glaze",
+  "nutritional_info": {
+    "Calories": 160,
+    "Carbohydrates": "5 g",
+    "Protein": "18 g",
+    "Fats": {
+      "Total": "6 g",
+      "Saturated": "1 g",
+      "Unsaturated": "5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "0 g",
+    "Cholesterol": "35 mg",
+    "Sodium": "300 mg",
+    "Vitamin A": "10 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "20 mg",
+    "Iron": "0.8 mg"
+  },
+  "source": "4 medium scallops (~3 oz)"
+},
+{
+  "name": "seared_scallops_with_garlic_and_parsley",
+  "nutritional_info": {
+    "Calories": 170,
+    "Carbohydrates": "4 g",
+    "Protein": "20 g",
+    "Fats": {
+      "Total": "7 g",
+      "Saturated": "1 g",
+      "Unsaturated": "6 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "1 g",
+    "Fiber": "0 g",
+    "Cholesterol": "40 mg",
+    "Sodium": "280 mg",
+    "Vitamin A": "15 µg",
+    "Vitamin C": "3 mg",
+    "Calcium": "22 mg",
+    "Iron": "0.9 mg"
+  },
+  "source": "4 scallops (~3 oz cooked)"
+},
+{
+  "name": "seaweed_with_reduced_sodium_soy",
+  "nutritional_info": {
+    "Calories": 45,
+    "Carbohydrates": "5 g",
+    "Protein": "2 g",
+    "Fats": {
+      "Total": "2 g",
+      "Saturated": "0.3 g",
+      "Unsaturated": "1.7 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "0 g",
+    "Fiber": "2 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "220 mg",
+    "Vitamin A": "50 µg",
+    "Vitamin C": "3 mg",
+    "Calcium": "40 mg",
+    "Iron": "1.5 mg"
+  },
+  "source": "1/2 cup prepared"
+},
+{
+  "name": "mixed_greens_with_seaweed_and_sesame_seeds",
+  "nutritional_info": {
+    "Calories": 70,
+    "Carbohydrates": "5 g",
+    "Protein": "2 g",
+    "Fats": {
+      "Total": "4 g",
+      "Saturated": "0.5 g",
+      "Unsaturated": "3.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "1 g",
+    "Fiber": "3 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "190 mg",
+    "Vitamin A": "120 µg",
+    "Vitamin C": "10 mg",
+    "Calcium": "45 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "1 cup salad"
+},
+{
+  "name": "cauliflower_grits_with_grilled_shrimp",
+  "nutritional_info": {
+    "Calories": 210,
+    "Carbohydrates": "9 g",
+    "Protein": "22 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "2.5 g",
+      "Unsaturated": "7.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "3 g",
+    "Cholesterol": "100 mg",
+    "Sodium": "380 mg",
+    "Vitamin A": "80 µg",
+    "Vitamin C": "30 mg",
+    "Calcium": "90 mg",
+    "Iron": "1.8 mg"
+  },
+  "source": "1 serving (~1 1/4 cups)"
+},
+{
+  "name": "polenta_with_sauteed_shrimp_and_spinach",
+  "nutritional_info": {
+    "Calories": 250,
+    "Carbohydrates": "24 g",
+    "Protein": "20 g",
+    "Fats": {
+      "Total": "11 g",
+      "Saturated": "3 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "2 g",
+    "Fiber": "3 g",
+    "Cholesterol": "105 mg",
+    "Sodium": "360 mg",
+    "Vitamin A": "140 µg",
+    "Vitamin C": "18 mg",
+    "Calcium": "100 mg",
+    "Iron": "2.2 mg"
+  },
+  "source": "1 bowl (~1.5 cups)"
+},
+{
+  "name": "whole_wheat_pasta_with_lentil_bolognese",
+  "nutritional_info": {
+    "Calories": 320,
+    "Carbohydrates": "45 g",
+    "Protein": "14 g",
+    "Fats": {
+      "Total": "8 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "6.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "7 g",
+    "Fiber": "9 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "280 mg",
+    "Vitamin A": "100 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "60 mg",
+    "Iron": "3.1 mg"
+  },
+  "source": "1 bowl (~1.5 cups)"
+},
+{
+  "name": "zoodles_with_turkey_meat_sauce",
+  "nutritional_info": {
+    "Calories": 200,
+    "Carbohydrates": "12 g",
+    "Protein": "20 g",
+    "Fats": {
+      "Total": "9 g",
+      "Saturated": "2.5 g",
+      "Unsaturated": "6.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "7 g",
+    "Fiber": "3 g",
+    "Cholesterol": "60 mg",
+    "Sodium": "330 mg",
+    "Vitamin A": "80 µg",
+    "Vitamin C": "10 mg",
+    "Calcium": "50 mg",
+    "Iron": "2.1 mg"
+  },
+  "source": "1 plate (~1.25 cups)"
+},
+{
+  "name": "zoodles_with_egg_whites_and_turkey_bacon",
+  "nutritional_info": {
+    "Calories": 190,
+    "Carbohydrates": "7 g",
+    "Protein": "18 g",
+    "Fats": {
+      "Total": "8 g",
+      "Saturated": "2 g",
+      "Unsaturated": "6 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "2 g",
+    "Cholesterol": "10 mg",
+    "Sodium": "420 mg",
+    "Vitamin A": "50 µg",
+    "Vitamin C": "8 mg",
+    "Calcium": "30 mg",
+    "Iron": "1 mg"
+  },
+  "source": "1 bowl (~1 cup)"
+},
+{
+  "name": "whole_grain_pasta_with_greek_yogurt_sauce",
+  "nutritional_info": {
+    "Calories": 270,
+    "Carbohydrates": "38 g",
+    "Protein": "12 g",
+    "Fats": {
+      "Total": "8 g",
+      "Saturated": "2.5 g",
+      "Unsaturated": "5.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "5 g",
+    "Fiber": "5 g",
+    "Cholesterol": "10 mg",
+    "Sodium": "220 mg",
+    "Vitamin A": "30 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "90 mg",
+    "Iron": "2.5 mg"
+  },
+  "source": "1 cup"
+},
+{
+  "name": "fresh_veggie_rolls_with_peanut_dip",
+  "nutritional_info": {
+    "Calories": 160,
+    "Carbohydrates": "18 g",
+    "Protein": "5 g",
+    "Fats": {
+      "Total": "7 g",
+      "Saturated": "1 g",
+      "Unsaturated": "6 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "3 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "210 mg",
+    "Vitamin A": "150 µg",
+    "Vitamin C": "10 mg",
+    "Calcium": "30 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "2 small rolls + 1 tbsp peanut dip"
+},
+{
+  "name": "lettuce_wraps_with_tofu_and_julienned_vegetables",
+  "nutritional_info": {
+    "Calories": 170,
+    "Carbohydrates": "9 g",
+    "Protein": "12 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "8.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "3 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "220 mg",
+    "Vitamin A": "180 µg",
+    "Vitamin C": "16 mg",
+    "Calcium": "110 mg",
+    "Iron": "2.3 mg"
+  },
+  "source": "2 wraps (~1 cup filling total)"
+},
+{
+  "name": "grilled_sirloin_with_steamed_vegetables",
+  "nutritional_info": {
+    "Calories": 290,
+    "Carbohydrates": "8 g",
+    "Protein": "28 g",
+    "Fats": {
+      "Total": "15 g",
+      "Saturated": "5 g",
+      "Unsaturated": "10 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "3 g",
+    "Cholesterol": "70 mg",
+    "Sodium": "180 mg",
+    "Vitamin A": "120 µg",
+    "Vitamin C": "18 mg",
+    "Calcium": "40 mg",
+    "Iron": "2.5 mg"
+  },
+  "source": "1 plate (~3 oz steak + 1 cup veggies)"
+},
+{
+  "name": "lean_flank_steak_with_roasted_sweet_potatoes",
+  "nutritional_info": {
+    "Calories": 330,
+    "Carbohydrates": "20 g",
+    "Protein": "26 g",
+    "Fats": {
+      "Total": "16 g",
+      "Saturated": "6 g",
+      "Unsaturated": "10 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "6 g",
+    "Fiber": "4 g",
+    "Cholesterol": "75 mg",
+    "Sodium": "240 mg",
+    "Vitamin A": "480 µg",
+    "Vitamin C": "10 mg",
+    "Calcium": "45 mg",
+    "Iron": "2.9 mg"
+  },
+  "source": "1 serving (~3 oz steak + 3/4 cup sweet potato)"
+},
+{
+  "name": "whole_wheat_biscuit_with_greek_yogurt_and_berries",
+  "nutritional_info": {
+    "Calories": 210,
+    "Carbohydrates": "28 g",
+    "Protein": "7 g",
+    "Fats": {
+      "Total": "8 g",
+      "Saturated": "2.5 g",
+      "Unsaturated": "5.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "9 g",
+    "Fiber": "4 g",
+    "Cholesterol": "10 mg",
+    "Sodium": "260 mg",
+    "Vitamin A": "50 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "80 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "1 biscuit + 2 tbsp yogurt + 1/4 cup berries"
+},
+{
+  "name": "almond_flour_shortcake_with_fresh_strawberries",
+  "nutritional_info": {
+    "Calories": 240,
+    "Carbohydrates": "18 g",
+    "Protein": "6 g",
+    "Fats": {
+      "Total": "17 g",
+      "Saturated": "2 g",
+      "Unsaturated": "15 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "9 g",
+    "Fiber": "4 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "110 mg",
+    "Vitamin A": "20 µg",
+    "Vitamin C": "30 mg",
+    "Calcium": "55 mg",
+    "Iron": "1.1 mg"
+  },
+  "source": "1 shortcake (~2.5-inch round) + 1/3 cup berries"
+},
+{
+  "name": "brown_rice_bowl_with_tofu_and_steamed_veggies",
+  "nutritional_info": {
+    "Calories": 340,
+    "Carbohydrates": "38 g",
+    "Protein": "15 g",
+    "Fats": {
+      "Total": "14 g",
+      "Saturated": "2 g",
+      "Unsaturated": "12 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "5 g",
+    "Fiber": "6 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "280 mg",
+    "Vitamin A": "120 µg",
+    "Vitamin C": "16 mg",
+    "Calcium": "120 mg",
+    "Iron": "2.6 mg"
+  },
+  "source": "1 bowl (~1.5 cups total)"
+},
+{
+  "name": "cucumber_wrapped_sushi_with_lean_fish",
+  "nutritional_info": {
+    "Calories": 140,
+    "Carbohydrates": "6 g",
+    "Protein": "16 g",
+    "Fats": {
+      "Total": "5 g",
+      "Saturated": "1 g",
+      "Unsaturated": "4 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "2 g",
+    "Fiber": "1 g",
+    "Cholesterol": "30 mg",
+    "Sodium": "210 mg",
+    "Vitamin A": "35 µg",
+    "Vitamin C": "4 mg",
+    "Calcium": "20 mg",
+    "Iron": "0.8 mg"
+  },
+  "source": "6 bite-sized cucumber-wrapped pieces"
+},
+{
+  "name": "lettuce_wraps_with_grilled_fish_or_beans",
+  "nutritional_info": {
+    "Calories": 160,
+    "Carbohydrates": "10 g",
+    "Protein": "16 g",
+    "Fats": {
+      "Total": "6 g",
+      "Saturated": "1 g",
+      "Unsaturated": "5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "2 g",
+    "Fiber": "3 g",
+    "Cholesterol": "25 mg",
+    "Sodium": "200 mg",
+    "Vitamin A": "60 µg",
+    "Vitamin C": "8 mg",
+    "Calcium": "40 mg",
+    "Iron": "1.3 mg"
+  },
+  "source": "2 lettuce wraps"
+},
+{
+  "name": "corn_tortillas_with_grilled_veggies_and_avocado",
+  "nutritional_info": {
+    "Calories": 230,
+    "Carbohydrates": "24 g",
+    "Protein": "5 g",
+    "Fats": {
+      "Total": "12 g",
+      "Saturated": "2 g",
+      "Unsaturated": "10 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "6 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "170 mg",
+    "Vitamin A": "100 µg",
+    "Vitamin C": "12 mg",
+    "Calcium": "40 mg",
+    "Iron": "1.4 mg"
+  },
+  "source": "2 small tortillas"
+},
+{
+  "name": "baked_veggie_filled_balls_with_sesame_oil",
+  "nutritional_info": {
+    "Calories": 180,
+    "Carbohydrates": "12 g",
+    "Protein": "7 g",
+    "Fats": {
+      "Total": "11 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "9.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "3 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "160 mg",
+    "Vitamin A": "80 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "50 mg",
+    "Iron": "1.6 mg"
+  },
+  "source": "3 medium balls"
+},
+{
+  "name": "mini_tofu_balls_with_scallions_and_ginger",
+  "nutritional_info": {
+    "Calories": 165,
+    "Carbohydrates": "8 g",
+    "Protein": "10 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "8.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "2 g",
+    "Fiber": "2 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "190 mg",
+    "Vitamin A": "70 µg",
+    "Vitamin C": "4 mg",
+    "Calcium": "130 mg",
+    "Iron": "2.2 mg"
+  },
+  "source": "4 small balls (~1.5-inch each)"
+},
+{
+  "name": "greek_yogurt_tiramisu_with_espresso_soaked_oats",
+  "nutritional_info": {
+    "Calories": 220,
+    "Carbohydrates": "25 g",
+    "Protein": "10 g",
+    "Fats": {
+      "Total": "9 g",
+      "Saturated": "3 g",
+      "Unsaturated": "6 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "10 g",
+    "Fiber": "2 g",
+    "Cholesterol": "10 mg",
+    "Sodium": "95 mg",
+    "Vitamin A": "60 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "110 mg",
+    "Iron": "0.9 mg"
+  },
+  "source": "1 small glass jar (~3/4 cup)"
+},
+{
+  "name": "cottage_cheese_tiramisu_with_cocoa_and_almond_flour",
+  "nutritional_info": {
+    "Calories": 210,
+    "Carbohydrates": "12 g",
+    "Protein": "14 g",
+    "Fats": {
+      "Total": "12 g",
+      "Saturated": "3 g",
+      "Unsaturated": "9 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "5 g",
+    "Fiber": "2 g",
+    "Cholesterol": "15 mg",
+    "Sodium": "140 mg",
+    "Vitamin A": "70 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "140 mg",
+    "Iron": "1.3 mg"
+  },
+  "source": "1 slice or ramekin (~100 g)"
+},
+{
+  "name": "tuna_tartare_served_with_avocado_and_citrus",
+  "nutritional_info": {
+    "Calories": 190,
+    "Carbohydrates": "6 g",
+    "Protein": "20 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "8.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "1 g",
+    "Fiber": "3 g",
+    "Cholesterol": "30 mg",
+    "Sodium": "180 mg",
+    "Vitamin A": "45 µg",
+    "Vitamin C": "8 mg",
+    "Calcium": "20 mg",
+    "Iron": "1.1 mg"
+  },
+  "source": "1 serving (~100 g tuna + 1/4 avocado)"
+},
+{
+  "name": "tuna_avocado_tartare_with_cucumber_slices",
+  "nutritional_info": {
+    "Calories": 200,
+    "Carbohydrates": "7 g",
+    "Protein": "19 g",
+    "Fats": {
+      "Total": "11 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "9.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "2 g",
+    "Fiber": "3 g",
+    "Cholesterol": "35 mg",
+    "Sodium": "170 mg",
+    "Vitamin A": "50 µg",
+    "Vitamin C": "7 mg",
+    "Calcium": "25 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "1 small bowl with 6–8 cucumber chips"
+},
+{
+  "name": "oat_flour_waffles_topped_with_fruit_and_yogurt",
+  "nutritional_info": {
+    "Calories": 260,
+    "Carbohydrates": "34 g",
+    "Protein": "9 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "2.5 g",
+      "Unsaturated": "7.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "12 g",
+    "Fiber": "4 g",
+    "Cholesterol": "10 mg",
+    "Sodium": "240 mg",
+    "Vitamin A": "70 µg",
+    "Vitamin C": "5 mg",
+    "Calcium": "100 mg",
+    "Iron": "1.5 mg"
+  },
+  "source": "1 full waffle with toppings (~150 g)"
+},
+{
+  "name": "whole_grain_waffles_with_nut_butter_and_banana",
+  "nutritional_info": {
+    "Calories": 290,
+    "Carbohydrates": "36 g",
+    "Protein": "8 g",
+    "Fats": {
+      "Total": "13 g",
+      "Saturated": "2 g",
+      "Unsaturated": "11 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "10 g",
+    "Fiber": "5 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "210 mg",
+    "Vitamin A": "55 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "80 mg",
+    "Iron": "1.8 mg"
+  },
+  "source": "1 full waffle with 1 tbsp nut butter and 1/3 banana"
+},
+{
+  "name": "grilled_skinless_duck_breast_with_hoisin_glaze",
+  "nutritional_info": {
+    "Calories": 280,
+    "Carbohydrates": "8 g",
+    "Protein": "27 g",
+    "Fats": {
+      "Total": "15 g",
+      "Saturated": "4.5 g",
+      "Unsaturated": "10.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "5 g",
+    "Fiber": "1 g",
+    "Cholesterol": "80 mg",
+    "Sodium": "300 mg",
+    "Vitamin A": "70 µg",
+    "Vitamin C": "2 mg",
+    "Calcium": "25 mg",
+    "Iron": "2.6 mg"
+  },
+  "source": "1 breast (~4 oz cooked)"
+},
+{
+  "name": "chicken_lettuce_wraps_with_asian_spices",
+  "nutritional_info": {
+    "Calories": 200,
+    "Carbohydrates": "7 g",
+    "Protein": "21 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "2 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "2 g",
+    "Cholesterol": "60 mg",
+    "Sodium": "290 mg",
+    "Vitamin A": "90 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "30 mg",
+    "Iron": "1.7 mg"
+  },
+  "source": "2 wraps (~1/2 cup filling each)"
+},
+{
+  "name": "veggie_pho_with_zucchini_noodles_and_lean_meat",
+  "nutritional_info": {
+    "Calories": 230,
+    "Carbohydrates": "12 g",
+    "Protein": "22 g",
+    "Fats": {
+      "Total": "9 g",
+      "Saturated": "2 g",
+      "Unsaturated": "7 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "3 g",
+    "Cholesterol": "55 mg",
+    "Sodium": "350 mg",
+    "Vitamin A": "110 µg",
+    "Vitamin C": "12 mg",
+    "Calcium": "40 mg",
+    "Iron": "2.1 mg"
+  },
+  "source": "1 medium bowl (~1.5 cups)"
+},
+{
+  "name": "brown_rice_noodle_pho_with_tofu_and_herbs",
+  "nutritional_info": {
+    "Calories": 260,
+    "Carbohydrates": "35 g",
+    "Protein": "13 g",
+    "Fats": {
+      "Total": "8 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "6.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "3 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "430 mg",
+    "Vitamin A": "60 µg",
+    "Vitamin C": "10 mg",
+    "Calcium": "140 mg",
+    "Iron": "2.3 mg"
+  },
+  "source": "1 medium bowl (~1.5 cups)"
+},
+{
+  "name": "whole_wheat_crust_pizza_with_veggie_toppings",
+  "nutritional_info": {
+    "Calories": 280,
+    "Carbohydrates": "30 g",
+    "Protein": "12 g",
+    "Fats": {
+      "Total": "12 g",
+      "Saturated": "4 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "5 g",
+    "Fiber": "4 g",
+    "Cholesterol": "15 mg",
+    "Sodium": "370 mg",
+    "Vitamin A": "90 µg",
+    "Vitamin C": "8 mg",
+    "Calcium": "180 mg",
+    "Iron": "2 mg"
+  },
+  "source": "1 slice (1/6 of a 10-inch pizza)"
+},
+{
+  "name": "cauliflower_crust_pizza_with_tomato_and_light_cheese",
+  "nutritional_info": {
+    "Calories": 240,
+    "Carbohydrates": "12 g",
+    "Protein": "13 g",
+    "Fats": {
+      "Total": "15 g",
+      "Saturated": "5 g",
+      "Unsaturated": "10 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "3 g",
+    "Cholesterol": "25 mg",
+    "Sodium": "350 mg",
+    "Vitamin A": "80 µg",
+    "Vitamin C": "9 mg",
+    "Calcium": "200 mg",
+    "Iron": "1.4 mg"
+  },
+  "source": "1 slice (1/6 of a 10-inch pizza)"
+},
+{
+  "name": "grilled_lean_pork_loin_with_herbs",
+  "nutritional_info": {
+    "Calories": 210,
+    "Carbohydrates": "2 g",
+    "Protein": "26 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "3 g",
+      "Unsaturated": "7 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "1 g",
+    "Fiber": "0 g",
+    "Cholesterol": "70 mg",
+    "Sodium": "160 mg",
+    "Vitamin A": "35 µg",
+    "Vitamin C": "1 mg",
+    "Calcium": "20 mg",
+    "Iron": "1.8 mg"
+  },
+  "source": "1 portion (~4 oz cooked)"
+},
+{
+  "name": "baked_pork_medallions_with_roasted_veggies",
+  "nutritional_info": {
+    "Calories": 250,
+    "Carbohydrates": "10 g",
+    "Protein": "24 g",
+    "Fats": {
+      "Total": "13 g",
+      "Saturated": "3.5 g",
+      "Unsaturated": "9.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "3 g",
+    "Cholesterol": "65 mg",
+    "Sodium": "200 mg",
+    "Vitamin A": "85 µg",
+    "Vitamin C": "10 mg",
+    "Calcium": "35 mg",
+    "Iron": "1.9 mg"
+  },
+  "source": "1 serving (~4 oz pork + 1/2 cup veggies)"
+},
+{
+  "name": "baked_sweet_potato_fries_with_light_cheese_and_mushroom_gravy",
+  "nutritional_info": {
+    "Calories": 270,
+    "Carbohydrates": "35 g",
+    "Protein": "7 g",
+    "Fats": {
+      "Total": "11 g",
+      "Saturated": "3 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "6 g",
+    "Fiber": "5 g",
+    "Cholesterol": "10 mg",
+    "Sodium": "310 mg",
+    "Vitamin A": "450 µg",
+    "Vitamin C": "5 mg",
+    "Calcium": "90 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "1 serving (~1 cup fries with 2 tbsp gravy)"
+},
+{
+  "name": "mashed_cauliflower_with_peas_and_cheese_crumbles",
+  "nutritional_info": {
+    "Calories": 200,
+    "Carbohydrates": "15 g",
+    "Protein": "8 g",
+    "Fats": {
+      "Total": "12 g",
+      "Saturated": "4 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "4 g",
+    "Cholesterol": "15 mg",
+    "Sodium": "230 mg",
+    "Vitamin A": "120 µg",
+    "Vitamin C": "20 mg",
+    "Calcium": "100 mg",
+    "Iron": "1.1 mg"
+  },
+  "source": "1 medium scoop (~3/4 cup)"
+},
+{
+  "name": "lean_roast_beef_with_herbs_and_steamed_greens",
+  "nutritional_info": {
+    "Calories": 240,
+    "Carbohydrates": "3 g",
+    "Protein": "28 g",
+    "Fats": {
+      "Total": "12 g",
+      "Saturated": "4 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "1 g",
+    "Fiber": "2 g",
+    "Cholesterol": "80 mg",
+    "Sodium": "150 mg",
+    "Vitamin A": "90 µg",
+    "Vitamin C": "9 mg",
+    "Calcium": "35 mg",
+    "Iron": "2.5 mg"
+  },
+  "source": "1 serving (~4 oz beef + 1/2 cup greens)"
+},
+{
+  "name": "grilled_sirloin_with_roasted_vegetables",
+  "nutritional_info": {
+    "Calories": 290,
+    "Carbohydrates": "12 g",
+    "Protein": "30 g",
+    "Fats": {
+      "Total": "14 g",
+      "Saturated": "5 g",
+      "Unsaturated": "9 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "3 g",
+    "Cholesterol": "85 mg",
+    "Sodium": "180 mg",
+    "Vitamin A": "100 µg",
+    "Vitamin C": "10 mg",
+    "Calcium": "40 mg",
+    "Iron": "2.8 mg"
+  },
+  "source": "1 serving (~4 oz steak + 1/2 cup vegetables)"
+},
+{
+  "name": "shredded_chicken_on_whole_wheat_bun",
+  "nutritional_info": {
+    "Calories": 300,
+    "Carbohydrates": "28 g",
+    "Protein": "24 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "2 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "4 g",
+    "Cholesterol": "65 mg",
+    "Sodium": "320 mg",
+    "Vitamin A": "60 µg",
+    "Vitamin C": "2 mg",
+    "Calcium": "60 mg",
+    "Iron": "2 mg"
+  },
+  "source": "1 sandwich (~1 bun with 1/3 cup chicken)"
+},
+{
+  "name": "pulled_jackfruit_with_bbq_spices_on_lettuce_wrap",
+  "nutritional_info": {
+    "Calories": 170,
+    "Carbohydrates": "30 g",
+    "Protein": "3 g",
+    "Fats": {
+      "Total": "5 g",
+      "Saturated": "1 g",
+      "Unsaturated": "4 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "12 g",
+    "Fiber": "5 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "300 mg",
+    "Vitamin A": "45 µg",
+    "Vitamin C": "13 mg",
+    "Calcium": "30 mg",
+    "Iron": "1 mg"
+  },
+  "source": "1 serving (~3 lettuce wraps with 1/2 cup filling total)"
+},
+{
+  "name": "carrot_noodles_in_veggie_broth",
+  "nutritional_info": {
+    "Calories": 120,
+    "Carbohydrates": "16 g",
+    "Protein": "3 g",
+    "Fats": {
+      "Total": "4 g",
+      "Saturated": "0.5 g",
+      "Unsaturated": "3.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "9 g",
+    "Fiber": "4 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "420 mg",
+    "Vitamin A": "950 µg",
+    "Vitamin C": "9 mg",
+    "Calcium": "40 mg",
+    "Iron": "0.8 mg"
+  },
+  "source": "1 bowl (~1.25 cups)"
+},
+{
+  "name": "zucchini_noodles_in_veggie_broth_with_egg",
+  "nutritional_info": {
+    "Calories": 160,
+    "Carbohydrates": "8 g",
+    "Protein": "10 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "2.5 g",
+      "Unsaturated": "7.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "2 g",
+    "Cholesterol": "190 mg",
+    "Sodium": "400 mg",
+    "Vitamin A": "150 µg",
+    "Vitamin C": "12 mg",
+    "Calcium": "45 mg",
+    "Iron": "1.4 mg"
+  },
+  "source": "1 bowl (~1.5 cups)"
+},
+{
+  "name": "whole_wheat_ravioli_with_spinach_and_ricotta",
+  "nutritional_info": {
+    "Calories": 290,
+    "Carbohydrates": "35 g",
+    "Protein": "13 g",
+    "Fats": {
+      "Total": "11 g",
+      "Saturated": "4 g",
+      "Unsaturated": "7 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "5 g",
+    "Cholesterol": "40 mg",
+    "Sodium": "320 mg",
+    "Vitamin A": "130 µg",
+    "Vitamin C": "4 mg",
+    "Calcium": "150 mg",
+    "Iron": "2.3 mg"
+  },
+  "source": "1 serving (~6 medium ravioli)"
+},
+{
+  "name": "zucchini_ravioli_stuffed_with_low_fat_cheese",
+  "nutritional_info": {
+    "Calories": 180,
+    "Carbohydrates": "10 g",
+    "Protein": "12 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "3 g",
+      "Unsaturated": "7 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "5 g",
+    "Fiber": "2 g",
+    "Cholesterol": "25 mg",
+    "Sodium": "260 mg",
+    "Vitamin A": "110 µg",
+    "Vitamin C": "11 mg",
+    "Calcium": "120 mg",
+    "Iron": "1.1 mg"
+  },
+  "source": "1 serving (~4 large zucchini ravioli)"
+},
+{
+  "name": "beet_based_cocoa_cake_with_light_frosting",
+  "nutritional_info": {
+    "Calories": 210,
+    "Carbohydrates": "28 g",
+    "Protein": "4 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "3 g",
+      "Unsaturated": "7 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "12 g",
+    "Fiber": "3 g",
+    "Cholesterol": "25 mg",
+    "Sodium": "190 mg",
+    "Vitamin A": "70 µg",
+    "Vitamin C": "2 mg",
+    "Calcium": "40 mg",
+    "Iron": "1.6 mg"
+  },
+  "source": "1 slice (~1/10 of an 8-inch round cake)"
+},
+{
+  "name": "whole_grain_red_velvet_muffins_with_greek_yogurt",
+  "nutritional_info": {
+    "Calories": 190,
+    "Carbohydrates": "26 g",
+    "Protein": "5 g",
+    "Fats": {
+      "Total": "8 g",
+      "Saturated": "2.5 g",
+      "Unsaturated": "5.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "10 g",
+    "Fiber": "3 g",
+    "Cholesterol": "20 mg",
+    "Sodium": "200 mg",
+    "Vitamin A": "55 µg",
+    "Vitamin C": "1 mg",
+    "Calcium": "70 mg",
+    "Iron": "1.4 mg"
+  },
+  "source": "1 medium muffin (~60–70 g)"
+},
+{
+  "name": "quinoa_risotto_with_mushrooms",
+  "nutritional_info": {
+    "Calories": 230,
+    "Carbohydrates": "28 g",
+    "Protein": "8 g",
+    "Fats": {
+      "Total": "9 g",
+      "Saturated": "2 g",
+      "Unsaturated": "7 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "4 g",
+    "Cholesterol": "5 mg",
+    "Sodium": "290 mg",
+    "Vitamin A": "40 µg",
+    "Vitamin C": "3 mg",
+    "Calcium": "45 mg",
+    "Iron": "2.2 mg"
+  },
+  "source": "1 cup cooked"
+},
+{
+  "name": "barley_risotto_with_peas_and_herbs",
+  "nutritional_info": {
+    "Calories": 220,
+    "Carbohydrates": "34 g",
+    "Protein": "7 g",
+    "Fats": {
+      "Total": "6 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "4.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "6 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "250 mg",
+    "Vitamin A": "60 µg",
+    "Vitamin C": "4 mg",
+    "Calcium": "35 mg",
+    "Iron": "2.1 mg"
+  },
+  "source": "1 cup cooked"
+},
+{
+  "name": "baked_samosas_with_sweet_potato_and_peas",
+  "nutritional_info": {
+    "Calories": 160,
+    "Carbohydrates": "22 g",
+    "Protein": "4 g",
+    "Fats": {
+      "Total": "6 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "4.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "3 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "180 mg",
+    "Vitamin A": "120 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "25 mg",
+    "Iron": "1.3 mg"
+  },
+  "source": "1 medium samosa (~70 g)"
+},
+{
+  "name": "phyllo_pastry_samosas_with_lentil_filling",
+  "nutritional_info": {
+    "Calories": 140,
+    "Carbohydrates": "20 g",
+    "Protein": "5 g",
+    "Fats": {
+      "Total": "4 g",
+      "Saturated": "0.5 g",
+      "Unsaturated": "3.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "1 g",
+    "Fiber": "3 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "170 mg",
+    "Vitamin A": "10 µg",
+    "Vitamin C": "1 mg",
+    "Calcium": "20 mg",
+    "Iron": "1.8 mg"
+  },
+  "source": "1 samosa (~65 g)"
+},
+{
+  "name": "sashimi_with_low_sodium_soy_sauce",
+  "nutritional_info": {
+    "Calories": 110,
+    "Carbohydrates": "2 g",
+    "Protein": "20 g",
+    "Fats": {
+      "Total": "3 g",
+      "Saturated": "0.5 g",
+      "Unsaturated": "2.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "0 g",
+    "Fiber": "0 g",
+    "Cholesterol": "35 mg",
+    "Sodium": "240 mg",
+    "Vitamin A": "20 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "15 mg",
+    "Iron": "0.5 mg"
+  },
+  "source": "1 serving (~6 pieces sashimi + 1 tsp soy sauce)"
+},
+{
+  "name": "tuna_sashimi_with_avocado_slices",
+  "nutritional_info": {
+    "Calories": 180,
+    "Carbohydrates": "4 g",
+    "Protein": "21 g",
+    "Fats": {
+      "Total": "9 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "7.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "0 g",
+    "Fiber": "3 g",
+    "Cholesterol": "40 mg",
+    "Sodium": "160 mg",
+    "Vitamin A": "30 µg",
+    "Vitamin C": "4 mg",
+    "Calcium": "20 mg",
+    "Iron": "0.9 mg"
+  },
+  "source": "1 serving (~5 slices tuna, 1/4 avocado)"
+},
+{
+  "name": "grilled_scallops_with_citrus_glaze",
+  "nutritional_info": {
+    "Calories": 170,
+    "Carbohydrates": "6 g",
+    "Protein": "20 g",
+    "Fats": {
+      "Total": "7 g",
+      "Saturated": "1 g",
+      "Unsaturated": "6 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "0 g",
+    "Cholesterol": "35 mg",
+    "Sodium": "270 mg",
+    "Vitamin A": "10 µg",
+    "Vitamin C": "5 mg",
+    "Calcium": "30 mg",
+    "Iron": "0.6 mg"
+  },
+  "source": "1 serving (~4–5 scallops)"
+},
+{
+  "name": "seared_scallops_with_garlic_and_parsley",
+  "nutritional_info": {
+    "Calories": 165,
+    "Carbohydrates": "2 g",
+    "Protein": "22 g",
+    "Fats": {
+      "Total": "7 g",
+      "Saturated": "1.2 g",
+      "Unsaturated": "5.8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "0 g",
+    "Fiber": "0 g",
+    "Cholesterol": "40 mg",
+    "Sodium": "280 mg",
+    "Vitamin A": "12 µg",
+    "Vitamin C": "3 mg",
+    "Calcium": "35 mg",
+    "Iron": "0.8 mg"
+  },
+  "source": "1 serving (~4 large scallops)"
+},
+{
+  "name": "seaweed_with_reduced_sodium_soy",
+  "nutritional_info": {
+    "Calories": 40,
+    "Carbohydrates": "5 g",
+    "Protein": "2 g",
+    "Fats": {
+      "Total": "1.5 g",
+      "Saturated": "0.2 g",
+      "Unsaturated": "1.3 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "1 g",
+    "Fiber": "2 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "190 mg",
+    "Vitamin A": "80 µg",
+    "Vitamin C": "5 mg",
+    "Calcium": "60 mg",
+    "Iron": "0.9 mg"
+  },
+  "source": "1/2 cup (~25 g rehydrated)"
+},
+{
+  "name": "mixed_greens_with_seaweed_and_sesame_seeds",
+  "nutritional_info": {
+    "Calories": 85,
+    "Carbohydrates": "6 g",
+    "Protein": "3 g",
+    "Fats": {
+      "Total": "5 g",
+      "Saturated": "0.6 g",
+      "Unsaturated": "4.4 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "2 g",
+    "Fiber": "3 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "180 mg",
+    "Vitamin A": "100 µg",
+    "Vitamin C": "8 mg",
+    "Calcium": "70 mg",
+    "Iron": "1.5 mg"
+  },
+  "source": "1 bowl (~1.5 cups)"
+},
+{
+  "name": "cauliflower_grits_with_grilled_shrimp",
+  "nutritional_info": {
+    "Calories": 195,
+    "Carbohydrates": "10 g",
+    "Protein": "18 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "2 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "3 g",
+    "Cholesterol": "100 mg",
+    "Sodium": "350 mg",
+    "Vitamin A": "65 µg",
+    "Vitamin C": "14 mg",
+    "Calcium": "55 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "1 serving (~3/4 cup grits + 4 shrimp)"
+},
+{
+  "name": "polenta_with_sauteed_shrimp_and_spinach",
+  "nutritional_info": {
+    "Calories": 230,
+    "Carbohydrates": "22 g",
+    "Protein": "17 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "2.5 g",
+      "Unsaturated": "7.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "1 g",
+    "Fiber": "2 g",
+    "Cholesterol": "110 mg",
+    "Sodium": "330 mg",
+    "Vitamin A": "110 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "65 mg",
+    "Iron": "1.3 mg"
+  },
+  "source": "1 serving (~3/4 cup polenta + 4–5 shrimp)"
+},
+{
+  "name": "whole_wheat_pasta_with_lentil_bolognese",
+  "nutritional_info": {
+    "Calories": 310,
+    "Carbohydrates": "46 g",
+    "Protein": "14 g",
+    "Fats": {
+      "Total": "8 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "6.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "5 g",
+    "Fiber": "8 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "270 mg",
+    "Vitamin A": "45 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "60 mg",
+    "Iron": "3 mg"
+  },
+  "source": "1 bowl (~1.5 cups cooked)"
+},
+{
+  "name": "zoodles_with_turkey_meat_sauce",
+  "nutritional_info": {
+    "Calories": 220,
+    "Carbohydrates": "10 g",
+    "Protein": "24 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "2 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "6 g",
+    "Fiber": "2 g",
+    "Cholesterol": "55 mg",
+    "Sodium": "320 mg",
+    "Vitamin A": "60 µg",
+    "Vitamin C": "16 mg",
+    "Calcium": "40 mg",
+    "Iron": "2 mg"
+  },
+  "source": "1 bowl (~1.5 cups cooked zoodles + 1/2 cup meat sauce)"
+},
+{
+  "name": "zoodles_with_egg_whites_and_turkey_bacon",
+  "nutritional_info": {
+    "Calories": 190,
+    "Carbohydrates": "6 g",
+    "Protein": "20 g",
+    "Fats": {
+      "Total": "9 g",
+      "Saturated": "2 g",
+      "Unsaturated": "7 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "1 g",
+    "Cholesterol": "10 mg",
+    "Sodium": "420 mg",
+    "Vitamin A": "50 µg",
+    "Vitamin C": "10 mg",
+    "Calcium": "30 mg",
+    "Iron": "1.5 mg"
+  },
+  "source": "1 bowl (~1.5 cups total cooked)"
+},
+{
+  "name": "whole_grain_pasta_with_greek_yogurt_sauce",
+  "nutritional_info": {
+    "Calories": 270,
+    "Carbohydrates": "39 g",
+    "Protein": "14 g",
+    "Fats": {
+      "Total": "7 g",
+      "Saturated": "2 g",
+      "Unsaturated": "5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "5 g",
+    "Cholesterol": "10 mg",
+    "Sodium": "210 mg",
+    "Vitamin A": "30 µg",
+    "Vitamin C": "1 mg",
+    "Calcium": "100 mg",
+    "Iron": "2 mg"
+  },
+  "source": "1 cup cooked pasta with sauce"
+},
+{
+  "name": "fresh_veggie_rolls_with_peanut_dip",
+  "nutritional_info": {
+    "Calories": 180,
+    "Carbohydrates": "20 g",
+    "Protein": "6 g",
+    "Fats": {
+      "Total": "9 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "7.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "3 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "190 mg",
+    "Vitamin A": "120 µg",
+    "Vitamin C": "10 mg",
+    "Calcium": "40 mg",
+    "Iron": "1.3 mg"
+  },
+  "source": "2 rolls with 1 tbsp peanut dip"
+},
+{
+  "name": "lettuce_wraps_with_tofu_and_vegetables",
+  "nutritional_info": {
+    "Calories": 160,
+    "Carbohydrates": "8 g",
+    "Protein": "12 g",
+    "Fats": {
+      "Total": "9 g",
+      "Saturated": "1.2 g",
+      "Unsaturated": "7.8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "2 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "210 mg",
+    "Vitamin A": "80 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "150 mg",
+    "Iron": "2 mg"
+  },
+  "source": "2 wraps (~3 oz tofu, 1/2 cup vegetables)"
+},
+{
+  "name": "grilled_sirloin_with_steamed_vegetables",
+  "nutritional_info": {
+    "Calories": 280,
+    "Carbohydrates": "7 g",
+    "Protein": "28 g",
+    "Fats": {
+      "Total": "15 g",
+      "Saturated": "6 g",
+      "Unsaturated": "9 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "2 g",
+    "Cholesterol": "80 mg",
+    "Sodium": "120 mg",
+    "Vitamin A": "90 µg",
+    "Vitamin C": "10 mg",
+    "Calcium": "30 mg",
+    "Iron": "2.5 mg"
+  },
+  "source": "1 serving (~4 oz meat, 1 cup vegetables)"
+},
+{
+  "name": "lean_flank_steak_with_roasted_sweet_potatoes",
+  "nutritional_info": {
+    "Calories": 350,
+    "Carbohydrates": "24 g",
+    "Protein": "30 g",
+    "Fats": {
+      "Total": "16 g",
+      "Saturated": "6 g",
+      "Unsaturated": "10 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "6 g",
+    "Fiber": "4 g",
+    "Cholesterol": "85 mg",
+    "Sodium": "160 mg",
+    "Vitamin A": "9500 µg",
+    "Vitamin C": "8 mg",
+    "Calcium": "50 mg",
+    "Iron": "3 mg"
+  },
+  "source": "1 serving (~4 oz steak + 1/2 cup sweet potatoes)"
+},
+{
+  "name": "whole_wheat_biscuit_with_greek_yogurt_and_berries",
+  "nutritional_info": {
+    "Calories": 210,
+    "Carbohydrates": "26 g",
+    "Protein": "8 g",
+    "Fats": {
+      "Total": "8 g",
+      "Saturated": "2 g",
+      "Unsaturated": "6 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "8 g",
+    "Fiber": "4 g",
+    "Cholesterol": "10 mg",
+    "Sodium": "190 mg",
+    "Vitamin A": "70 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "100 mg",
+    "Iron": "1.5 mg"
+  },
+  "source": "1 biscuit with 2 tbsp yogurt + 1/4 cup berries"
+},
+{
+  "name": "almond_flour_shortcake_with_strawberries",
+  "nutritional_info": {
+    "Calories": 230,
+    "Carbohydrates": "14 g",
+    "Protein": "6 g",
+    "Fats": {
+      "Total": "17 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "15.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "6 g",
+    "Fiber": "3 g",
+    "Cholesterol": "25 mg",
+    "Sodium": "90 mg",
+    "Vitamin A": "25 µg",
+    "Vitamin C": "35 mg",
+    "Calcium": "40 mg",
+    "Iron": "1.1 mg"
+  },
+  "source": "1 mini shortcake with ~1/4 cup strawberries"
+},
+{
+  "name": "brown_rice_bowl_with_tofu_and_steamed_veggies",
+  "nutritional_info": {
+    "Calories": 310,
+    "Carbohydrates": "38 g",
+    "Protein": "14 g",
+    "Fats": {
+      "Total": "12 g",
+      "Saturated": "2 g",
+      "Unsaturated": "10 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "5 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "250 mg",
+    "Vitamin A": "70 µg",
+    "Vitamin C": "8 mg",
+    "Calcium": "100 mg",
+    "Iron": "2.2 mg"
+  },
+  "source": "1 bowl (~1 cup rice, 1/2 cup tofu, 1/2 cup veggies)"
+},
+{
+  "name": "cucumber_wrapped_sushi_with_lean_fish",
+  "nutritional_info": {
+    "Calories": 160,
+    "Carbohydrates": "8 g",
+    "Protein": "18 g",
+    "Fats": {
+      "Total": "5 g",
+      "Saturated": "1 g",
+      "Unsaturated": "4 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "1 g",
+    "Cholesterol": "35 mg",
+    "Sodium": "220 mg",
+    "Vitamin A": "35 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "20 mg",
+    "Iron": "1 mg"
+  },
+  "source": "4 pieces (approx. 1 roll equivalent)"
+},
+{
+  "name": "lettuce_wraps_with_grilled_fish_or_beans",
+  "nutritional_info": {
+    "Calories": 180,
+    "Carbohydrates": "10 g",
+    "Protein": "17 g",
+    "Fats": {
+      "Total": "8 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "6.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "2 g",
+    "Fiber": "3 g",
+    "Cholesterol": "35 mg",
+    "Sodium": "200 mg",
+    "Vitamin A": "70 µg",
+    "Vitamin C": "5 mg",
+    "Calcium": "40 mg",
+    "Iron": "1.8 mg"
+  },
+  "source": "2 wraps (~3 oz fish or 1/3 cup beans)"
+},
+{
+  "name": "corn_tortillas_with_grilled_veggies_and_avocado",
+  "nutritional_info": {
+    "Calories": 240,
+    "Carbohydrates": "26 g",
+    "Protein": "5 g",
+    "Fats": {
+      "Total": "12 g",
+      "Saturated": "2 g",
+      "Unsaturated": "10 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "5 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "180 mg",
+    "Vitamin A": "80 µg",
+    "Vitamin C": "12 mg",
+    "Calcium": "50 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "2 small corn tortillas with filling"
+},
+{
+  "name": "baked_veggie_filled_balls_with_sesame_oil",
+  "nutritional_info": {
+    "Calories": 200,
+    "Carbohydrates": "15 g",
+    "Protein": "8 g",
+    "Fats": {
+      "Total": "11 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "9.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "2 g",
+    "Fiber": "3 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "210 mg",
+    "Vitamin A": "60 µg",
+    "Vitamin C": "4 mg",
+    "Calcium": "40 mg",
+    "Iron": "1.6 mg"
+  },
+  "source": "3 medium balls (~1.5 inches diameter each)"
+},
+{
+  "name": "mini_tofu_balls_with_scallions_and_ginger",
+  "nutritional_info": {
+    "Calories": 180,
+    "Carbohydrates": "10 g",
+    "Protein": "10 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "1 g",
+      "Unsaturated": "9 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "1 g",
+    "Fiber": "2 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "190 mg",
+    "Vitamin A": "40 µg",
+    "Vitamin C": "3 mg",
+    "Calcium": "120 mg",
+    "Iron": "1.5 mg"
+  },
+  "source": "4 mini tofu balls"
+},
+{
+  "name": "greek_yogurt_tiramisu_with_espresso_soaked_oats",
+  "nutritional_info": {
+    "Calories": 230,
+    "Carbohydrates": "22 g",
+    "Protein": "12 g",
+    "Fats": {
+      "Total": "9 g",
+      "Saturated": "3 g",
+      "Unsaturated": "6 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "8 g",
+    "Fiber": "3 g",
+    "Cholesterol": "10 mg",
+    "Sodium": "120 mg",
+    "Vitamin A": "35 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "150 mg",
+    "Iron": "1 mg"
+  },
+  "source": "1 glass/jar (~150 g)"
+},
+{
+  "name": "cottage_cheese_tiramisu_with_cocoa_and_almond_flour",
+  "nutritional_info": {
+    "Calories": 250,
+    "Carbohydrates": "10 g",
+    "Protein": "16 g",
+    "Fats": {
+      "Total": "17 g",
+      "Saturated": "4 g",
+      "Unsaturated": "13 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "2 g",
+    "Cholesterol": "20 mg",
+    "Sodium": "180 mg",
+    "Vitamin A": "45 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "140 mg",
+    "Iron": "1.2 mg"
+  },
+  "source": "1 jar or ramekin (~150 g)"
+},
+{
+  "name": "tuna_tartare_with_avocado_and_citrus",
+  "nutritional_info": {
+    "Calories": 220,
+    "Carbohydrates": "6 g",
+    "Protein": "22 g",
+    "Fats": {
+      "Total": "13 g",
+      "Saturated": "2 g",
+      "Unsaturated": "11 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "2 g",
+    "Fiber": "3 g",
+    "Cholesterol": "35 mg",
+    "Sodium": "160 mg",
+    "Vitamin A": "45 µg",
+    "Vitamin C": "8 mg",
+    "Calcium": "20 mg",
+    "Iron": "1.3 mg"
+  },
+  "source": "1 serving (~1/2 cup)"
+},
+{
+  "name": "tuna_avocado_tartare_with_cucumber_slices",
+  "nutritional_info": {
+    "Calories": 210,
+    "Carbohydrates": "5 g",
+    "Protein": "20 g",
+    "Fats": {
+      "Total": "13 g",
+      "Saturated": "2 g",
+      "Unsaturated": "11 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "2 g",
+    "Fiber": "3 g",
+    "Cholesterol": "30 mg",
+    "Sodium": "140 mg",
+    "Vitamin A": "35 µg",
+    "Vitamin C": "7 mg",
+    "Calcium": "15 mg",
+    "Iron": "1.1 mg"
+  },
+  "source": "1/2 cup tartare with cucumber rounds"
+},
+{
+  "name": "oat_flour_waffles_with_fruit_and_yogurt",
+  "nutritional_info": {
+    "Calories": 280,
+    "Carbohydrates": "32 g",
+    "Protein": "11 g",
+    "Fats": {
+      "Total": "12 g",
+      "Saturated": "3 g",
+      "Unsaturated": "9 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "8 g",
+    "Fiber": "5 g",
+    "Cholesterol": "15 mg",
+    "Sodium": "210 mg",
+    "Vitamin A": "50 µg",
+    "Vitamin C": "5 mg",
+    "Calcium": "130 mg",
+    "Iron": "2.2 mg"
+  },
+  "source": "1 waffle with 2 tbsp yogurt and 1/4 cup fruit"
+},
+{
+  "name": "whole_grain_waffles_with_nut_butter_and_banana",
+  "nutritional_info": {
+    "Calories": 320,
+    "Carbohydrates": "35 g",
+    "Protein": "10 g",
+    "Fats": {
+      "Total": "15 g",
+      "Saturated": "3 g",
+      "Unsaturated": "12 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "10 g",
+    "Fiber": "6 g",
+    "Cholesterol": "15 mg",
+    "Sodium": "230 mg",
+    "Vitamin A": "50 µg",
+    "Vitamin C": "6 mg",
+    "Calcium": "140 mg",
+    "Iron": "2.4 mg"
+  },
+  "source": "1 waffle with 1 tbsp nut butter and 1/2 medium banana"
+},
+{
+  "name": "grilled_skinless_duck_breast_with_hoisin_glaze",
+  "nutritional_info": {
+    "Calories": 280,
+    "Carbohydrates": "8 g",
+    "Protein": "28 g",
+    "Fats": {
+      "Total": "15 g",
+      "Saturated": "4 g",
+      "Unsaturated": "11 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "6 g",
+    "Fiber": "0 g",
+    "Cholesterol": "75 mg",
+    "Sodium": "400 mg",
+    "Vitamin A": "25 µg",
+    "Vitamin C": "1 mg",
+    "Calcium": "20 mg",
+    "Iron": "2 mg"
+  },
+  "source": "1 medium breast (~120 g cooked)"
+},
+{
+  "name": "chicken_lettuce_wraps_with_asian_spices",
+  "nutritional_info": {
+    "Calories": 220,
+    "Carbohydrates": "10 g",
+    "Protein": "25 g",
+    "Fats": {
+      "Total": "7 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "5.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "2 g",
+    "Cholesterol": "70 mg",
+    "Sodium": "350 mg",
+    "Vitamin A": "60 µg",
+    "Vitamin C": "10 mg",
+    "Calcium": "35 mg",
+    "Iron": "1.5 mg"
+  },
+  "source": "3 wraps (~4 oz chicken filling)"
+},
+{
+  "name": "veggie_pho_with_zucchini_noodles_and_lean_meat",
+  "nutritional_info": {
+    "Calories": 250,
+    "Carbohydrates": "18 g",
+    "Protein": "20 g",
+    "Fats": {
+      "Total": "7 g",
+      "Saturated": "1.5 g",
+      "Unsaturated": "5.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "4 g",
+    "Cholesterol": "55 mg",
+    "Sodium": "600 mg",
+    "Vitamin A": "90 µg",
+    "Vitamin C": "18 mg",
+    "Calcium": "40 mg",
+    "Iron": "2 mg"
+  },
+  "source": "1 large bowl (~350 g)"
+},
+{
+  "name": "brown_rice_noodle_pho_with_tofu_and_herbs",
+  "nutritional_info": {
+    "Calories": 230,
+    "Carbohydrates": "30 g",
+    "Protein": "15 g",
+    "Fats": {
+      "Total": "4 g",
+      "Saturated": "0.5 g",
+      "Unsaturated": "3.5 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "3 g",
+    "Fiber": "3 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "550 mg",
+    "Vitamin A": "70 µg",
+    "Vitamin C": "15 mg",
+    "Calcium": "50 mg",
+    "Iron": "2.1 mg"
+  },
+  "source": "1 bowl (~350 g)"
+},
+{
+  "name": "whole_wheat_crust_pizza_with_veggie_toppings",
+  "nutritional_info": {
+    "Calories": 310,
+    "Carbohydrates": "38 g",
+    "Protein": "14 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "3 g",
+      "Unsaturated": "7 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "5 g",
+    "Fiber": "6 g",
+    "Cholesterol": "15 mg",
+    "Sodium": "540 mg",
+    "Vitamin A": "70 µg",
+    "Vitamin C": "20 mg",
+    "Calcium": "180 mg",
+    "Iron": "3 mg"
+  },
+  "source": "1 slice (~1/6 of 10-inch pizza)"
+},
+{
+  "name": "cauliflower_crust_pizza_with_tomato_and_light_cheese",
+  "nutritional_info": {
+    "Calories": 270,
+    "Carbohydrates": "22 g",
+    "Protein": "13 g",
+    "Fats": {
+      "Total": "13 g",
+      "Saturated": "5 g",
+      "Unsaturated": "8 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "4 g",
+    "Fiber": "4 g",
+    "Cholesterol": "20 mg",
+    "Sodium": "480 mg",
+    "Vitamin A": "60 µg",
+    "Vitamin C": "15 mg",
+    "Calcium": "160 mg",
+    "Iron": "2 mg"
+  },
+  "source": "1 slice (~1/6 of 10-inch pizza)"
+},
+{
+  "name": "grilled_lean_pork_loin_with_herbs",
+  "nutritional_info": {
+    "Calories": 230,
+    "Carbohydrates": "0 g",
+    "Protein": "32 g",
+    "Fats": {
+      "Total": "9 g",
+      "Saturated": "3 g",
+      "Unsaturated": "6 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "0 g",
+    "Fiber": "0 g",
+    "Cholesterol": "85 mg",
+    "Sodium": "60 mg",
+    "Vitamin A": "10 µg",
+    "Vitamin C": "0 mg",
+    "Calcium": "12 mg",
+    "Iron": "1.1 mg"
+  },
+  "source": "1 medium serving (~100 g cooked)"
+},
+{
+  "name": "baked_pork_medallions_with_roasted_veggies",
+  "nutritional_info": {
+    "Calories": 290,
+    "Carbohydrates": "12 g",
+    "Protein": "30 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "3 g",
+      "Unsaturated": "7 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "5 g",
+    "Fiber": "3 g",
+    "Cholesterol": "90 mg",
+    "Sodium": "180 mg",
+    "Vitamin A": "90 µg",
+    "Vitamin C": "20 mg",
+    "Calcium": "35 mg",
+    "Iron": "1.8 mg"
+  },
+  "source": "1 serving (4 oz pork + 1 cup veggies)"
+},
+{
+  "name": "baked_sweet_potato_fries_with_light_cheese_and_mushroom_gravy",
+  "nutritional_info": {
+    "Calories": 310,
+    "Carbohydrates": "40 g",
+    "Protein": "10 g",
+    "Fats": {
+      "Total": "10 g",
+      "Saturated": "4 g",
+      "Unsaturated": "6 g",
+      "Trans": "0 g"
+    },
+    "Sugars": "8 g",
+    "Fiber": "5 g",
+    "Cholesterol": "25 mg",
+    "Sodium": "450 mg",
+    "Vitamin A": "950 µg",
+    "Vitamin C": "18 mg",
+    "Calcium": "130 mg",
+    "Iron": "1.5 mg"
+  },
+  "source": "1 serving (~150 g fries + 1/4 cup cheese + 1/4 cup gravy)"
+}
+
+
+]

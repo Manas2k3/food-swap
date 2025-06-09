@@ -1,0 +1,1142 @@
+{
+    "1": {
+        "original": "Apple pie",
+        "alternatives": [
+            {
+                "name": "Baked apples with cinnamon and oats",
+                "image": " https://somethingnutritiousblog.com/wp-content/uploads/2021/10/A8EE2EB9-D525-4B4A-8F3A-756737F7490C-scaled-1.jpeg "
+            },
+            {
+                "name": "Almond flour crust apple tart with no added sugar",
+                "image": "https://thehealthierbite.com/wp-content/uploads/2023/09/Gluten-Free-Apple-Tart-14.jpg"
+            }
+        ]
+    },
+    "2": {
+        "original": "Baby back ribs",
+        "alternatives": [
+            {
+                "name": "Grilled lean pork loin with dry rub",
+                "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_730,h_548/k%2FPhoto%2FRecipes%2F2024-08-grilled-pork-tenderloin%2Fgrilled-pork-tenderloin-132"
+            },
+            {
+                "name": "Slow-cooked jackfruit ribs with BBQ spice mix",
+                "image": "https://myquietkitchen.com/wp-content/uploads/2021/06/Vegan-Ribs-Jackfruit.jpg"
+            }
+        ]
+    },
+    "3": {
+        "original": "Baklava",
+        "alternatives": [
+            {
+                "name": "Phyllo crisps with honey, walnuts, and chia seeds",
+                "image": "https://www.themediterraneandish.com/wp-content/uploads/2020/04/baklava-recipe-9.jpg"
+            },
+           {
+                "name": "Oatmeal bars with pistachios and maple syrup",
+                "image": "https://cdn.loveandlemons.com/wp-content/uploads/2017/02/IMG_2017_02_08_09453-2.jpg"
+            }
+        ]
+    },
+    "4": {
+        "original": "Beef carpaccio",
+        "alternatives": [
+            {
+                "name": "Thinly sliced seared tuna with lemon and arugula",
+                "image": "https://coleycooks.com/wp-content/uploads/2023/06/classic-tuna-carpaccio-with-arugula-capers-pine-nuts-10.jpg"
+            },
+            {
+                "name": "Beet carpaccio with balsamic glaze and walnuts",
+                "image": "https://www.thespiceguyco.com/cdn/shop/articles/beetroot-carpaccio-with-balsamic-reduction-107252.jpg?v=1730509782"
+            }
+        ]
+    },
+    "5": {
+        "original": "Beef tartare",
+        "alternatives": [
+            {
+                "name": "Diced avocado with lemon, capers, and herbs",
+                "image": "https://static01.nyt.com/images/2020/11/13/dining/18apperex/merlin_140979597_33375069-29a4-4bb5-be4f-60fa8c21d00a-jumbo.jpg?quality=75&auto=webp"
+            },
+            {
+                "name": "Chopped mushrooms with miso and Dijon mustard",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/roasted-mushrooms-on-greens-with-miso-dressing-65b96d0d34b0f.jpg?crop=0.293xw:0.440xh;0.402xw,0&resize=1200:*"
+            }
+        ]
+    },
+    "6": {
+        "original": "Beet salad",
+        "alternatives": [
+            {
+                "name": "Beet salad with low-fat feta and olive oil",
+                "image": "https://www.runningtothekitchen.com/wp-content/uploads/2023/02/beet-salad-with-feta-7-1200x1800.jpg"
+            },
+            {
+                "name": "Roasted beets with arugula and citrus vinaigrette",
+                "image": "https://foodiegalfresh.com/wp-content/uploads/2024/04/Roasted-beet-and-arugula-salad-4-750x1000.jpg"
+            }
+        ]
+    },
+    "7": {
+        "original": "Beignets",
+        "alternatives": [
+            {
+                "name": "Baked whole-wheat mini donuts with cinnamon",
+                "image": "https://foodiegalfresh.com/wp-content/uploads/2024/04/Roasted-beet-and-arugula-salad-4-750x1000.jpg"
+            },
+            {
+                "name": "Air-fried banana fritters with almond flour",
+                "image": "https://www.spabettie.com/wp-content/uploads/2023/09/Banana-Fritters-@spabettie-1024x1536.jpg"
+            }
+        ]
+    },
+    "8": {
+        "original": "Bibimbap",
+        "alternatives": [
+            {
+                "name": "Brown rice bowl with tofu and steamed veggies",
+                "image": "https://thefoodietakesflight.com/wp-content/uploads/2022/04/Tofu-and-Mixed-Vegetable-Rice-Bowl-10-of-35-1024x1536.jpg"
+            },
+            {
+                "name": "Cauliflower rice with egg and fermented veggies",
+                "image": "https://s3.amazonaws.com/images.chefinyou.com/main/cauliflower-fried-rice-recipe/main-img6.JPG"
+            }
+        ]
+    },
+    "9": {
+        "original": "Bread pudding",
+        "alternatives": [
+            {
+                "name": "Chia seed pudding with almond milk and fruit",
+                "image": "https://feelgoodfoodie.net/wp-content/uploads/2018/06/3-Ingredient-Chia-Pudding-06.jpg"
+            },
+            {
+                "name": "Baked cinnamon oat meal",
+                "image": "https://draxe.com/wp-content/uploads/2017/09/DrAxeBakedOatmeal_Header.jpg"
+            }
+        ]
+    },
+    "10": {
+        "original": "Breakfast burrito",
+        "alternatives": [
+            {
+                "name": "Whole wheat wrap with egg whites and veggies",
+                "image": "https://www.eatingbirdfood.com/wp-content/uploads/2020/12/breakfast-wrap-hero.jpg"
+            },
+            {
+                "name": "Lettuce wrap with scrambled tofu and black beans",
+                "image": "https://girlheartfood.com/wp-content/uploads/2019/06/Black-Bean-and-Tofu-Scramble-Lettuce-Wraps-2-Tall.jpg"
+            }
+        ]
+    },
+    "11": {
+        "original": "Bruschetta",
+        "alternatives": [
+            {
+                "name": "Whole-grain toast with tomato, basil, and avocado",
+                "image": "https://bakesbybrownsugar.com/wp-content/uploads/2023/07/Avocado-Toast-with-Tomato-46-1.jpg"
+            },
+            {
+                "name": "Cucumber slices topped with tomato and balsamic",
+                "image": "https://hoorahtohealth.com/wp-content/uploads/2021/07/Cucumber-Tomato-Salad-with-Balsamic.jpg"
+            }
+        ]
+    },
+    "12": {
+        "original": "Caesar salad",
+        "alternatives": [
+            {
+                "name": "Romaine with Greek yogurt dressing and grilled chicken",
+                "image": "https://www.themediterraneandish.com/wp-content/uploads/2021/03/Greek-chicken-salad-recipe-6.jpg"
+            },
+            {
+                "name": "Kale Caesar with avocado and chickpea croutons",
+                "image": "https://mintykitchen.com/wp-content/uploads/2021/03/Kale-Caesar-Salad.jpg"
+            }
+        ]
+    },
+    "13": {
+        "original": "Cannoli",
+        "alternatives": [
+            {
+                "name": "Ricotta-stuffed strawberries with dark chocolate chips",
+                "image": "https://inviaggioincucina.com/wp-content/uploads/2019/04/cheesecake-alla-ricotta-con-fragole-e-cioccolato-3.jpg"
+            },
+            {
+                "name": "Whole wheat cannoli shells with ricotta and honey",
+                "image": "https://www.mangiabedda.com/wp-content/uploads/2021/12/IMG_3611-2-1024x1536.jpg"
+            }
+        ]
+    },
+    "14": {
+        "original": "Caprese salad",
+        "alternatives": [
+            {
+                "name": "Part-skim mozzarella, extra basil, and tomatoes",
+                "image": "https://itseverythingdelicious.com/wp-content/uploads/2019/06/Caprese-Salad-8-768x1024.jpg"
+            },
+            {
+                "name": "Tofu slices with tomatoes and balsamic glaze",
+                "image": "https://static01.nyt.com/images/2021/12/30/dining/30appetite-3/merlin_199407099_b0479456-485d-4818-86ac-8c80cf6c3af7-jumbo.jpg?quality=75&auto=webp"
+            }
+        ]
+    },
+    "15": {
+        "original": "Carrot cake",
+        "alternatives": [
+            {
+                "name": "Whole-grain carrot muffins with Greek yogurt frosting",
+                "image": "https://cookieandkate.com/images/2015/12/healthy-carrot-muffins-recipe-1.jpg"
+            },
+            {
+                "name": "Almond flour carrot bars sweetened with dates",
+                "image": "https://shuangyskitchensink.com/wp-content/uploads/2019/04/Carrot-Cake-Bars-2.jpg"
+            }
+        ]
+    },
+    "16": {
+        "original": "Ceviche",
+        "alternatives": [
+            {
+                "name": "Lean white fish ceviche with citrus and herbs",
+                "image": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2023/04/Ceviche-7.jpg"
+            },
+            {
+                "name": "Mango-avocado ceviche with lime juice",
+                "image": "https://img.delicious.com.au/847clevd/w759-h506-cfill/del/2023/11/ceviche-with-mango-and-avocado-201060-2.jpg"
+            }
+        ]
+    },
+    "17": {
+        "original": "Cheesecake",
+        "alternatives": [
+            {
+                "name": "Cottage cheese-based mini cheesecakes with berries",
+                "image": "https://www.thepancakeprincess.com/wp-content/uploads/2014/01/IMG_4458.jpg"
+            },
+            {
+                "name": "Tofu cheesecake with almond crust",
+                "image": "https://www.blueprintnutrition.ca/wp-content/uploads/2020/04/Lightened-Up-Lemon-Almond-Tofu-Cheesecake-1-1.jpeg"
+            }
+        ]
+    },
+    "18": {
+        "original": "Cheese plate",
+        "alternatives": [
+            {
+                "name": "Fruits, nuts, and low-fat cheeses",
+                "image": "https://i0.wp.com/cheesescientist.com/wp-content/uploads/2024/12/Mediterranean-Diet-Pyramid-1.jpg?w=1200&ssl=1"
+            },
+            {
+                "name": "Goat cheese with fresh figs and whole grain crackers",
+                "image": "https://spiceboxtravels.com/wp-content/uploads/2014/07/photo-5381.jpg"
+            }
+        ]
+    },
+    "19": {
+        "original": "Chicken curry",
+        "alternatives": [
+            {
+                "name": "Grilled chicken with coconut milk and veggies",
+                "image": "https://www.chelseasmessyapron.com/wp-content/uploads/2015/08/Coconut-Chicken-Curry-2.jpg"
+            },
+            {
+                "name": "Lentil and sweet potato curry with turmeric",
+                "image": "https://cdn77-s3.lazycatkitchen.com/wp-content/uploads/2020/01/sweet-potato-red-lentil-curry-pot-800x1200.jpg"
+            }
+        ]
+    },
+    "20": {
+        "original": "Chicken quesadilla",
+        "alternatives": [
+            {
+                "name": "Whole-wheat tortilla with grilled chicken and low-fat cheese",
+                "image": "https://www.aromaandessence.com/wp-content/uploads/2022/12/Cooked-wrap-closeup.jpg"
+            },
+            {
+                "name":"veggie Quesadilla with black beans and avocado",
+                "image":"https://gimmedelicious.com/wp-content/uploads/2016/12/avocado-and-veggie-quesadillas-4-of-8.jpg"
+            }
+            ]                                                                     
+        },
+        "21": {
+            "original": "Chicken wings",
+            "alternatives": [
+                {"name":"Baked cauliflower wings with hot sauce",
+                 "image":"https://www.hotforfoodblog.com/wp-content/uploads/2014/02/cauliflowerwings3ways_hotforfood_filtered6-2048x1366.jpg"
+            },
+                {"name":"Grilled chicken tenders with paprika and lemon",
+                 "image":"https://feelgoodfoodie.net/wp-content/uploads/2019/12/Grilled-Chicken-Tenders-4.jpg"
+        }
+            ]
+        },
+        "22": {
+            "original": "Chocolate cake",
+            "alternatives": [
+               {"name": "Avocado chocolate cake with almond flour",
+                "image":"https://www.sweetashoney.co/wp-content/uploads/Chocolate-Avocado-Cake-gluten-free.jpg"
+            },
+               {"name": "Black bean chocolate brownies with maple syrup",
+                "image": "https://sweetpeasandsaffron.com/wp-content/uploads/2021/02/black-bean-brownies-1024x1536.jpg"
+            }
+            ]
+        },
+        "23": {
+            "original": "Chocolate mousse",
+            "alternatives": [
+               {"name": "Silken tofu chocolate mousse",
+                "image": "https://aseasyasapplepie.com/wp-content/uploads/2017/03/silken-tofu-chocolate-mousse.jpg"
+            },
+                {"name":"Avocado cocoa mousse with banana",
+                 "image":"https://www.kindearth.net/wp-content/uploads/2016/04/Chocolate-avocado-mouse_a2-1.jpg"
+        }
+            ]
+        },
+        "24": {
+            "original": "Churros",
+            "alternatives": [
+                {"name":"Baked whole wheat churros with cinnamon-date dip",
+                 "image":"https://www.theconsciousplantkitchen.com/wp-content/uploads/2025/04/Baked-Churros-1.jpg"
+            },
+                {"name":"Air-fried oat flour churros with honey drizzle",
+                 "image":"https://www.snixykitchen.com/wp-content/uploads/2020/10/Gluten-Free-Churros-10-2-1024x1536.jpg"
+        }
+            ]
+        },
+        "25": {
+            "original": "Clam chowder",
+            "alternatives": [
+                {"name":"Light seafood chowder with coconut milk",
+                 "image":"https://nadialim.com/wp-content/uploads/2020/09/seafoodChowder-960x800.jpg"
+            },
+                {"name":"Cauliflower chowder with herbs and corn",
+                 "image":"https://images.squarespace-cdn.com/content/v1/5e70fc3883651e7229fefd87/1632261999947-7NTJG2ODLT79HBZOBON9/poppies-and-prosecco-vegan-cauliflower-corn-chowder-recipe-4.jpg?format=1000w"
+        }
+            ]
+        },
+        "26": {
+            "original": "Club sandwich",
+            "alternatives": [
+                "Turkey and avocado sandwich on whole grain bread",
+                "Grilled veggie sandwich with hummus spread"
+            ]
+        },
+        "27": {
+            "original": "Crab cakes",
+            "alternatives": [
+                "Baked quinoa-crab patties",
+                "Zucchini-crab cakes with Greek yogurt dip"
+            ]
+        },
+        "28": {
+            "original": "Cr\u00e8me br\u00fbl\u00e9e",
+            "alternatives": [
+               {"name": "Greek yogurt custard with caramelized honey top",
+                "image":"https://www.modernhoney.com/wp-content/uploads/2018/03/Greek-Yogurt-Panna-Cotta-with-Honey-1200x887.jpg"
+            },
+                {"name":"Vanilla chia pudding with coconut milk",
+                 "image":"https://aclassictwist.com/wp-content/uploads/2014/04/vanilla-coconut-chia-pudding_2.jpg"
+        }
+            ]
+        },
+        "29": {
+            "original": "Croque madame",
+            "alternatives": [
+                {"name":"Open-faced egg-white sandwich with spinach and tomato",
+                 "image":"https://www.ambitiouskitchen.com/wp-content/uploads/2012/11/IMG_7242-e1547846752234-750x750.jpg"
+            },
+                {"name":"Whole grain toast with turkey, egg, and low-fat cheese",
+                 "image":"https://therealisticdietitian.com/wp-content/uploads/2020/06/Breakfast-Sandwich-2000-1024x1024.png"
+        }
+            ]
+        },
+        "30": {
+            "original": "Cupcakes",
+            "alternatives": [
+                {"name":"Banana cupcakes with honey cinnamon frosting",
+                 "image":"https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_744,ar_5:4/v1/img/recipes/32/17/13/yi8JneeDS0GAlPmvGPNr_2014-07-22%252013.07.15.jpg"
+            },
+                {"name":"Almond flour cupcakes with Greek yogurt topping",
+                 "image":"https://www.jaroflemons.com/wp-content/uploads/2023/05/Almond-Flour-Cupcakes-3.jpg"
+        }
+            ]
+        },
+        "31": {
+            "original": "Deviled eggs",
+            "alternatives": [
+                {"name":"Greek yogurt-filled deviled eggs",
+                 "image":"https://therealfooddietitians.com/wp-content/uploads/2017/04/healthy-deviled-eggs-7-1024x1536.jpg"
+            },
+                {"name":"Avocado-stuffed deviled eggs with herbs",
+                 "image":"https://www.coffeeandquinoa.com/wp-content/uploads/2014/04/DSC_0712-600x903.jpg"
+        }
+            ]
+        },
+        "32": {
+            "original": "Donuts",
+            "alternatives": [
+                {"name":"Baked oat-flour donuts with date-sweetened glaze",
+                 "image":"https://b1319836.smushcdn.com/1319836/wp-content/uploads/2021/06/chocolate-glazed-donut-recipe-4-1024x1536.jpg?lossy=1&strip=1&webp=1"
+            },
+                {"name":"Air-fried banana nut donuts",
+                 "image":"https://rachnacooks.com/wp-content/uploads/2024/08/bananadonutholesfea2-1024x1024.jpg"
+        }
+            ]
+        },
+        "33": {
+            "original": "Dumplings",
+            "alternatives": [
+                {"name":"Steamed veggie dumplings with rice wrappers",
+                 "image":"https://myriadrecipes.com/wp-content/uploads/2023/08/Steamed-rice-paper-dumplings-2.jpg"
+            },
+               {"name": "Baked tofu and cabbage dumplings",
+                "image": "https://redhousespice.com/wp-content/uploads/2019/12/vegan-dumplings-101-1025x1536.jpg"
+        }
+            ]
+        },
+        "34": {
+            "original": "Edamame",
+            "alternatives": [
+                {"name":"Steamed edamame with chili flakes",
+                 "image":"https://www.inspiredtaste.net/wp-content/uploads/2020/03/Spicy-Edamame-Recipe-1-1200-1024x1536.jpg"
+            },
+                {"name":"Roasted edamame with sesame seeds",
+                 "image":"https://bing.com/th?id=OSK.1c0c0f92740a5f85762624509cfdf37b"
+        }
+            ]
+        },
+        "35": {
+            "original": "Eggs Benedict",
+            "alternatives": [
+                {"name":"Poached eggs with avocado on whole wheat toast",
+                 "image":"https://cdn.cleaneatingmag.com/wp-content/uploads/2019/10/poached-egg-avocado-toast-1.jpg?crop=535:301&width=1070&enable=upscale"
+            },
+                {"name":"Sweet potato toast with spinach and egg whites",
+                 "image":"https://iowagirleats.com/wp-content/uploads/2017/08/Avocado-Egg-and-Spinach-Sweet-Potato-Toasts-iowagirleats-01.jpg"
+        }
+            ]
+        },
+        "36": {
+            "original": "Escargots",
+            "alternatives": [
+                {"name":"Mushrooms sauted in garlic and parsley",
+                 "image":"https://www.sipandfeast.com/wp-content/uploads/2019/09/sauteed-mushrooms-funghi-trifolati-recipe-5.jpg"
+            },
+                {"name":"Grilled zucchini with herb butter",
+                 "image":"https://momsdinner.net/wp-content/uploads/2024/05/grilled-zucchini-2.jpg"
+        }
+            ]
+        },
+        "37": {
+            "original": "Falafel",
+            "alternatives": [
+                {"name":"Baked falafel with whole chickpeas and parsley",
+                 "image":"https://eatwithclarity.com/wp-content/uploads/2019/11/easy-vegan-falafel-9.jpg"
+            },
+                {"name":"Air-fried lentil falafel with tahini sauce",
+                 "image":"https://th.bing.com/th/id/OIP.zkh0mNDg3hR_x6C2Y96lQgHaLH?rs=1&pid=ImgDetMain"
+        }
+            ]
+        },
+        "38": {
+            "original": "Filet mignon",
+            "alternatives": [
+               {"name": "Grilled lean sirloin with rosemary",
+                "image": "https://thumbs.dreamstime.com/b/grilled-picanha-top-sirloin-beef-steak-rosemary-steel-tray-wooden-background-view-266011215.jpg"
+            },
+                {"name":"Turkey steak with balsamic glaze",
+                 "image":"https://th.bing.com/th/id/OIP.RqJ45HlI98bKIJlWeX4XXQAAAA?rs=1&pid=ImgDetMain"
+        }
+            ]
+        },
+        "39": {
+            "original": "Fish and chips",
+            "alternatives": [
+                {"name":"Baked cod with sweet potato wedges",
+                 "image":"https://th.bing.com/th/id/OIP.v4sB0DfDngoLQSCWC6c2LwHaE8?rs=1&pid=ImgDetMain"
+            },
+                {"name":"Air-fried tilapia with avocado slaw",
+                 "image":"https://th.bing.com/th/id/OIP.yaxE5lDrBDrn1hpSOA0_agAAAA?rs=1&pid=ImgDetMain"
+        }
+            ]
+        },
+        "40": {
+            "original": "Foie gras",
+            "alternatives": [
+                {"name":"Avocado toast with lemon and smoked paprika",
+                 "image":"https://www.inspiredtaste.net/wp-content/uploads/2018/08/Avocado-Toast-Recipe-1200.jpg"
+            },
+                {"name":"Roasted eggplant spread on whole grain toast",
+                 "image":"https://i0.wp.com/pebblesandtoast.com/wp-content/uploads/2021/03/1-IMG_3802.jpg?w=1365&ssl=1"
+        }
+            ]
+        },
+        "41": {
+            "original": "French fries",
+            "alternatives": [
+                {"name":"Air-fried sweet potato fries",
+                 "image":"https://littlesunnykitchen.com/wp-content/uploads/2021/05/Air-Fryer-Sweet-Potato-Fries-1.jpg"
+            },
+                {"name":"Baked zucchini fries with olive oil",
+                 "image":"https://th.bing.com/th/id/R.8df433452aae85c538e45de7254eba97?rik=voI0zp7R0E2Kkw&riu=http%3a%2f%2fgimmedelicious.com%2fwp-content%2fuploads%2f2016%2f06%2fzuccini-fries-1-of-14.jpg&ehk=weIynXJ2Y1R2yRWV04U1eXxUgCXhNgii%2fADS3RYdEWo%3d&risl=&pid=ImgRaw&r=0"
+        }
+            ]
+        },
+        "42": {
+            "original": "French onion soup",
+            "alternatives": [
+                {"name":"Low-sodium broth with caramelized onions and whole grain croutons",
+                 "image":"https://i.pinimg.com/originals/b2/be/44/b2be44b8cf361f277166e296a47e630a.jpg"
+            },
+                {"name":"Vegetable broth with leeks and minimal cheese",
+                 "image":"https://www.skinnytaste.com/wp-content/uploads/2009/10/POTATO-LEEK-SOUP2.-4.jpg"
+        }
+            ]
+        },
+        "43": {
+            "original": "French toast",
+            "alternatives": [
+                {"name":"Whole-grain French toast with fruit compote",
+                 "image":"https://th.bing.com/th/id/R.43b703ae64984fb40dddda582cbc1aca?rik=xgPacMu7%2ftuuqQ&riu=http%3a%2f%2fwww.unicornsinthekitchen.com%2fwp-content%2fuploads%2f2016%2f04%2fBaked-French-Toast-with-Berry-Compote-2-600px.jpg&ehk=0HyvfSeuXeLy%2bAQ32IMZ4Pp5gSwmh%2fQRJAF%2fn42RSEM%3d&risl=&pid=ImgRaw&r=0"
+            },
+                {"name":"Oatmeal-crusted French toast with Greek yogurt",
+                 "image":"https://images.smuckers.ca/images/recipes/1/recipe_4447.jpg"
+        }
+            ]
+        },
+        "44": {
+            "original": "Fried calamari",
+            "alternatives": [
+                {"name":"Grilled squid with lemon and herbs",
+                 "image":"https://cookaifood.com/media/cache/thumb_600/bundles/project/images/recipes/2337_1_1704834176.png"
+            },
+                {"name":"Air-fried calamari rings with whole wheat coating",
+                 "image":"https://diethood.com/wp-content/uploads/2021/08/air-fryer-calamari-8-1024x1536.jpg"
+
+        }
+            ]
+        },
+        "45": {
+            "original": "Fried rice",
+            "alternatives": [
+                {"name":"Cauliflower fried rice with vegetables and egg whites",
+                 "image":"https://bing.com/th?id=OSK.ffde85ee6940cf22ebceb36ae5312345"
+            },
+                {"name":"Brown rice stir-fry with tofu and sesame oil",
+                 "image":"https://img.freepik.com/premium-photo/fried-tofu-with-brown-rice-vegan-plant-with-ingredients-as-sesame-oil-tofu-soy-sauce-rice-vinegar_981499-103.jpg"
+        }
+            ]
+        },
+        "46": {
+            "original": "Frozen yogurt",
+            "alternatives": [
+                {"name":"Plain Greek yogurt with berries and nuts",
+                 "image":"https://bing.com/th?id=OSK.31eb20514e1a6682d73ad598b71ba3e5"
+            },
+                {"name":"Banana-based 'nice cream' with cocoa nibs",
+                 "image":"https://th.bing.com/th/id/OIP.NVkTWIT5bi9ClAGVt8JSzgHaE8?r=0&rs=1&pid=ImgDetMain"
+        }
+            ]
+        },
+        "47": {
+            "original": "Garlic bread",
+            "alternatives": [
+                {"name":"Whole wheat toast with garlic and olive oil",
+                 "image":"https://th.bing.com/th/id/OIP.9427CeXc8r5MHazE7ZNDFQHaE8?r=0&rs=1&pid=ImgDetMain"
+            },
+                {"name":"Cauliflower crust garlic bread with herbs",
+                 "image":"https://www.ambitiouskitchen.com/wp-content/uploads/2023/02/Garlic-Bread-4.jpg"
+        }
+            ]
+        },
+        "48": {
+            "original": "Gnocchi",
+            "alternatives": [
+                {"name":"Sweet potato gnocchi with pesto",
+                 "image":"https://th.bing.com/th/id/OIP.vxIjOdd0_lp4kpanHiLmJwHaHa?r=0&rs=1&pid=ImgDetMain"
+            },
+                {"name":"Cauliflower gnocchi with tomato basil sauce",
+                 "image":"https://th.bing.com/th/id/OIP.ZxL-dFunA8WLzbGd7nt4EgHaLH?r=0&rs=1&pid=ImgDetMain"
+        }
+            ]
+        },
+        "49": {
+            "original": "Greek salad",
+            "alternatives": [
+                {"name":"Greek salad with reduced feta and extra greens",
+                 "image":"https://cdn.loveandlemons.com/wp-content/uploads/2019/07/greek-salad-recipe.jpg"
+            },
+                {"name":"Cucumber-tomato salad with lemon and olives",
+                 "image":"https://th.bing.com/th/id/OIP.Ewh1AbpDM3Wpp8pc8OsMpAHaHa?r=0&rs=1&pid=ImgDetMain"
+        }
+            ]
+        },
+        "50": {
+            "original": "Grilled cheese sandwich",
+            "alternatives": [
+                {"name":"Whole-grain bread with avocado and low-fat cheese",
+                 "image":"https://media.30seconds.com/tip/lg/Cada-Cada-Toast-Avocado-Toast-Is-Healthy-Quick-Delish-Get--12517-2e7c597c4a-1492845848.jpg"
+            },
+                {"name":"Grilled vegetable and mozzarella sandwich on rye",
+                 "image":"https://www.countrycrock.com/en-us/-/media/Project/Upfield/Brands/Country-Crock/Country-Crock/Assets/Recipes/sync-images/0f2dbd08-465f-45b9-9c23-3ea7d7f7818e.jpg?rev=76090f1dddf74b3381c0b32b5eb1a42d&w=1600"
+        }
+            ]
+        },
+        "51": {
+            "original": "Grilled salmon",
+            "alternatives": [
+                {"name":"Grilled salmon with quinoa and steamed greens",
+                 "image":"https://healthylivingpc.com/wp-content/uploads/2024/04/Grilled-Salmon-with-Quinoa-and-Steamed-Vegetables.jpg"
+            },
+                {"name":"Baked salmon with lemon and herbs",
+                 "image":"https://www.wellplated.com/wp-content/uploads/2019/09/Best-Lemon-Pepper-Salmon-Recipe.jpg"
+        }
+            ]
+        },
+        "52": {
+            "original": "Guacamole",
+            "alternatives": [
+               {"name": "Classic guacamole with veggie sticks",
+                "image":"https://i.pinimg.com/originals/68/f7/77/68f7771a731bb5cd94af23ea7fb56de7.jpg"
+            },
+                {"name":"Avocado mash with Greek yogurt and lime",
+                 "image":"https://www.flavourstreat.com/wp-content/uploads/2023/04/avocado-greek-yogurt-dipping-sauce-recipe-720x720.jpg"
+        }       
+            ]
+        },
+        "53": {
+            "original": "Gyoza",
+            "alternatives": [
+                {"name":"Steamed veggie gyoza with rice wrappers",
+                 "image":"https://www.justonecookbook.com/wp-content/uploads/2020/07/Vegetarian-Gyoza-0986-I-1.jpg"
+            },
+                {"name":"Baked chicken and cabbage gyoza",
+                 "image":"https://valentinascorner.com/wp-content/uploads/2019/02/Chicken-Gyoza-Recipe-13.jpg"
+        }
+            ]
+        },
+        "54": {
+            "original": "Hamburger",
+            "alternatives": [
+                {"name":"Turkey burger on whole grain bun",
+                 "image":"https://media.fooducate.com/comments/images/5F3410B8-5E19-8208-4302-9AA70FD43BF9-92432.jpeg"
+            },
+                {"name":"Lentil and quinoa burger on lettuce wrap",
+                 "image":"https://i.pinimg.com/originals/d2/81/cc/d281ccf30e04114f6eed5714be8ec931.jpg"
+        }
+            ]
+        },
+        "55": {
+            "original": "Hot and sour soup",
+            "alternatives": [
+                {"name":"Veggie broth with tofu, mushrooms, and vinegar",
+                 "image":"https://vegangirlsguide.com/wp-content/uploads/2024/08/veggie-soup-in-mushroom-broth-recipe-1723381137.jpg"
+            },
+                {"name":"Low-sodium mushroom and cabbage soup",
+                 "image":"https://www.eatingwell.com/thmb/b7OlyvMR25DtZldLe8YbcQyhHhY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5349446-d79819113da44717a24b3a0ed498b3aa.jpg"
+        }
+            ]
+        },
+        "56": {
+            "original": "Hot dog",
+            "alternatives": [
+                {"name":"Chicken sausage on whole wheat bun with mustard",
+                 "image":"https://thumbs.dreamstime.com/z/spicy-grilled-sausage-bun-mustard-ketchup-spicy-grilled-sausage-bun-mustard-ketchup-grilled-sausage-278601770.jpg"
+            },
+                {"name":"Veggie dog with sauerkraut and pickles",
+                 "image":"https://veganuary.com/wp-content/uploads/2021/01/Sensational-Hot-Dog-with-Sauerkraut-Pickle-and-Fried-Onion.jpg"
+        }
+            ]
+        },
+        "57": {
+            "original": "Huevos rancheros",
+            "alternatives": [
+                {"name":"Baked black bean huevos rancheros on corn tortilla",
+                 "image":"https://th.bing.com/th/id/OIP.VDnxu-NZc7Bxlh4j79yLQQHaJR?r=0&rs=1&pid=ImgDetMain"
+            },
+                {"name":"Poached eggs with avocado and salsa on whole grain toast",
+                 "image":"https://th.bing.com/th/id/OIP.yvt42UXT9IR65OW-fSp20wHaJQ?r=0&rs=1&pid=ImgDetMain"
+        }
+            ]
+        },
+        "58": {
+            "original": "Hummus",
+            "alternatives": [
+                {"name":"Classic hummus with carrots or cucumber slices",
+                 "image":"https://th.bing.com/th/id/OIP.gpYkQm4FiONlIbo9neZ0RwHaLH?r=0&rs=1&pid=ImgDetMain"
+            },
+                {"name":"Beet or spinach hummus with flax crackers",
+                 "image":"https://th.bing.com/th/id/OIP.tFfX4rRuIocB-tPT2iK4nQHaJ4?r=0&rs=1&pid=ImgDetMain"
+        }
+            ]
+        },
+        "59": {
+            "original": "Ice cream",
+            "alternatives": [
+                {"name":"Banana 'nice cream' with peanut butter",
+                 "image":"https://1.bp.blogspot.com/-KCcRyoDHTVY/XfjL8TMlyLI/AAAAAAAABYE/aaKipaljE28gOvCjenSJiHb2x_ZXc4B2ACLcBGAsYHQ/s1600/PEANUT%2BBUTTER%2BBANANA%2BNICE%2BCREAM-Image.jpg"
+            },
+                {"name":"Coconut milk-based frozen treat with berries",
+                 "image":"https://th.bing.com/th/id/OIP.cxtNLnczyS7Za2m6asGNrwHaHa?r=0&rs=1&pid=ImgDetMain"
+        }
+            ]
+        },
+        "60": {
+            "original": "Lasagna",
+            "alternatives": [
+                {"name":"Zucchini lasagna with turkey and ricotta",
+                 "image":"https://i0.wp.com/www.themodernnonna.com/wp-content/uploads/2021/10/Zucchini-Ricotta-Lasagna-Rollups.jpg?w=1816&ssl=1"
+            },
+               {"name": "Whole wheat pasta lasagna with lentils and spinach",
+                "image":"https://i.pinimg.com/originals/e0/41/1d/e0411d88c78b7107e974949c38713ad2.jpg"
+        }
+            ]
+        },
+        "61": {
+            "original": "Lobster bisque",
+            "alternatives": [
+                {"name":"Light seafood soup with Greek yogurt and herbs",
+                 "image":"https://40aprons.com/wp-content/uploads/2021/09/Seafood-Soup-6-1-scaled.jpg"
+            },
+                {"name":"Lobster chowder with low-fat milk and vegetables",
+                 "image":"https://th.bing.com/th/id/OIP.qT7hZmq4o5CasBd5KLaKwwHaLG?r=0&rs=1&pid=ImgDetMain"
+        }
+            ]
+        },
+        "62": {
+            "original": "Lobster roll sandwich",
+            "alternatives": [
+                {"name":"Lettuce wrap lobster salad with avocado",
+                 "image":"https://i.pinimg.com/originals/9f/e6/53/9fe65337d8112d81666e8dd47cee730a.jpg"
+            },
+                {"name":"Whole grain bun with Greek yogurt lobster mix",
+                 "image":"https://littlespudsnutrition.com/wp-content/uploads/2023/11/PXL_20230805_235831007.PORTRAIT-768x1024.jpg"
+        }
+            ]
+        },
+        "63": {
+            "original": "Macaroni and cheese",
+            "alternatives": [
+                {"name":"Cauliflower mac with nutritional yeast",
+                 "image":"https://whisk-res.cloudinary.com/image/upload/g_auto,g_auto,c_fill,q_60,f_auto,h_600,w_800/v1628460214/v3/user-recipes/cbrfkldah1ob9entscrn.jpg"
+            },
+                {"name":"Whole wheat pasta with light cheese and broccoli",
+                 "image":"https://i.pinimg.com/originals/09/ee/28/09ee2813f002ba5fb1a259c44bf173c5.jpg"
+        }
+            ]
+        },
+        "64": {
+            "original": "Macarons",
+            "alternatives": [
+                {"name":"Almond flour cookies with date paste filling",
+                 "image":"https://www.allrecipes.com/thmb/t0_H29irj3A3bIxcTWj9QFlL1sg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3316658-54093808be1a490da0bc6b4ac2b81d32.jpg"
+            },
+                {"name":"Coconut macaroons with dark chocolate drizzle",
+                 "image":"https://th.bing.com/th/id/OIP.-u9bGj2enK4L9QOiQaXm-gHaKS?r=0&rs=1&pid=ImgDetMain"
+        }
+            ]
+        },
+        "65": {
+            "original": "Miso soup",
+            "alternatives": [
+                {"name":"Low-sodium miso soup with tofu and seaweed",
+                 "image":"https://www.seriouseats.com/thmb/a671VRBN-IC_mYlTpSb_70ppvg4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__03__20160302-miso-soups-feature-vicky-wasik-6-11cb9241d80e4f9a82b57b1d1f153c35.jpg"
+            },
+                {"name":"Vegetable miso soup with mushrooms and greens",
+                 "image":"https://th.bing.com/th/id/R.90f68d886ff01894f0437ce3653ac42d?rik=GZRKTlMXMyH6Ig&riu=http%3a%2f%2fimages.food52.com%2f6Kea9RcNHvxkSmcOWzJnuhmfREM%3d%2f753x502%2f10f53715-5388-42f3-b3d2-a2e8fd8aca54.miso_soup.jpg&ehk=KKY7%2bOAKti0BhtZOaEDm7zTpUeDgLod0hBuDp7hqwnQ%3d&risl=&pid=ImgRaw&r=0"
+        }
+            ]
+        },
+        "66": {
+            "original": "Mussels",
+            "alternatives": [
+                {"name":"Steamed mussels with garlic and herbs",
+                 "image":"https://www.healthyseasonalrecipes.com/wp-content/uploads/2023/01/simple-steamed-mussels-with-garlic-041-700x1050.jpg"
+            },
+                {"name":"Grilled mussels with lemon and olive oil",
+                 "image":"https://i.pinimg.com/736x/9c/49/df/9c49df9fa858c74bd04fd7335e69dbc1--wine-pairings-mussels.jpg"
+        }
+            ]
+        },
+        "67": {
+            "original": "Nachos",
+            "alternatives": [
+                {"name":"Baked tortilla chips with beans, salsa, and avocado",
+                 "image":"https://th.bing.com/th/id/OIP.SbKoehbG_eobU3glxZ4YKAAAAA?r=0&rs=1&pid=ImgDetMain"
+            },
+                {"name":"Sweet potato chips with Greek yogurt dip",
+                 "image":"https://th.bing.com/th/id/OIP.etBzgdofNGhPezSx3YD5iAHaGc?r=0&rs=1&pid=ImgDetMain"
+        }
+            ]
+        },
+        "68": {
+            "original": "Omelette",
+            "alternatives": [
+                "Veggie egg white omelet with spinach and mushrooms",
+                "Tofu scramble with bell peppers and onions"
+            ]
+        },
+        "69": {
+            "original": "Onion rings",
+            "alternatives": [
+                {"name":"Baked onion rings with whole wheat coating",
+                 "image":"https://healinglifestyles.com/wp-content/uploads/2015/06/baked-cornmeal-pepita-crusted-onion-rings-52-21.jpg"
+            },
+                {"name":"Air-fried onion rings with oat flour",
+                 "image":"https://i0.wp.com/sugarspiceslife.com/wp-content/uploads/2021/01/Air-Fried-Onion-Rings-6.jpg?resize=1365%2C2048&ssl=1"
+        }
+            ]
+        },
+        "70": {
+            "original": "Oysters",
+            "alternatives": [
+                {"name":"Grilled oysters with lemon and herbs",
+                 "image":"https://thumbs.dreamstime.com/b/delicate-grilled-oysters-fresh-herbs-zesty-lemon-culinary-masterpiece-dark-plate-perfectly-paired-indulge-349733297.jpg"
+            },
+                {"name":"Raw oysters with mignonette and fresh herbs",
+                 "image":"https://www.inspiredtaste.net/wp-content/uploads/2023/04/Mignonette-Sauce-1200.jpg"
+        }
+            ]
+        },
+        "71": {
+            "original": "Pad Thai",
+            "alternatives": [
+                {"name":"Zucchini noodles with shrimp, tofu, and peanuts",
+                 "image":"https://ifoodreal.com/wp-content/uploads/2017/08/top-pad-thai-zucchini-noodles.jpg"
+            },
+                {"name":"Brown rice pad Thai with lots of veggies",
+                 "image":"https://th.bing.com/th/id/OIP._ebx0ab2clLmKcGQHrFc7gAAAA?r=0&rs=1&pid=ImgDetMain"
+        }
+            ]
+        },
+        "72": {
+            "original": "Paella",
+            "alternatives": [
+                {"name":"Brown rice seafood paella with vegetables",
+                 "image":"https://www.fromachefskitchen.com/wp-content/uploads/2022/10/Brown-Rice-Paella-with-Shrimp-and-Chorizo-19-1024x1536.jpeg"
+            },
+                {"name":"Quinoa paella with shrimp and beans",
+                 "image":"https://skinnyms.com/wp-content/uploads/2013/04/Quinoa-Shrimp-Paella-Dinner-11.jpg"
+        }
+            ]
+        },
+        "73": {
+            "original": "Pancakes",
+            "alternatives": [
+                {"name":"Oat flour pancakes with honey or maple syrup",
+                 "image":"https://organicallyaddison.com/wp-content/uploads/2021/10/oat_flour_pancakes_7-700x1050.jpeg"
+            },
+                {"name":"Banana egg pancakes with almond butter",
+                 "image":"https://bing.com/th?id=OSK.e9bf1f1ab40aaefa00a0fd35e4ccf459"
+        }
+            ]
+        },
+        "74": {
+            "original": "Panna cotta",
+            "alternatives": [
+                {"name":"Greek yogurt panna cotta with berries",
+                 "image":"https://cinnamonandcoriander.com/wp-content/uploads/2020/07/greek-yogurt-panna-cotta-berries-6.jpg"
+            },
+                {"name":"Coconut milk panna cotta with chia seeds",
+                 "image":"https://i.pinimg.com/originals/7f/3c/99/7f3c99789d783fecc85620843d43d467.jpg"
+        }
+            ]
+        },
+        "75": {
+            "original": "Peking duck",
+            "alternatives": [
+                {"name":"Grilled skinless duck breast with hoisin glaze",
+                 "image":"https://th.bing.com/th/id/OIP.iu5sr3Q9WaYLPsBXZlpyeAHaFj?r=0&rs=1&pid=ImgDetMain"
+            },
+                {"name":"Chicken lettuce wraps with Asian spices",
+                 "image":"https://www.thechunkychef.com/wp-content/uploads/2020/10/Asian-Chicken-Lettuce-Wraps-1200.jpg"
+        }
+            ]
+        },
+        "76": {
+            "original": "Pho",
+            "alternatives": [
+                {"name":"Veggie pho with zucchini noodles and lean meat",
+                 "image":"https://healthynibblesandbits.com/wp-content/uploads/2015/07/Quick-Vegetarian-Pho-Recipe-6-681x1024.jpg"
+            },
+                {"name":"Brown rice noodle pho with tofu and herbs",
+                 "image":"https://th.bing.com/th/id/OIP.RVd0MIxvz9eoRP8bwlVX5wAAAA?r=0&rs=1&pid=ImgDetMain"
+        }
+            ]
+        },
+        "77": {
+            "original": "Pizza",
+            "alternatives": [
+                {"name":"Whole wheat crust pizza with veggie toppings",
+                 "image":"https://wdove.b-cdn.net/wp-content/uploads/2020/06/Whole-Wheat-Veggie-Pizza-1.jpg"
+            },
+                {"name":"Cauliflower crust pizza with tomato and light cheese",
+                 "image":"https://www.ambitiouskitchen.com/wp-content/uploads/2021/03/Cauliflower-Pizza-Crust-12-916x1374.jpg"
+        }
+            ]
+        },
+        "78": {
+            "original": "Pork chop",
+            "alternatives": [
+                {"name":"Grilled lean pork loin with herbs",
+                 "image":"https://easyweeknightrecipes.com/wp-content/uploads/2021/10/pork-loin-roast-with-vegetables-9.jpg"
+            },
+                {"name":"Baked pork medallions with roasted veggies",
+                 "image":"https://th.bing.com/th/id/OIP.Zt_c9PvpDyEteFUIlEcRAAAAAA?r=0&rs=1&pid=ImgDetMain"
+        }
+            ]
+        },
+        "79": {
+            "original": "Poutine",
+            "alternatives": [
+                {"name":"Baked sweet potato fries with light cheese and mushroom gravy",
+                 "image":"https://thefirstmess.com/wp-content/uploads/2017/10/24-9184-post/vegan-crispy-baked-sweet-potato-fries-9.jpg"
+            },
+                {"name":"Mashed cauliflower with peas and cheese crumbles",
+                 "image":"https://www.trialandeater.com/wp-content/uploads/2020/02/Cauliflower-cheese-and-peas-Recipe-Trial-and-Eater-17.jpg"
+        }
+            ]
+        },
+        "80": {
+            "original": "Prime rib",
+            "alternatives": [
+                {"name":"Lean roast beef with herbs and steamed greens",
+                 "image":"https://thumbs.dreamstime.com/b/delicious-piece-healthy-lean-roast-beef-medium-rare-sliced-served-wooden-cutting-board-garnished-fresh-herbs-309395570.jpg"
+            },
+                {"name":"Grilled sirloin with roasted vegetables",
+                 "image":"https://thumbs.dreamstime.com/z/grilled-sirloin-steak-grilled-vegetables-grilled-sirloin-steak-grilled-vegetables-103391880.jpg"
+        }
+            ]
+        },
+        "81": {
+            "original": "Pulled pork sandwich",
+            "alternatives": [
+                {"name":"Shredded chicken on whole wheat bun",
+                 "image":"https://th.bing.com/th/id/OIP.NQADA2doKzFOr8x0IV0iPAHaFj?r=0&rs=1&pid=ImgDetMain"
+            },
+                {"name":"Pulled jackfruit with BBQ spices on lettuce wrap",
+                 "image":"https://steenbergs.co.uk/image?w=800&h=503&fit=crop-50-50&src=production%2Fcms%2Fprocessed%2F602021c761b3015e6ea57316f0e79f98.png&s=110a84bd89318077f9dbc68df29be324"
+        }
+            ]
+        },
+        "82": {
+            "original": "Ramen",
+            "alternatives": [
+                {"name":"carrot noodles in veggie broth",
+                 "image":"https://64.media.tumblr.com/a109b475af14774518e89e9390145059/tumblr_ngbwqdWEHH1r6bchgo1_1280.jpg"
+            },
+               {"name": "Zucchini noodles in veggie broth with egg",
+                "image":"https://yupitsvegan.com/wp-content/uploads/2019/01/one-pot-creamy-garlic-zucchini-noodles-.jpg"
+        }
+            ]
+        },
+        "83": {
+            "original": "Ravioli",
+            "alternatives": [
+                {"name":"Whole wheat ravioli with spinach and ricotta",
+                 "image":"https://th.bing.com/th/id/OIP.hKLPnX8xL7UAqk4KCnGNJQAAAA?r=0&rs=1&pid=ImgDetMain"
+            },
+                {"name":"Zucchini ravioli stuffed with low-fat cheese",
+                 "image":"https://www.liveeatlearn.com/wp-content/uploads/2024/06/zucchini-ravioli-17.jpg"
+        }
+            ]
+        },
+        "84": {
+            "original": "Red velvet cake",
+            "alternatives": [
+                {"name":"Beet-based cocoa cake with light frosting",
+                 "image":"https://www.allrecipes.com/thmb/iVE5ynCrMCwe3l_0oLCxzPFRLcQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chocolate-Beet-Cake-with-Beet-Vanilla-Glaze-b501140f5f9048a2aa8174015559a5b1.jpg"
+            },
+                {"name":"Whole grain red velvet muffins with Greek yogurt",
+                 "image":"https://insanelygoodrecipes.com/wp-content/uploads/2024/06/red-velvet-muffins-3-750x1125.jpg"
+        }
+            ]
+        },
+        "85": {
+            "original": "Risotto",
+            "alternatives": [
+                {"name":"Quinoa risotto with mushrooms",
+                 "image":"https://th.bing.com/th/id/OIP.SctH5gox3d3bTGBAklOSmwHaKC?r=0&rs=1&pid=ImgDetMain"
+            },
+               {"name": "Barley risotto with peas and herbs",
+                "image":"https://images.ctfassets.net/uw7yiu2kuigc/6HGWGiShYddmaqhxOAK3Lr/1339afbfd1ddd21f71bd573bdf53efd3/Barley-Risotto-with-Peas-Lead.jpg"
+        }
+            ]
+        },
+        "86": {
+            "original": "Samosa",
+            "alternatives": [
+                {"name":"Baked samosas with sweet potato and peas",
+                 "image":"https://culinaryginger.com/wp-content/uploads/Sweet-Potato-Samosas-recipe-42--735x1101.jpg"
+            },
+                {"name":"Phyllo pastry samosas with lentil filling",
+                 "image":"https://th.bing.com/th/id/OIP.n9WEJT4J0dsHQsW41L8mOAHaFj?r=0&rs=1&pid=ImgDetMain"
+        }
+            ]
+        },
+        "87": {
+            "original": "Sashimi",
+            "alternatives": [
+                {"name":"sashimi serve with low-sodium soy sauce",
+                 "image":"https://th.bing.com/th/id/OIP.hLwhCOrTj2Uwi_hF7NT2lQHaEK?r=0&rs=1&pid=ImgDetMain"
+            },
+                {"name":"Tuna sashimi with avocado slices",
+                 "image":"https://thumbs.dreamstime.com/z/sashimi-tuna-avocado-ahi-delicious-raw-sliced-fish-black-background-traditional-japanese-cuisine-maguro-tataki-ponzu-243186474.jpg"
+        }
+            ]
+        },
+        "88": {
+            "original": "Scallops",
+            "alternatives": [
+                {"name":"Grilled scallops with citrus glaze",
+                 "image":"https://th.bing.com/th/id/OIP.9o0N6w-EjhUUdU1B0h26dAHaLG?r=0&rs=1&pid=ImgDetMain"
+            },
+                {"name":"Seared scallops with garlic and parsley",
+                 "image":"https://www.livingnorth.com/images/media/articles/food-and-drink/recipes/Seared%20Scallops%20Linguine%201.jpg?fm=pjpg&w=1000&q=95"
+        }
+            ]
+        },
+        "89": {
+            "original": "Seaweed salad",
+            "alternatives": [
+                {"name":"Seaweed use reduced-sodium soy",
+                 "image":"https://3.bp.blogspot.com/-UAaB4mDBep4/WcuoIqLQT6I/AAAAAAAAABQ/9g5gi9DC0no_qBwlYzkVrZv-PGxrrzIbACLcBGAs/s1600/What%2Bare%2Bthe%2Bbenefits%2Bof%2Bseaweed%2Bsalad.jpg"
+            },
+                {"name":"Mixed greens with seaweed and sesame seeds",
+                 "image":"https://img.freepik.com/premium-photo/bowl-green-seaweed-salad-with-sesame-seeds_1287986-5333.jpg"
+        }
+            ]
+        },
+        "90": {
+            "original": "Shrimp and grits",
+            "alternatives": [
+                {"name":"Cauliflower grits with grilled shrimp",
+                 "image":"https://www.jessicagavin.com/wp-content/uploads/2016/12/sauteed-spicy-shrimp-with-cauliflower-grits.jpg"
+            },
+                {"name":"Polenta with sautéed shrimp and spinach",
+                 "image":"https://th.bing.com/th/id/R.d6f802c219f5c21b4011b533a9b51f5d?rik=CWq4iwE5nDLexQ&riu=http%3a%2f%2fwww.nutmegnanny.com%2fwp-content%2fuploads%2f2014%2f04%2fspicy-shrimp-over-creamy-polenta-20.jpg.jpg&ehk=HGYXjxjCKBt8paj1GjLJ42he5eGLlvQMC%2bvF8GoqVsQ%3d&risl=&pid=ImgRaw&r=0"
+        }
+            ]
+        },
+        "91": {
+            "original": "Spaghetti Bolognese",
+            "alternatives": [
+                {"name":"Whole wheat pasta with lentil Bolognese",
+                 "image":"https://i.pinimg.com/originals/8c/1d/b0/8c1db096293b921ab6a719294a4dc303.jpg"
+            },
+                {"name":"Zoodles with turkey meat sauce",
+                 "image":"https://th.bing.com/th/id/OIP.CszTTz5QDRusIUZlNdgjsAHaLG?r=0&rs=1&pid=ImgDetMain"
+        }
+            ]
+        },
+        "92": {
+            "original": "Spaghetti Carbonara",
+            "alternatives": [
+                {"name":"Zoodles with egg whites and turkey bacon",
+                 "image":"https://mollyshomeguide.com/wp-content/uploads/2024/10/image_9d1d294993ca495fa266f3b042d6c94a.jpg"
+            },
+               {"name": "Whole grain pasta with Greek yogurt sauce",
+                "image":"https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,w_1460/k/Photo/Series/2020-03-Trending-Recipe-Greek-Yogurt-Pasta/2020_trending_greekyogurtpasta1_026"
+        }
+            ]
+        },
+        "93": {
+            "original": "Spring rolls",
+            "alternatives": [
+                {"name":"Fresh veggie rolls in rice paper with peanut dip",
+                 "image":",https://mypureplants.com/wp-content/uploads/2021/05/rice-paper-wrappers-guide-feat-720x720.jpg"
+            },
+               {"name": "Lettuce wraps with tofu and julienned vegetables",
+                "image":"https://cdn.prod.website-files.com/60da4419d98adf0a36dc660e/6282c09f82fd1d3a2e36f03f_PfChangsTofuLettuceWraps-12.jpg"
+        }
+            ]
+        },
+        "94": {
+            "original": "Steak",
+            "alternatives": [
+               {"name": "Grilled sirloin with steamed vegetables",
+                "image":"https://thumbs.dreamstime.com/b/two-pieces-cooked-sirloin-steak-veggies-steamed-broccoli-other-vegetables-plate-78965262.jpg"
+            },
+                {"name":"Lean flank steak with roasted sweet potatoes",
+                 "image":"https://thegoodlifemealprep.com/data/meals/173.jpg?md=995af72cc273501a5f0f400e28a11e3a"
+        }
+            ]
+        },
+        "95": {
+            "original": "Strawberry shortcake",
+            "alternatives": [
+                {"name":"Whole wheat biscuit with Greek yogurt and berries",
+                 "image":"https://th.bing.com/th/id/OIP.MpWcAxKHHz5QuN6oZIvvNgHaE7?r=0&rs=1&pid=ImgDetMain"
+            },
+                {"name":"Almond flour shortcake with fresh strawberries",
+                 "image":"https://th.bing.com/th/id/OIP.QojHwgRBQojiyBtnkftIaQHaI5?r=0&rs=1&pid=ImgDetMain"
+        }
+            ]
+        },
+        "96": {
+            "original": "Sushi",
+            "alternatives": [
+                {"name":"Brown rice bowl with tofu and steamed veggies",
+                 "image":"https://th.bing.com/th/id/OIP.cSnpOfvFFvIWojP1FKyIwQHaE8?r=0&rs=1&pid=ImgDetMain"
+            },
+               {"name": "Cucumber-wrapped sushi with lean fish",
+                "image":"https://images.squarespace-cdn.com/content/v1/568e8fe6b204d5cbecd5c77e/1716646090821-ANGHB27BE2V3MTQD5EUO/Cucumber+Sushi-0906-2.jpg"
+        }
+            ]
+        },
+        "97": {
+            "original": "Tacos",
+            "alternatives": [
+                {"name":"Lettuce wraps with grilled fish or beans",
+                 "image":"https://ifyougiveagirlagrill.com/wp-content/uploads/2022/06/IMG_1620.jpg"
+            },
+                {"name":"Corn tortillas with grilled veggies and avocado",
+                 "image":"https://th.bing.com/th/id/OIP.DoQUaCqS7m21nT_00V6CoQHaFj?r=0&rs=1&pid=ImgDetMain"
+        }
+            ]
+        },
+        "98": {
+            "original": "Takoyaki",
+            "alternatives": [
+                {"name":"Baked veggie-filled balls with sesame oil",
+                 "image":"https://th.bing.com/th/id/OIP.qG4Or2Cxd5lwnSaPpqG5XQHaJ1?r=0&rs=1&pid=ImgDetMain"
+            },
+                {"name":"Mini tofu balls with scallions and ginger",
+                 "image":"https://www.bravabod.com/wp-content/uploads/2023/05/Tofu-with-Ginger-Scallion-Sauce_C.jpg"
+        }
+            ]
+        },
+        "99": {
+            "original": "Tiramisu",
+            "alternatives": [
+               {"name": "Greek yogurt tiramisu with espresso-soaked oats",
+                "image":"https://th.bing.com/th/id/OIP.3HI4TrL7lrOoQzD4Pna4dwHaKX?r=0&rs=1&pid=ImgDetMain"
+            },
+               {"name": "Cottage cheese tiramisu with cocoa and almond flour",
+                "image":"https://everydfood.com/wp-content/uploads/2023/10/cottage-cheese-tiramisu-step-9.jpeg"
+        }
+            ]
+        },
+        "100": {
+            "original": "Tuna tartare",
+            "alternatives": [
+                {"name":" tuna tartare serve with avocado and citrus",
+                 "image":"https://i.ytimg.com/vi/7b0dh_baAcc/maxresdefault.jpg"
+            },
+                {"name":"Tuna-avocado tartare with cucumber slices",
+                 "image":"https://th.bing.com/th/id/OIP.wUoNduYSXawICKhS-r8NjAHaFE?r=0&rs=1&pid=ImgDetMain"
+        }
+            ]
+        },
+        "101": {
+            "original": "Waffles",
+            "alternatives": [
+                {"name":"Oat flour waffles topped with fruit and yogurt",
+                 "image":"https://itsnotcomplicatedrecipes.com/wp-content/uploads/2023/03/Oat-Flour-Waffles-2-1024x1536.jpg"
+            },
+                {"name":"Whole grain waffles with nut butter and banana",
+                 "image":"https://www.cookincanuck.com/wp-content/uploads/2019/02/Whole-Wheat-Banana-Walnut-Waffles-Recipe-Cookin-Canuck-4.jpg"
+        }
+            ]
+        }
+    }
