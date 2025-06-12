@@ -2,7 +2,6 @@ from flask import Flask, request, jsonify
 from PIL import Image
 import torch
 from torchvision import models, transforms
-import os
 import json
 import re
 
@@ -115,10 +114,9 @@ def predict():
 
     return jsonify(response), 200
 
-
-if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 10000))  # use PORT provided by Render, fallback to 10000
-    app.run(host="0.0.0.0", port=port)
+import os
+port = int(os.environ.get("PORT", 5000))
+app.run(host="0.0.0.0", port=port)
 
 
 
