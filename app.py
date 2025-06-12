@@ -4,13 +4,14 @@ import torch
 from torchvision import models, transforms
 import json
 import re
+from torchvision.models import ResNet50_Weights
 
 # Flask app
 app = Flask(__name__)
 
 # Load Model and Classes
 num_classes = 101
-model = models.resnet50(pretrained=False)
+model = models.resnet50(weights=None)
 model.fc = torch.nn.Linear(model.fc.in_features, num_classes)
 model.load_state_dict(torch.load('best_food101_model.pth', map_location='cpu'))
 model.eval()
@@ -116,7 +117,7 @@ def predict():
 
 import os
 port = int(os.environ.get("PORT", 5000))
-app.run(host="0.0.0.0", port=port)
+app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
 
 
 
